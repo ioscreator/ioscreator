@@ -1,0 +1,305 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E2FF87971608CC9C00FA4208 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2FF87961608CC9C00FA4208 /* UIKit.framework */; };
+		E2FF87991608CC9C00FA4208 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2FF87981608CC9C00FA4208 /* Foundation.framework */; };
+		E2FF879B1608CC9C00FA4208 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2FF879A1608CC9C00FA4208 /* CoreGraphics.framework */; };
+		E2FF87A11608CC9C00FA4208 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E2FF879F1608CC9C00FA4208 /* InfoPlist.strings */; };
+		E2FF87A31608CC9C00FA4208 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E2FF87A21608CC9C00FA4208 /* main.m */; };
+		E2FF87A71608CC9C00FA4208 /* iOSAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E2FF87A61608CC9C00FA4208 /* iOSAppDelegate.m */; };
+		E2FF87A91608CC9C00FA4208 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = E2FF87A81608CC9C00FA4208 /* Default.png */; };
+		E2FF87AB1608CC9C00FA4208 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E2FF87AA1608CC9C00FA4208 /* Default@2x.png */; };
+		E2FF87AD1608CC9C00FA4208 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E2FF87AC1608CC9C00FA4208 /* Default-568h@2x.png */; };
+		E2FF87B01608CC9C00FA4208 /* iOSViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E2FF87AF1608CC9C00FA4208 /* iOSViewController.m */; };
+		E2FF87B31608CC9C00FA4208 /* iOSViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E2FF87B11608CC9C00FA4208 /* iOSViewController.xib */; };
+		E2FF87BB1608CCB900FA4208 /* iOSView.m in Sources */ = {isa = PBXBuildFile; fileRef = E2FF87BA1608CCB900FA4208 /* iOSView.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		E2FF87921608CC9C00FA4208 /* Drawing Gradients.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Drawing Gradients.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E2FF87961608CC9C00FA4208 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		E2FF87981608CC9C00FA4208 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		E2FF879A1608CC9C00FA4208 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		E2FF879E1608CC9C00FA4208 /* Drawing Gradients-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Drawing Gradients-Info.plist"; sourceTree = "<group>"; };
+		E2FF87A01608CC9C00FA4208 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		E2FF87A21608CC9C00FA4208 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E2FF87A41608CC9C00FA4208 /* Drawing Gradients-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Drawing Gradients-Prefix.pch"; sourceTree = "<group>"; };
+		E2FF87A51608CC9C00FA4208 /* iOSAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iOSAppDelegate.h; sourceTree = "<group>"; };
+		E2FF87A61608CC9C00FA4208 /* iOSAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOSAppDelegate.m; sourceTree = "<group>"; };
+		E2FF87A81608CC9C00FA4208 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		E2FF87AA1608CC9C00FA4208 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		E2FF87AC1608CC9C00FA4208 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		E2FF87AE1608CC9C00FA4208 /* iOSViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iOSViewController.h; sourceTree = "<group>"; };
+		E2FF87AF1608CC9C00FA4208 /* iOSViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOSViewController.m; sourceTree = "<group>"; };
+		E2FF87B21608CC9C00FA4208 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/iOSViewController.xib; sourceTree = "<group>"; };
+		E2FF87B91608CCB900FA4208 /* iOSView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iOSView.h; sourceTree = "<group>"; };
+		E2FF87BA1608CCB900FA4208 /* iOSView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iOSView.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E2FF878F1608CC9C00FA4208 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2FF87971608CC9C00FA4208 /* UIKit.framework in Frameworks */,
+				E2FF87991608CC9C00FA4208 /* Foundation.framework in Frameworks */,
+				E2FF879B1608CC9C00FA4208 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E2FF87871608CC9C00FA4208 = {
+			isa = PBXGroup;
+			children = (
+				E2FF879C1608CC9C00FA4208 /* Drawing Gradients */,
+				E2FF87951608CC9C00FA4208 /* Frameworks */,
+				E2FF87931608CC9C00FA4208 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E2FF87931608CC9C00FA4208 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E2FF87921608CC9C00FA4208 /* Drawing Gradients.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E2FF87951608CC9C00FA4208 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E2FF87961608CC9C00FA4208 /* UIKit.framework */,
+				E2FF87981608CC9C00FA4208 /* Foundation.framework */,
+				E2FF879A1608CC9C00FA4208 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E2FF879C1608CC9C00FA4208 /* Drawing Gradients */ = {
+			isa = PBXGroup;
+			children = (
+				E2FF87A51608CC9C00FA4208 /* iOSAppDelegate.h */,
+				E2FF87A61608CC9C00FA4208 /* iOSAppDelegate.m */,
+				E2FF87AE1608CC9C00FA4208 /* iOSViewController.h */,
+				E2FF87AF1608CC9C00FA4208 /* iOSViewController.m */,
+				E2FF87B11608CC9C00FA4208 /* iOSViewController.xib */,
+				E2FF87B91608CCB900FA4208 /* iOSView.h */,
+				E2FF87BA1608CCB900FA4208 /* iOSView.m */,
+				E2FF879D1608CC9C00FA4208 /* Supporting Files */,
+			);
+			path = "Drawing Gradients";
+			sourceTree = "<group>";
+		};
+		E2FF879D1608CC9C00FA4208 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E2FF879E1608CC9C00FA4208 /* Drawing Gradients-Info.plist */,
+				E2FF879F1608CC9C00FA4208 /* InfoPlist.strings */,
+				E2FF87A21608CC9C00FA4208 /* main.m */,
+				E2FF87A41608CC9C00FA4208 /* Drawing Gradients-Prefix.pch */,
+				E2FF87A81608CC9C00FA4208 /* Default.png */,
+				E2FF87AA1608CC9C00FA4208 /* Default@2x.png */,
+				E2FF87AC1608CC9C00FA4208 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E2FF87911608CC9C00FA4208 /* Drawing Gradients */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E2FF87B61608CC9C00FA4208 /* Build configuration list for PBXNativeTarget "Drawing Gradients" */;
+			buildPhases = (
+				E2FF878E1608CC9C00FA4208 /* Sources */,
+				E2FF878F1608CC9C00FA4208 /* Frameworks */,
+				E2FF87901608CC9C00FA4208 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Drawing Gradients";
+			productName = "Drawing Gradients";
+			productReference = E2FF87921608CC9C00FA4208 /* Drawing Gradients.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E2FF87891608CC9C00FA4208 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = iOS;
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = iOSCreator;
+			};
+			buildConfigurationList = E2FF878C1608CC9C00FA4208 /* Build configuration list for PBXProject "Drawing Gradients" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = E2FF87871608CC9C00FA4208;
+			productRefGroup = E2FF87931608CC9C00FA4208 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E2FF87911608CC9C00FA4208 /* Drawing Gradients */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E2FF87901608CC9C00FA4208 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2FF87A11608CC9C00FA4208 /* InfoPlist.strings in Resources */,
+				E2FF87A91608CC9C00FA4208 /* Default.png in Resources */,
+				E2FF87AB1608CC9C00FA4208 /* Default@2x.png in Resources */,
+				E2FF87AD1608CC9C00FA4208 /* Default-568h@2x.png in Resources */,
+				E2FF87B31608CC9C00FA4208 /* iOSViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E2FF878E1608CC9C00FA4208 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E2FF87A31608CC9C00FA4208 /* main.m in Sources */,
+				E2FF87A71608CC9C00FA4208 /* iOSAppDelegate.m in Sources */,
+				E2FF87B01608CC9C00FA4208 /* iOSViewController.m in Sources */,
+				E2FF87BB1608CCB900FA4208 /* iOSView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		E2FF879F1608CC9C00FA4208 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E2FF87A01608CC9C00FA4208 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		E2FF87B11608CC9C00FA4208 /* iOSViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E2FF87B21608CC9C00FA4208 /* en */,
+			);
+			name = iOSViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		E2FF87B41608CC9C00FA4208 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		E2FF87B51608CC9C00FA4208 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E2FF87B71608CC9C00FA4208 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Drawing Gradients/Drawing Gradients-Prefix.pch";
+				INFOPLIST_FILE = "Drawing Gradients/Drawing Gradients-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		E2FF87B81608CC9C00FA4208 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Drawing Gradients/Drawing Gradients-Prefix.pch";
+				INFOPLIST_FILE = "Drawing Gradients/Drawing Gradients-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E2FF878C1608CC9C00FA4208 /* Build configuration list for PBXProject "Drawing Gradients" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E2FF87B41608CC9C00FA4208 /* Debug */,
+				E2FF87B51608CC9C00FA4208 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E2FF87B61608CC9C00FA4208 /* Build configuration list for PBXNativeTarget "Drawing Gradients" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E2FF87B71608CC9C00FA4208 /* Debug */,
+				E2FF87B81608CC9C00FA4208 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E2FF87891608CC9C00FA4208 /* Project object */;
+}

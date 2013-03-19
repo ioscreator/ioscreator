@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="2.0" toolsVersion="2844" systemVersion="12C60" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="Aau-U8-nDA">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="1930"/>
+    </dependencies>
+    <scenes>
+        <!--Movies View Controller - Top Movies-->
+        <scene sceneID="pEh-Hd-erh">
+            <objects>
+                <tableViewController id="tvO-rj-bHY" customClass="MoviesViewController" sceneMemberID="viewController">
+                    <tableView key="view" opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" rowHeight="100" sectionHeaderHeight="22" sectionFooterHeight="22" id="t3v-G8-Fdg">
+                        <rect key="frame" x="0.0" y="64" width="320" height="504"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="MovieCell" rowHeight="100" id="ueQ-Lf-HHf" customClass="MovieCell">
+                                <rect key="frame" x="0.0" y="22" width="320" height="100"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                                    <rect key="frame" x="0.0" y="0.0" width="320" height="99"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="54E-k5-SSQ">
+                                            <constraints>
+                                                <constraint firstAttribute="height" constant="40" id="Ujr-ez-gZf"/>
+                                                <constraint firstAttribute="width" constant="220" id="aHH-Kf-DbO"/>
+                                            </constraints>
+                                            <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                            <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                            <color key="highlightedColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        </label>
+                                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tuN-Ne-hQd">
+                                            <constraints>
+                                                <constraint firstAttribute="height" constant="40" id="1LG-JY-S47"/>
+                                            </constraints>
+                                            <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                            <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                            <color key="highlightedColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        </label>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" translatesAutoresizingMaskIntoConstraints="NO" id="ZBY-vK-eKP">
+                                            <constraints>
+                                                <constraint firstAttribute="width" constant="60" id="Nxz-wM-MOp"/>
+                                            </constraints>
+                                        </imageView>
+                                    </subviews>
+                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                </view>
+                                <constraints>
+                                    <constraint firstItem="ZBY-vK-eKP" firstAttribute="leading" secondItem="tuN-Ne-hQd" secondAttribute="trailing" constant="8" symbolic="YES" type="default" id="6zH-fE-3gw"/>
+                                    <constraint firstItem="ZBY-vK-eKP" firstAttribute="leading" secondItem="54E-k5-SSQ" secondAttribute="trailing" constant="8" symbolic="YES" type="default" id="7gf-hP-Swm"/>
+                                    <constraint firstItem="tuN-Ne-hQd" firstAttribute="bottom" secondItem="ZBY-vK-eKP" secondAttribute="bottom" type="default" id="8aB-U7-Ymf"/>
+                                    <constraint firstItem="ZBY-vK-eKP" firstAttribute="centerY" secondItem="ueQ-Lf-HHf" secondAttribute="centerY" type="default" id="KzT-gK-lAF"/>
+                                    <constraint firstItem="54E-k5-SSQ" firstAttribute="leading" secondItem="ueQ-Lf-HHf" secondAttribute="leading" constant="20" type="default" id="SO4-sN-D7x"/>
+                                    <constraint firstAttribute="bottom" secondItem="tuN-Ne-hQd" secondAttribute="bottom" constant="10" id="TJY-1Z-i7J"/>
+                                    <constraint firstItem="54E-k5-SSQ" firstAttribute="top" secondItem="ZBY-vK-eKP" secondAttribute="top" type="default" id="egJ-PN-S84"/>
+                                    <constraint firstItem="tuN-Ne-hQd" firstAttribute="leading" secondItem="ueQ-Lf-HHf" secondAttribute="leading" constant="20" type="default" id="gbJ-Ge-aEd"/>
+                                </constraints>
+                                <connections>
+                                    <outlet property="posterImageView" destination="ZBY-vK-eKP" id="YvW-1u-JUw"/>
+                                    <outlet property="titleLabel" destination="54E-k5-SSQ" id="vrk-Qo-SbN"/>
+                                    <outlet property="yearLabel" destination="tuN-Ne-hQd" id="dcL-PP-jvi"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="tvO-rj-bHY" id="FVI-6x-ZH4"/>
+                            <outlet property="delegate" destination="tvO-rj-bHY" id="jQT-Xa-iyy"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" title="Top Movies" id="frJ-pV-4Qv"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="T25-kn-6ib" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1449" y="-47"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="Wxw-eP-NmT">
+            <objects>
+                <navigationController id="Aau-U8-nDA" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="rq9-nG-WpQ">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="tvO-rj-bHY" kind="relationship" relationship="rootViewController" id="wKe-o2-Him"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="oXy-A6-ksh" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1027" y="-47"/>
+        </scene>
+    </scenes>
+    <classes>
+        <class className="MovieCell" superclassName="UITableViewCell">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/MovieCell.h"/>
+            <relationships>
+                <relationship kind="outlet" name="posterImageView" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="titleLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="yearLabel" candidateClass="UILabel"/>
+            </relationships>
+        </class>
+        <class className="MoviesViewController" superclassName="UITableViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/MoviesViewController.h"/>
+        </class>
+        <class className="NSLayoutConstraint" superclassName="NSObject">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/NSLayoutConstraint.h"/>
+        </class>
+    </classes>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedStatusBarMetrics key="statusBar"/>
+        <simulatedOrientationMetrics key="orientation"/>
+        <simulatedScreenMetrics key="destination" type="retina4"/>
+    </simulatedMetricsContainer>
+</document>
