@@ -13,9 +13,9 @@ CODE EXAMPLES REPOSITORY
 
 INDEX
 
-ShakeGestureDemo - http://ioscreator.com/detect-shake-gesture-on-a-device/
-ProgressViewDemo - http://ioscreator.com/display-a-progress-bar/
-ActivityIndicatorDemo - http://ioscreator.com/display-an-activity-indicator/
+ShakeGestureDemo - http://ioscreator.com/detect-shake-gesture-on-a-device/  
+ProgressViewDemo - http://ioscreator.com/display-a-progress-bar/  
+ActivityIndicatorDemo - http://ioscreator.com/display-an-activity-indicator/  
 
 
 ===========================================================================================================
