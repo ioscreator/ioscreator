@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 19-March-2013
+  This README last updated: 23-March-2013
 ===========================================================================================================
 
 INDEX
@@ -45,6 +45,13 @@ DrawingCirclesWithUITouch - http://ioscreator.com/drawing-circles-with-uitouch/
 UISliderTutorial - http://ioscreator.com/change-values-with-uislider/  
 ScrollViewWithPaging - http://ioscreator.com/scrollview-with-paging/  
 ViewWebsite - http://ioscreator.com/loading-a-website-with-uiwebview/  
+FileManagementDemo - http://ioscreator.com/ios-file-management/  
+indexedTableDemo - http://ioscreator.com/create-indexed-tableview/  
+PlacemarkDemo - http://ioscreator.com/display-placemarks-with-mapkit/  
+JSONDemo - http://ioscreator.com/parsing-json-data/  
+SocialSharingDemo - http://ioscreator.com/social-sharing-in-ios-6-the-activity-viewcontroller/  
+EmailDemo - http://ioscreator.com/send-email-from-an-app/  
+CameraApp - http://ioscreator.com/take-photo-with-the-camera/  
 
 
 ===========================================================================================================
