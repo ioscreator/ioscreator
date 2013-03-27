@@ -52,7 +52,7 @@ JSONDemo - http://ioscreator.com/parsing-json-data/
 SocialSharingDemo - http://ioscreator.com/social-sharing-in-ios-6-the-activity-viewcontroller/  
 EmailDemo - http://ioscreator.com/send-email-from-an-app/  
 CameraApp - http://ioscreator.com/take-photo-with-the-camera/  
-
+ScalingViewDemo - http://ioscreator.com/scaling-views/  
 
 ===========================================================================================================
 
