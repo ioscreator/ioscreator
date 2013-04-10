@@ -54,6 +54,7 @@ EmailDemo - http://ioscreator.com/send-email-from-an-app/
 CameraApp - http://ioscreator.com/take-photo-with-the-camera/  
 ScalingViewDemo - http://ioscreator.com/scaling-views/  
 ImageAspectRatioDemo - http://ioscreator.com/auto-layout-in-ios-6-keep-aspect-ratio-of-image/  
+MessageDemo - http://ioscreator.com/sending-text-messages-from-an-app/  
 
 ===========================================================================================================
 
