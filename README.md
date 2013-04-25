@@ -57,6 +57,7 @@ ImageAspectRatioDemo - http://ioscreator.com/auto-layout-in-ios-6-keep-aspect-ra
 MessageDemo - http://ioscreator.com/sending-text-messages-from-an-app/  
 CopyTextDemo - http://ioscreator.com/copy-text-with-uipastebin/  
 FaceBookPostDemo - http://ioscreator.com/social-sharing-in-ios-6-post-to-facebook/  
+RecordVideoDemo - http://ioscreator.com/play-and-record-videos-in-ios/  
 
 ===========================================================================================================
 
