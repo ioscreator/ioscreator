@@ -59,6 +59,7 @@ CopyTextDemo - http://ioscreator.com/copy-text-with-uipastebin/
 FaceBookPostDemo - http://ioscreator.com/social-sharing-in-ios-6-post-to-facebook/  
 RecordVideoDemo - http://ioscreator.com/play-and-record-videos-in-ios/  
 CenteringViewsDemo - http://ioscreator.com/auto-layout-in-ios-6-centering-views/  
+SplitViewControllerDemo - http://ioscreator.com/create-a-splitviewcontroller-on-the-ipad  
 
 
 ===========================================================================================================
