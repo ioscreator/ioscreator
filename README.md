@@ -61,6 +61,7 @@ RecordVideoDemo 		- http://ioscreator.com/play-and-record-videos-in-ios/
 CenteringViewsDemo 		- http://ioscreator.com/auto-layout-in-ios-6-centering-views/  
 SplitViewControllerDemo 	- http://ioscreator.com/create-a-splitviewcontroller-on-the-ipad  
 ActivityControllerStatusBarDemo	- http://ioscreator.com/display-an-activity-indicator-in-the-status-bar  
+PopoverDemo			- http://ioscreator.com/display-popovers-on-the-ipad  
 
 ===========================================================================================================
 
