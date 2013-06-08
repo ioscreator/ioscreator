@@ -62,6 +62,9 @@ CenteringViewsDemo 		- http://ioscreator.com/auto-layout-in-ios-6-centering-view
 SplitViewControllerDemo 	- http://ioscreator.com/create-a-splitviewcontroller-on-the-ipad  
 ActivityControllerStatusBarDemo	- http://ioscreator.com/display-an-activity-indicator-in-the-status-bar  
 PopoverDemo			- http://ioscreator.com/display-popovers-on-the-ipad  
+ShadowButtonDemo		- http://ioscreator.com/add-shadow-to-a-button  
+ChangeVolumeDemo		- http://ioscreator.com/changing-volume-output  
+
 
 ===========================================================================================================
 
