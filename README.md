@@ -64,6 +64,7 @@ ActivityControllerStatusBarDemo	- http://ioscreator.com/display-an-activity-indi
 PopoverDemo			- http://ioscreator.com/display-popovers-on-the-ipad  
 ShadowButtonDemo		- http://ioscreator.com/add-shadow-to-a-button  
 ChangeVolumeDemo		- http://ioscreator.com/changing-volume-output  
+CustomFontDemo			- http://ioscreator.com/using-custom-fonts  
 
 
 ===========================================================================================================
