@@ -66,6 +66,8 @@ ShadowButtonDemo		- http://ioscreator.com/add-shadow-to-a-button
 ChangeVolumeDemo		- http://ioscreator.com/changing-volume-output  
 CustomFontDemo			- http://ioscreator.com/using-custom-fonts  
 AddItemTableViewDemo		- http://ioscreator.com/add-rows-to-tableview  
+PinchImageDemo			- http://ioscreator.com/scale-image-with-uipinchgesturerecognizer  
+
 
 
 
