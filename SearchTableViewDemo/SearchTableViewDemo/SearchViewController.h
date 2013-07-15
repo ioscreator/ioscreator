@@ -1,0 +1,13 @@
+//
+//  SearchViewController.h
+//  SearchTableViewDemo
+//
+//  Created by Arthur Knopper on 14-07-13.
+//  Copyright (c) 2013 Arthur Knopper. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface SearchViewController : UITableViewController
+
+@end

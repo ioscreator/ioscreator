@@ -69,6 +69,7 @@ AddItemTableViewDemo		- http://ioscreator.com/add-rows-to-tableview
 PinchImageDemo			- http://ioscreator.com/scale-image-with-uipinchgesturerecognizer  
 DeleteItemTableViewDemo		- http://ioscreator.com/delete-rows-from-tableview  
 OpenPDFDocument			- http://ioscreator.com/open-pdf-documents-in-ios  
+SearchTableViewDemo		- http://ioscreator.com/add-searchbar-to-tableview  
 
 
 
