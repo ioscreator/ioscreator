@@ -70,6 +70,8 @@ PinchImageDemo			- http://ioscreator.com/scale-image-with-uipinchgesturerecogniz
 DeleteItemTableViewDemo		- http://ioscreator.com/delete-rows-from-tableview  
 OpenPDFDocument			- http://ioscreator.com/open-pdf-documents-in-ios  
 SearchTableViewDemo		- http://ioscreator.com/add-searchbar-to-tableview  
+CategoryDemo			- http://ioscreator.com/objective-c-add-a-category  
+
 
 
 
