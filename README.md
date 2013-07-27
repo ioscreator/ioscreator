@@ -73,6 +73,7 @@ SearchTableViewDemo		- http://ioscreator.com/add-searchbar-to-tableview
 CategoryDemo			- http://ioscreator.com/objective-c-add-a-category  
 ChangeScreensDemo		- http://ioscreator.com/changing-screens-with-uipagecontrol  
 UserDefaultsDemo		- http://ioscreator.com/use-settings-with-nsuserdefaults  
+ReorderingRowsDemo		- http://ioscreator.com/reordering-rows-from-tableview  
 
 
 
