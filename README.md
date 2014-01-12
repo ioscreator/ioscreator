@@ -76,15 +76,12 @@ UserDefaultsDemo		- http://ioscreator.com/tutorials/use-settings-with-nsuserdefa
 ReorderingRowsDemo		- http://ioscreator.com/tutorials/reordering-rows-from-tableview  
 iOS7TintColorTutorial		- http://ioscreator.com/tutorials/ios-7-views-setting-tint-color  
 iOS7UIKitDynamicsTutorial	- http://ioscreator.com/tutorials/introducing-uikit-dynamics-in-ios-7
-iOS7ActionSheetTutorial		- http://ioscreator.com/tutorials/ios-7-views-uiactionsheet
+iOS7ActionSheetTutorial		- http://ioscreator.com/tutorials/ios-7-views-uiactionsheet  
 AddBackgroundTutorial		- http://ioscreator.com/tutorials/add-background-image-in-sprite-kit  
-iOS7CollectionViewTutorial	- http://ioscreator.com/tutorials/introduction-collectionviews-ios7
-iOS7AutoLayoutTutorial		- http://ioscreator.com/tutorials/using-auto-layout-xcode-5
-SpriteActionsTutorial   	- http://ioscreator.com/tutorials/moving-sprites-with-actions-in-sprite-kit
+iOS7CollectionViewTutorial	- http://ioscreator.com/tutorials/introduction-collectionviews-ios7  
+iOS7AutoLayoutTutorial		- http://ioscreator.com/tutorials/using-auto-layout-xcode-5  
+SpriteActionsTutorial   	- http://ioscreator.com/tutorials/moving-sprites-with-actions-in-sprite-kit  
 iOS7ActivityControllerTutorial  - http://ioscreator.com/tutorials/ios-7-views-activity-indicator  
-
-
-
 
 ===========================================================================================================
 
