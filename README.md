@@ -82,6 +82,7 @@ iOS7CollectionViewTutorial	- http://ioscreator.com/tutorials/introduction-collec
 iOS7AutoLayoutTutorial		- http://ioscreator.com/tutorials/using-auto-layout-xcode-5  
 SpriteActionsTutorial   	- http://ioscreator.com/tutorials/moving-sprites-with-actions-in-sprite-kit  
 iOS7ActivityControllerTutorial  - http://ioscreator.com/tutorials/ios-7-views-activity-indicator  
+SpriteAnimationTutorial		- http://ioscreator.com/tutorials/animating-sprites-with-sprite-kit  
 
 ===========================================================================================================
 

@@ -1,0 +1,511 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E21F49E2188ABCB800A36061 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E21F49E1188ABCB800A36061 /* Foundation.framework */; };
+		E21F49E4188ABCB800A36061 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E21F49E3188ABCB800A36061 /* CoreGraphics.framework */; };
+		E21F49E6188ABCB800A36061 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E21F49E5188ABCB800A36061 /* UIKit.framework */; };
+		E21F49E8188ABCB800A36061 /* SpriteKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E21F49E7188ABCB800A36061 /* SpriteKit.framework */; };
+		E21F49EE188ABCB800A36061 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E21F49EC188ABCB800A36061 /* InfoPlist.strings */; };
+		E21F49F0188ABCB800A36061 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E21F49EF188ABCB800A36061 /* main.m */; };
+		E21F49F4188ABCB800A36061 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E21F49F3188ABCB800A36061 /* AppDelegate.m */; };
+		E21F49F7188ABCB800A36061 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E21F49F5188ABCB800A36061 /* Main.storyboard */; };
+		E21F49FA188ABCB800A36061 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E21F49F9188ABCB800A36061 /* ViewController.m */; };
+		E21F49FD188ABCB800A36061 /* MyScene.m in Sources */ = {isa = PBXBuildFile; fileRef = E21F49FC188ABCB800A36061 /* MyScene.m */; };
+		E21F4A01188ABCB800A36061 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E21F4A00188ABCB800A36061 /* Images.xcassets */; };
+		E21F4A08188ABCB800A36061 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E21F4A07188ABCB800A36061 /* XCTest.framework */; };
+		E21F4A09188ABCB800A36061 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E21F49E1188ABCB800A36061 /* Foundation.framework */; };
+		E21F4A0A188ABCB800A36061 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E21F49E5188ABCB800A36061 /* UIKit.framework */; };
+		E21F4A12188ABCB800A36061 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = E21F4A10188ABCB800A36061 /* InfoPlist.strings */; };
+		E21F4A14188ABCB800A36061 /* SpriteAnimationTutorialTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E21F4A13188ABCB800A36061 /* SpriteAnimationTutorialTests.m */; };
+		E21F4A43188C2D9800A36061 /* robot2.png in Resources */ = {isa = PBXBuildFile; fileRef = E21F4A42188C2D9800A36061 /* robot2.png */; };
+		E21F4A47188C2DB400A36061 /* robot3.png in Resources */ = {isa = PBXBuildFile; fileRef = E21F4A44188C2DB400A36061 /* robot3.png */; };
+		E21F4A48188C2DB400A36061 /* robot4.png in Resources */ = {isa = PBXBuildFile; fileRef = E21F4A45188C2DB400A36061 /* robot4.png */; };
+		E21F4A49188C2DB400A36061 /* robot1.png in Resources */ = {isa = PBXBuildFile; fileRef = E21F4A46188C2DB400A36061 /* robot1.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E21F4A0B188ABCB800A36061 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E21F49D6188ABCB800A36061 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E21F49DD188ABCB800A36061;
+			remoteInfo = SpriteAnimationTutorial;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		E21F49DE188ABCB800A36061 /* SpriteAnimationTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpriteAnimationTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E21F49E1188ABCB800A36061 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		E21F49E3188ABCB800A36061 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		E21F49E5188ABCB800A36061 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		E21F49E7188ABCB800A36061 /* SpriteKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SpriteKit.framework; path = System/Library/Frameworks/SpriteKit.framework; sourceTree = SDKROOT; };
+		E21F49EB188ABCB800A36061 /* SpriteAnimationTutorial-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SpriteAnimationTutorial-Info.plist"; sourceTree = "<group>"; };
+		E21F49ED188ABCB800A36061 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		E21F49EF188ABCB800A36061 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E21F49F1188ABCB800A36061 /* SpriteAnimationTutorial-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SpriteAnimationTutorial-Prefix.pch"; sourceTree = "<group>"; };
+		E21F49F2188ABCB800A36061 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		E21F49F3188ABCB800A36061 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		E21F49F6188ABCB800A36061 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E21F49F8188ABCB800A36061 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		E21F49F9188ABCB800A36061 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		E21F49FB188ABCB800A36061 /* MyScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyScene.h; sourceTree = "<group>"; };
+		E21F49FC188ABCB800A36061 /* MyScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyScene.m; sourceTree = "<group>"; };
+		E21F4A00188ABCB800A36061 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		E21F4A06188ABCB800A36061 /* SpriteAnimationTutorialTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SpriteAnimationTutorialTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E21F4A07188ABCB800A36061 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		E21F4A0F188ABCB800A36061 /* SpriteAnimationTutorialTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SpriteAnimationTutorialTests-Info.plist"; sourceTree = "<group>"; };
+		E21F4A11188ABCB800A36061 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		E21F4A13188ABCB800A36061 /* SpriteAnimationTutorialTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SpriteAnimationTutorialTests.m; sourceTree = "<group>"; };
+		E21F4A42188C2D9800A36061 /* robot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = robot2.png; sourceTree = "<group>"; };
+		E21F4A44188C2DB400A36061 /* robot3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = robot3.png; sourceTree = "<group>"; };
+		E21F4A45188C2DB400A36061 /* robot4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = robot4.png; sourceTree = "<group>"; };
+		E21F4A46188C2DB400A36061 /* robot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = robot1.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E21F49DB188ABCB800A36061 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E21F49E4188ABCB800A36061 /* CoreGraphics.framework in Frameworks */,
+				E21F49E6188ABCB800A36061 /* UIKit.framework in Frameworks */,
+				E21F49E8188ABCB800A36061 /* SpriteKit.framework in Frameworks */,
+				E21F49E2188ABCB800A36061 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E21F4A03188ABCB800A36061 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E21F4A08188ABCB800A36061 /* XCTest.framework in Frameworks */,
+				E21F4A0A188ABCB800A36061 /* UIKit.framework in Frameworks */,
+				E21F4A09188ABCB800A36061 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E21F49D5188ABCB800A36061 = {
+			isa = PBXGroup;
+			children = (
+				E21F49E9188ABCB800A36061 /* SpriteAnimationTutorial */,
+				E21F4A0D188ABCB800A36061 /* SpriteAnimationTutorialTests */,
+				E21F49E0188ABCB800A36061 /* Frameworks */,
+				E21F49DF188ABCB800A36061 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E21F49DF188ABCB800A36061 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E21F49DE188ABCB800A36061 /* SpriteAnimationTutorial.app */,
+				E21F4A06188ABCB800A36061 /* SpriteAnimationTutorialTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E21F49E0188ABCB800A36061 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E21F49E1188ABCB800A36061 /* Foundation.framework */,
+				E21F49E3188ABCB800A36061 /* CoreGraphics.framework */,
+				E21F49E5188ABCB800A36061 /* UIKit.framework */,
+				E21F49E7188ABCB800A36061 /* SpriteKit.framework */,
+				E21F4A07188ABCB800A36061 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E21F49E9188ABCB800A36061 /* SpriteAnimationTutorial */ = {
+			isa = PBXGroup;
+			children = (
+				E21F49F2188ABCB800A36061 /* AppDelegate.h */,
+				E21F49F3188ABCB800A36061 /* AppDelegate.m */,
+				E21F49F5188ABCB800A36061 /* Main.storyboard */,
+				E21F49F8188ABCB800A36061 /* ViewController.h */,
+				E21F49F9188ABCB800A36061 /* ViewController.m */,
+				E21F49FB188ABCB800A36061 /* MyScene.h */,
+				E21F49FC188ABCB800A36061 /* MyScene.m */,
+				E21F4A1D188ABD5A00A36061 /* sprites */,
+				E21F4A00188ABCB800A36061 /* Images.xcassets */,
+				E21F49EA188ABCB800A36061 /* Supporting Files */,
+			);
+			path = SpriteAnimationTutorial;
+			sourceTree = "<group>";
+		};
+		E21F49EA188ABCB800A36061 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E21F49EB188ABCB800A36061 /* SpriteAnimationTutorial-Info.plist */,
+				E21F49EC188ABCB800A36061 /* InfoPlist.strings */,
+				E21F49EF188ABCB800A36061 /* main.m */,
+				E21F49F1188ABCB800A36061 /* SpriteAnimationTutorial-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		E21F4A0D188ABCB800A36061 /* SpriteAnimationTutorialTests */ = {
+			isa = PBXGroup;
+			children = (
+				E21F4A13188ABCB800A36061 /* SpriteAnimationTutorialTests.m */,
+				E21F4A0E188ABCB800A36061 /* Supporting Files */,
+			);
+			path = SpriteAnimationTutorialTests;
+			sourceTree = "<group>";
+		};
+		E21F4A0E188ABCB800A36061 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				E21F4A0F188ABCB800A36061 /* SpriteAnimationTutorialTests-Info.plist */,
+				E21F4A10188ABCB800A36061 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		E21F4A1D188ABD5A00A36061 /* sprites */ = {
+			isa = PBXGroup;
+			children = (
+				E21F4A44188C2DB400A36061 /* robot3.png */,
+				E21F4A45188C2DB400A36061 /* robot4.png */,
+				E21F4A46188C2DB400A36061 /* robot1.png */,
+				E21F4A42188C2D9800A36061 /* robot2.png */,
+			);
+			path = sprites;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E21F49DD188ABCB800A36061 /* SpriteAnimationTutorial */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E21F4A17188ABCB800A36061 /* Build configuration list for PBXNativeTarget "SpriteAnimationTutorial" */;
+			buildPhases = (
+				E21F49DA188ABCB800A36061 /* Sources */,
+				E21F49DB188ABCB800A36061 /* Frameworks */,
+				E21F49DC188ABCB800A36061 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SpriteAnimationTutorial;
+			productName = SpriteAnimationTutorial;
+			productReference = E21F49DE188ABCB800A36061 /* SpriteAnimationTutorial.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E21F4A05188ABCB800A36061 /* SpriteAnimationTutorialTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E21F4A1A188ABCB800A36061 /* Build configuration list for PBXNativeTarget "SpriteAnimationTutorialTests" */;
+			buildPhases = (
+				E21F4A02188ABCB800A36061 /* Sources */,
+				E21F4A03188ABCB800A36061 /* Frameworks */,
+				E21F4A04188ABCB800A36061 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E21F4A0C188ABCB800A36061 /* PBXTargetDependency */,
+			);
+			name = SpriteAnimationTutorialTests;
+			productName = SpriteAnimationTutorialTests;
+			productReference = E21F4A06188ABCB800A36061 /* SpriteAnimationTutorialTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E21F49D6188ABCB800A36061 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = "Arthur Knopper";
+				TargetAttributes = {
+					E21F4A05188ABCB800A36061 = {
+						TestTargetID = E21F49DD188ABCB800A36061;
+					};
+				};
+			};
+			buildConfigurationList = E21F49D9188ABCB800A36061 /* Build configuration list for PBXProject "SpriteAnimationTutorial" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E21F49D5188ABCB800A36061;
+			productRefGroup = E21F49DF188ABCB800A36061 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E21F49DD188ABCB800A36061 /* SpriteAnimationTutorial */,
+				E21F4A05188ABCB800A36061 /* SpriteAnimationTutorialTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E21F49DC188ABCB800A36061 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E21F4A47188C2DB400A36061 /* robot3.png in Resources */,
+				E21F49EE188ABCB800A36061 /* InfoPlist.strings in Resources */,
+				E21F4A01188ABCB800A36061 /* Images.xcassets in Resources */,
+				E21F4A48188C2DB400A36061 /* robot4.png in Resources */,
+				E21F4A43188C2D9800A36061 /* robot2.png in Resources */,
+				E21F49F7188ABCB800A36061 /* Main.storyboard in Resources */,
+				E21F4A49188C2DB400A36061 /* robot1.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E21F4A04188ABCB800A36061 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E21F4A12188ABCB800A36061 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E21F49DA188ABCB800A36061 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E21F49FD188ABCB800A36061 /* MyScene.m in Sources */,
+				E21F49FA188ABCB800A36061 /* ViewController.m in Sources */,
+				E21F49F4188ABCB800A36061 /* AppDelegate.m in Sources */,
+				E21F49F0188ABCB800A36061 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E21F4A02188ABCB800A36061 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E21F4A14188ABCB800A36061 /* SpriteAnimationTutorialTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E21F4A0C188ABCB800A36061 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E21F49DD188ABCB800A36061 /* SpriteAnimationTutorial */;
+			targetProxy = E21F4A0B188ABCB800A36061 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		E21F49EC188ABCB800A36061 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E21F49ED188ABCB800A36061 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		E21F49F5188ABCB800A36061 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E21F49F6188ABCB800A36061 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		E21F4A10188ABCB800A36061 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E21F4A11188ABCB800A36061 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		E21F4A15188ABCB800A36061 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		E21F4A16188ABCB800A36061 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E21F4A18188ABCB800A36061 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SpriteAnimationTutorial/SpriteAnimationTutorial-Prefix.pch";
+				INFOPLIST_FILE = "SpriteAnimationTutorial/SpriteAnimationTutorial-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		E21F4A19188ABCB800A36061 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SpriteAnimationTutorial/SpriteAnimationTutorial-Prefix.pch";
+				INFOPLIST_FILE = "SpriteAnimationTutorial/SpriteAnimationTutorial-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SPRITEKIT_TEXTURE_ATLAS_OUTPUT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		E21F4A1B188ABCB800A36061 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/SpriteAnimationTutorial.app/SpriteAnimationTutorial";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SpriteAnimationTutorial/SpriteAnimationTutorial-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "SpriteAnimationTutorialTests/SpriteAnimationTutorialTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		E21F4A1C188ABCB800A36061 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/SpriteAnimationTutorial.app/SpriteAnimationTutorial";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SpriteAnimationTutorial/SpriteAnimationTutorial-Prefix.pch";
+				INFOPLIST_FILE = "SpriteAnimationTutorialTests/SpriteAnimationTutorialTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E21F49D9188ABCB800A36061 /* Build configuration list for PBXProject "SpriteAnimationTutorial" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E21F4A15188ABCB800A36061 /* Debug */,
+				E21F4A16188ABCB800A36061 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E21F4A17188ABCB800A36061 /* Build configuration list for PBXNativeTarget "SpriteAnimationTutorial" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E21F4A18188ABCB800A36061 /* Debug */,
+				E21F4A19188ABCB800A36061 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		E21F4A1A188ABCB800A36061 /* Build configuration list for PBXNativeTarget "SpriteAnimationTutorialTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E21F4A1B188ABCB800A36061 /* Debug */,
+				E21F4A1C188ABCB800A36061 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E21F49D6188ABCB800A36061 /* Project object */;
+}
