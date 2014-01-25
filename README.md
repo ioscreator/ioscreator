@@ -84,6 +84,8 @@ SpriteActionsTutorial   	- http://ioscreator.com/tutorials/moving-sprites-with-a
 iOS7ActivityControllerTutorial  - http://ioscreator.com/tutorials/ios-7-views-activity-indicator  
 SpriteAnimationTutorial		- http://ioscreator.com/tutorials/animating-sprites-with-sprite-kit  
 iOS7ProgressViewTutorial	- http://ioscreator.com/tutorials/ios-7-views-progress-view  
+iOS7ActivityViewControllerTutorial - http://ioscreator.com/tutorials/ios-7-views-activity-viewcontroller  
+ 
 
 ===========================================================================================================
 
