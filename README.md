@@ -85,6 +85,7 @@ iOS7ActivityControllerTutorial  - http://ioscreator.com/tutorials/ios-7-views-ac
 SpriteAnimationTutorial		- http://ioscreator.com/tutorials/animating-sprites-with-sprite-kit  
 iOS7ProgressViewTutorial	- http://ioscreator.com/tutorials/ios-7-views-progress-view  
 iOS7ActivityViewControllerTutorial - http://ioscreator.com/tutorials/ios-7-views-activity-viewcontroller  
+iOS7CollisionDetectionTutorial  - http://ioscreator.com/tutorials/collision-detection-with-uikit-dynamics-in-ios-7  
  
 
 ===========================================================================================================
