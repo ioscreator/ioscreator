@@ -87,6 +87,7 @@ iOS7ProgressViewTutorial	- http://ioscreator.com/tutorials/ios-7-views-progress-
 iOS7ActivityViewControllerTutorial - http://ioscreator.com/tutorials/ios-7-views-activity-viewcontroller  
 iOS7CollisionDetectionTutorial  - http://ioscreator.com/tutorials/collision-detection-with-uikit-dynamics-in-ios-7  
 iOS7DynamicTypeTutorial		- http://ioscreator.com/tutorials/using-dynamic-types-in-ios-7  
+ScenesSpriteKitTutorial		- http://ioscreator.com/tutorials/working-with-scenes-in-sprite-kit  
  
 
 ===========================================================================================================
