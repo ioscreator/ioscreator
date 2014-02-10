@@ -91,6 +91,7 @@ ScenesSpriteKitTutorial		- http://ioscreator.com/tutorials/working-with-scenes-i
 iOS7AlertViewTutorial		- http://ioscreator.com/tutorials/ios-7-views-alert-view  
 iOS7BackgroundFetchTutorial	- http://ioscreator.com/tutorials/using-background-fetch-in-ios-7  
 iOS7ImageViewTutorial		- http://ioscreator.com/tutorials/ios-7-views-image-view  
+iOS7CurrentLocationTutorial	- http://ioscreator.com/tutorials/get-current-location-with-core-location  
  
 
 ===========================================================================================================
