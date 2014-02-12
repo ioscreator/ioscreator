@@ -92,6 +92,7 @@ iOS7AlertViewTutorial		- http://ioscreator.com/tutorials/ios-7-views-alert-view
 iOS7BackgroundFetchTutorial	- http://ioscreator.com/tutorials/using-background-fetch-in-ios-7  
 iOS7ImageViewTutorial		- http://ioscreator.com/tutorials/ios-7-views-image-view  
 iOS7CurrentLocationTutorial	- http://ioscreator.com/tutorials/get-current-location-with-core-location  
+iOS7AddressBookTutorial		- http://ioscreator.com/tutorials/add-contacts-to-the-address-book-in-ios7  
  
 
 ===========================================================================================================
