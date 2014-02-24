@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>53225D3D-F0A4-4DAB-A118-01365FD0C0BA</string>
+	<string>99A5C50A-4082-41E5-80A3-C3133427D2A7</string>
 	<key>IDESourceControlProjectName</key>
-	<string>AddBackgroundTutorial</string>
+	<string>LabelSPriteKitTutorial</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>175F038B-9B3E-4492-B5FC-28F718488C4E</key>
-		<string>https://github.com/ioscreator/iOScreator-iOS7-Tutorials.git</string>
+		<key>E89DBC2A-C75B-466D-A612-0B32A1CC6D1C</key>
+		<string>ssh://bitbucket.org/aknopper/tutorials.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>AddBackgroundTutorial/AddBackgroundTutorial.xcodeproj/project.xcworkspace</string>
+	<string>LabelSPriteKitTutorial/LabelSPriteKitTutorial.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>175F038B-9B3E-4492-B5FC-28F718488C4E</key>
+		<key>E89DBC2A-C75B-466D-A612-0B32A1CC6D1C</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ioscreator/iOScreator-iOS7-Tutorials.git</string>
+	<string>ssh://bitbucket.org/aknopper/tutorials.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>175F038B-9B3E-4492-B5FC-28F718488C4E</string>
+	<string>E89DBC2A-C75B-466D-A612-0B32A1CC6D1C</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>175F038B-9B3E-4492-B5FC-28F718488C4E</string>
+			<string>E89DBC2A-C75B-466D-A612-0B32A1CC6D1C</string>
 			<key>IDESourceControlWCCName</key>
-			<string>iOScreator-iOS7-Tutorials</string>
+			<string>tutorials</string>
 		</dict>
 	</array>
 </dict>

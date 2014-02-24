@@ -95,6 +95,7 @@ iOS7CurrentLocationTutorial	- http://ioscreator.com/tutorials/get-current-locati
 iOS7AddressBookTutorial		- http://ioscreator.com/tutorials/add-contacts-to-the-address-book-in-ios7  
 iOS7LongPressGestureTutorial	- http://ioscreator.com/tutorials/detecting-long-press-gestures-in-ios-7  
 iOS7ShowRegionMapKitTutorial	- http://ioscreator.com/tutorials/display-region-map-kit-ios7  
+LabelSpriteKitTutorial		- http://ioscreator.com/tutorials/using-labels-sprite-kit
  
 
 ===========================================================================================================
