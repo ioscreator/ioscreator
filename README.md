@@ -96,6 +96,7 @@ iOS7AddressBookTutorial		- http://ioscreator.com/tutorials/add-contacts-to-the-a
 iOS7LongPressGestureTutorial	- http://ioscreator.com/tutorials/detecting-long-press-gestures-in-ios-7  
 iOS7ShowRegionMapKitTutorial	- http://ioscreator.com/tutorials/display-region-map-kit-ios7  
 LabelSpriteKitTutorial		- http://ioscreator.com/tutorials/using-labels-sprite-kit
+iOS7SearchBarTableViewTutorial  - http://ioscreator.com/tutorials/add-seachbar-to-tableview-ios7  
  
 
 ===========================================================================================================
