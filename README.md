@@ -99,6 +99,7 @@ LabelSpriteKitTutorial		- http://ioscreator.com/tutorials/using-labels-sprite-ki
 iOS7SearchBarTableViewTutorial  - http://ioscreator.com/tutorials/add-seachbar-to-tableview-ios7  
 iOS7DatePickerTutorial		- http://ioscreator.com/tutorials/displaying-date-with-date-picker-ios7  
 iOS7SharingAirdropTutorial	- http://ioscreator.com/tutorials/sharing-airdrop-ios7  
+iOS7SegmentedControlTutorial    - http://ioscreator.com/tutorials/create-segmented-control-ios7  
  
 
 ===========================================================================================================
