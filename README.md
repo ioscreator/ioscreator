@@ -95,9 +95,10 @@ iOS7CurrentLocationTutorial	- http://ioscreator.com/tutorials/get-current-locati
 iOS7AddressBookTutorial		- http://ioscreator.com/tutorials/add-contacts-to-the-address-book-in-ios7  
 iOS7LongPressGestureTutorial	- http://ioscreator.com/tutorials/detecting-long-press-gestures-in-ios-7  
 iOS7ShowRegionMapKitTutorial	- http://ioscreator.com/tutorials/display-region-map-kit-ios7  
-LabelSpriteKitTutorial		- http://ioscreator.com/tutorials/using-labels-sprite-kit
+LabelSpriteKitTutorial		- http://ioscreator.com/tutorials/using-labels-sprite-kit  
 iOS7SearchBarTableViewTutorial  - http://ioscreator.com/tutorials/add-seachbar-to-tableview-ios7  
 iOS7DatePickerTutorial		- http://ioscreator.com/tutorials/displaying-date-with-date-picker-ios7  
+iOS7SharingAirdropTutorial	- http://ioscreator.com/tutorials/sharing-airdrop-ios7  
  
 
 ===========================================================================================================
