@@ -100,6 +100,7 @@ iOS7SearchBarTableViewTutorial  - http://ioscreator.com/tutorials/add-seachbar-t
 iOS7DatePickerTutorial		- http://ioscreator.com/tutorials/displaying-date-with-date-picker-ios7  
 iOS7SharingAirdropTutorial	- http://ioscreator.com/tutorials/sharing-airdrop-ios7  
 iOS7SegmentedControlTutorial    - http://ioscreator.com/tutorials/create-segmented-control-ios7  
+iOS7HeaderFooterTutorial	- http://ioscreator.com/tutorials/customizing-headers-footers-table-view-ios7  
  
 
 ===========================================================================================================
