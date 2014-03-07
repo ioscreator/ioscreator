@@ -103,6 +103,7 @@ iOS7SegmentedControlTutorial    - http://ioscreator.com/tutorials/create-segment
 iOS7HeaderFooterTutorial	- http://ioscreator.com/tutorials/customizing-headers-footers-table-view-ios7  
 iOS7SnapUIKitDynamicsTutorial	- http://ioscreator.com/tutorials/add-snap-behaviour-view-ios7  
 iOS7LocalNotificationTutorial	- http://ioscreator.com/tutorials/local-notifications-ios7  
+FollowPathSpriteKitTutorial 	- http://ioscreator.com/tutorials/moving-sprites-path-sprite-kit  
  
 
 ===========================================================================================================
