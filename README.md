@@ -106,6 +106,7 @@ iOS7LocalNotificationTutorial	- http://ioscreator.com/tutorials/local-notificati
 FollowPathSpriteKitTutorial 	- http://ioscreator.com/tutorials/moving-sprites-path-sprite-kit  
 iOS7UISwitchTutorial		- http://ioscreator.com/tutorials/ios-7-controls-uiswitch-tutorial  
 iOS7CustomCollectionViewCellTutorial	- http://ioscreator.com/tutorials/creating-custom-collection-view-cells-in-ios7  
+iOS7StretchableImageTutorial	- http://ioscreator.com/tutorials/stretchable-images-ios7-tutorial  
  
 
 ===========================================================================================================
