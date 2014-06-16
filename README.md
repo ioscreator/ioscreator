@@ -109,6 +109,7 @@ iOS7CustomCollectionViewCellTutorial	- http://ioscreator.com/tutorials/creating-
 iOS7StretchableImageTutorial	- http://ioscreator.com/tutorials/stretchable-images-ios7-tutorial  
 ScrollingSpriteKitTutorial	- http://ioscreator.com/tutorials/scrolling-in-sprite-kit-tutorial  
 iOS7UISliderTutorial		- http://ioscreator.com/tutorials/change-values-with-uislider-in-ios7  
+iOS7NavigationControllerTutorial - http://ioscreator.com/tutorials/navigate-with-uinavigationcontroller-in-ios7  
 
 ===========================================================================================================
 
