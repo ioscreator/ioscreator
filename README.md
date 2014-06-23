@@ -110,6 +110,8 @@ iOS7StretchableImageTutorial	- http://ioscreator.com/tutorials/stretchable-image
 ScrollingSpriteKitTutorial	- http://ioscreator.com/tutorials/scrolling-in-sprite-kit-tutorial  
 iOS7UISliderTutorial		- http://ioscreator.com/tutorials/change-values-with-uislider-in-ios7  
 iOS7NavigationControllerTutorial - http://ioscreator.com/tutorials/navigate-with-uinavigationcontroller-in-ios7  
+iOS8SwiftTableViewTurorial	- http://ioscreator.com/tutorals/tableview-tutorial-in-ios8-with-swift  
+
 
 ===========================================================================================================
 
