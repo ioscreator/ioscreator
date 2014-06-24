@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 23-March-2013
+  This README last updated: 24-July-2014
 ===========================================================================================================
 
 INDEX
@@ -110,7 +110,8 @@ iOS7StretchableImageTutorial	- http://ioscreator.com/tutorials/stretchable-image
 ScrollingSpriteKitTutorial	- http://ioscreator.com/tutorials/scrolling-in-sprite-kit-tutorial  
 iOS7UISliderTutorial		- http://ioscreator.com/tutorials/change-values-with-uislider-in-ios7  
 iOS7NavigationControllerTutorial - http://ioscreator.com/tutorials/navigate-with-uinavigationcontroller-in-ios7  
-iOS8SwiftTableViewTurorial	- http://ioscreator.com/tutorals/tableview-tutorial-in-ios8-with-swift  
+iOS8SwiftTableViewTurorial	- http://ioscreator.com/tutorials/tableview-tutorial-in-ios8-with-swift  
+iOS8SwiftAlertViewTutorial 	- http://ioscreator.com/tutorials/display-an-alert-view-in-ios8-with-swift  
 
 
 ===========================================================================================================
