@@ -112,6 +112,7 @@ iOS7UISliderTutorial		- http://ioscreator.com/tutorials/change-values-with-uisli
 iOS7NavigationControllerTutorial - http://ioscreator.com/tutorials/navigate-with-uinavigationcontroller-in-ios7  
 iOS8SwiftTableViewTurorial	- http://ioscreator.com/tutorials/tableview-tutorial-in-ios8-with-swift  
 iOS8SwiftAlertViewTutorial 	- http://ioscreator.com/tutorials/display-an-alert-view-in-ios8-with-swift  
+iOS8SwiftCalculatorTutorial   	- http://ioscreator.com/tutorials/calculator-tutorial-in-ios8-with-swift  
 
 
 ===========================================================================================================
