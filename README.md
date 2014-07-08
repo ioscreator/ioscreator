@@ -113,6 +113,8 @@ iOS7NavigationControllerTutorial - http://ioscreator.com/tutorials/navigate-with
 iOS8SwiftTableViewTurorial	- http://ioscreator.com/tutorials/tableview-tutorial-in-ios8-with-swift  
 iOS8SwiftAlertViewTutorial 	- http://ioscreator.com/tutorials/display-an-alert-view-in-ios8-with-swift  
 iOS8SwiftCalculatorTutorial   	- http://ioscreator.com/tutorials/calculator-tutorial-in-ios8-with-swift  
+iOS8SwiftWebViewTutorial	- http://ioscreator.com/tutorials/webview-tutorial-in-ios8-with-swift  
+
 
 
 ===========================================================================================================
