@@ -115,6 +115,7 @@ iOS8SwiftAlertViewTutorial 	- http://ioscreator.com/tutorials/display-an-alert-v
 iOS8SwiftCalculatorTutorial   	- http://ioscreator.com/tutorials/calculator-tutorial-in-ios8-with-swift  
 iOS8SwiftWebViewTutorial	- http://ioscreator.com/tutorials/webview-tutorial-in-ios8-with-swift  
 SpriteKitSwiftBackgroundTutorial - http://ioscreator.com/tutorials/display-background-with-sprite-kit-and-swift  
+iOS8SwiftUISwitchTutorial	- http://ioscreator.com/tutorials/uiswitch-tutorial-in-ios8-with-swift  
 
 
 
