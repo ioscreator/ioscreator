@@ -116,6 +116,7 @@ iOS8SwiftCalculatorTutorial   	- http://ioscreator.com/tutorials/calculator-tuto
 iOS8SwiftWebViewTutorial	- http://ioscreator.com/tutorials/webview-tutorial-in-ios8-with-swift  
 SpriteKitSwiftBackgroundTutorial - http://ioscreator.com/tutorials/display-background-with-sprite-kit-and-swift  
 iOS8SwiftUISwitchTutorial	- http://ioscreator.com/tutorials/uiswitch-tutorial-in-ios8-with-swift  
+SpriteKitSwiftSpriteActionsTutorial - http://ioscreator.com/tutorials/move-sprites-with-sprite-kit-and-swift  
 
 
 
