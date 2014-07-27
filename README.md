@@ -117,6 +117,7 @@ iOS8SwiftWebViewTutorial	- http://ioscreator.com/tutorials/webview-tutorial-in-i
 SpriteKitSwiftBackgroundTutorial - http://ioscreator.com/tutorials/display-background-with-sprite-kit-and-swift  
 iOS8SwiftUISwitchTutorial	- http://ioscreator.com/tutorials/uiswitch-tutorial-in-ios8-with-swift  
 SpriteKitSwiftSpriteActionsTutorial - http://ioscreator.com/tutorials/move-sprites-with-sprite-kit-and-swift  
+IOS8SwiftDraggingViewsTutorial  - http://ioscreator.com/tutorials/dragging-views-gestures-tutorial-ios8-swift  
 
 
 
