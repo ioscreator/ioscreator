@@ -118,8 +118,8 @@ SpriteKitSwiftBackgroundTutorial - http://ioscreator.com/tutorials/display-backg
 iOS8SwiftUISwitchTutorial	- http://ioscreator.com/tutorials/uiswitch-tutorial-in-ios8-with-swift  
 SpriteKitSwiftSpriteActionsTutorial - http://ioscreator.com/tutorials/move-sprites-with-sprite-kit-and-swift  
 IOS8SwiftDraggingViewsTutorial  - http://ioscreator.com/tutorials/dragging-views-gestures-tutorial-ios8-swift  
-IOS8SwiftPorgressViewTutorial	- http//ioscreator.com/tutorials/progress-view-tutorial-in-ios8-with-swift  
-
+IOS8SwiftProgressViewTutorial	- http//ioscreator.com/tutorials/progress-view-tutorial-in-ios8-with-swift  
+IOS8SwiftScalingViewsTutorial	- http://ioscreator.com/tutorial/scale-image-pinch-gesture-ios8-swift  
 
 
 ===========================================================================================================
