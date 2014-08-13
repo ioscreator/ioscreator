@@ -121,6 +121,7 @@ IOS8SwiftDraggingViewsTutorial  - http://ioscreator.com/tutorials/dragging-views
 IOS8SwiftProgressViewTutorial	- http//ioscreator.com/tutorials/progress-view-tutorial-in-ios8-with-swift  
 IOS8SwiftScalingViewsTutorial	- http://ioscreator.com/tutorial/scale-image-pinch-gesture-ios8-swift  
 IOS8SwiftPrototypeCellsTutorial	- http://ioscreator.com/tutorial/prototype-cells-tableview-tutorial-ios8-swift  
+IOS8SwiftDatePickerTutorial 	- http://ioscreator.com/tutorial/display-date-date-picker-ios8-swift  
 
 
 ===========================================================================================================
