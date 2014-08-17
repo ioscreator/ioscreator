@@ -123,6 +123,7 @@ IOS8SwiftScalingViewsTutorial	- http://ioscreator.com/tutorial/scale-image-pinch
 IOS8SwiftPrototypeCellsTutorial	- http://ioscreator.com/tutorial/prototype-cells-tableview-tutorial-ios8-swift  
 IOS8SwiftDatePickerTutorial 	- http://ioscreator.com/tutorial/display-date-date-picker-ios8-swift  
 IOS8SwiftSegmentedControlTutorial - http://ioscreator.com/tutorial/segmented-control-tutorial-ios8-swift  
+IOS8SwiftMapKitTutorial		- http://ioscreator.com/tutorial/mapkit-tutorial-swift-ios8  
 
 
 ===========================================================================================================
