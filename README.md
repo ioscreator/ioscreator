@@ -119,11 +119,11 @@ iOS8SwiftUISwitchTutorial	- http://ioscreator.com/tutorials/uiswitch-tutorial-in
 SpriteKitSwiftSpriteActionsTutorial - http://ioscreator.com/tutorials/move-sprites-with-sprite-kit-and-swift  
 IOS8SwiftDraggingViewsTutorial  - http://ioscreator.com/tutorials/dragging-views-gestures-tutorial-ios8-swift  
 IOS8SwiftProgressViewTutorial	- http//ioscreator.com/tutorials/progress-view-tutorial-in-ios8-with-swift  
-IOS8SwiftScalingViewsTutorial	- http://ioscreator.com/tutorial/scale-image-pinch-gesture-ios8-swift  
-IOS8SwiftPrototypeCellsTutorial	- http://ioscreator.com/tutorial/prototype-cells-tableview-tutorial-ios8-swift  
-IOS8SwiftDatePickerTutorial 	- http://ioscreator.com/tutorial/display-date-date-picker-ios8-swift  
-IOS8SwiftSegmentedControlTutorial - http://ioscreator.com/tutorial/segmented-control-tutorial-ios8-swift  
-IOS8SwiftMapKitTutorial		- http://ioscreator.com/tutorial/mapkit-tutorial-swift-ios8  
+IOS8SwiftScalingViewsTutorial	- http://ioscreator.com/tutorials/scale-image-pinch-gesture-ios8-swift  
+IOS8SwiftPrototypeCellsTutorial	- http://ioscreator.com/tutorials/prototype-cells-tableview-tutorial-ios8-swift  
+IOS8SwiftDatePickerTutorial 	- http://ioscreator.com/tutorials/display-date-date-picker-ios8-swift  
+IOS8SwiftSegmentedControlTutorial - http://ioscreator.com/tutorials/segmented-control-tutorial-ios8-swift  
+IOS8SwiftMapKitTutorial		- http://ioscreator.com/tutorials/mapkit-tutorial-swift-ios8  
 
 
 ===========================================================================================================
