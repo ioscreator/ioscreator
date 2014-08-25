@@ -124,6 +124,7 @@ IOS8SwiftPrototypeCellsTutorial	- http://ioscreator.com/tutorials/prototype-cell
 IOS8SwiftDatePickerTutorial 	- http://ioscreator.com/tutorials/display-date-date-picker-ios8-swift  
 IOS8SwiftSegmentedControlTutorial - http://ioscreator.com/tutorials/segmented-control-tutorial-ios8-swift  
 IOS8SwiftMapKitTutorial		- http://ioscreator.com/tutorials/mapkit-tutorial-swift-ios8  
+IOS8SwiftUIStepperTutorial	- http://ioscreator.com/tutorials/uistepper-tutorial-ios8-swift  
 
 
 ===========================================================================================================
