@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 24-July-2014
+  This README last updated: 14-Sept-2014
 ===========================================================================================================
 
 INDEX
@@ -125,6 +125,7 @@ IOS8SwiftDatePickerTutorial 	- http://ioscreator.com/tutorials/display-date-date
 IOS8SwiftSegmentedControlTutorial - http://ioscreator.com/tutorials/segmented-control-tutorial-ios8-swift  
 IOS8SwiftMapKitTutorial		- http://ioscreator.com/tutorials/mapkit-tutorial-swift-ios8  
 IOS8SwiftUIStepperTutorial	- http://ioscreator.com/tutorials/uistepper-tutorial-ios8-swift  
+IOS8SwiftActivityIndicatorTutorial - http://ioscreator.com/tutorials/activity-indicator-tutorial-ios8-swift  
 
 
 ===========================================================================================================
