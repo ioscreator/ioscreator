@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 14-Sept-2014
+  This README last updated: 15-Sept-2014
 ===========================================================================================================
 
 INDEX
@@ -126,6 +126,7 @@ IOS8SwiftSegmentedControlTutorial - http://ioscreator.com/tutorials/segmented-co
 IOS8SwiftMapKitTutorial		- http://ioscreator.com/tutorials/mapkit-tutorial-swift-ios8  
 IOS8SwiftUIStepperTutorial	- http://ioscreator.com/tutorials/uistepper-tutorial-ios8-swift  
 IOS8SwiftActivityIndicatorTutorial - http://ioscreator.com/tutorials/activity-indicator-tutorial-ios8-swift  
+IOS8SwiftSliderTutorial		- http://ioscreator.com/tutorials/uislider-tutorial-ios8-swift  
 
 
 ===========================================================================================================
