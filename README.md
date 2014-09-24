@@ -127,7 +127,8 @@ IOS8SwiftMapKitTutorial		- http://ioscreator.com/tutorials/mapkit-tutorial-swift
 IOS8SwiftUIStepperTutorial	- http://ioscreator.com/tutorials/uistepper-tutorial-ios8-swift  
 IOS8SwiftActivityIndicatorTutorial - http://ioscreator.com/tutorials/activity-indicator-tutorial-ios8-swift  
 IOS8SwiftSliderTutorial		- http://ioscreator.com/tutorials/uislider-tutorial-ios8-swift  
-IOS8TwitterTutorial		- http://ioscreator.com/tutorials/twitter-tutorial-in-ios8-with-swift  
+IOS8SwiftTwitterTutorial	- http://ioscreator.com/tutorials/twitter-tutorial-in-ios8-with-swift  
+IOS8SwiftShadowButtonTutorial	- http://ioscreator.com/tutorials/add-shadow-button-ios8-swift  
 
 
 ===========================================================================================================
