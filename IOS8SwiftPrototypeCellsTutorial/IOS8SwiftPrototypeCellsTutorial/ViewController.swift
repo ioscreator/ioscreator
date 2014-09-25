@@ -22,22 +22,24 @@ class ViewController: UITableViewController {
     // Dispose of any resources that can be recreated.
   }
   
-  override func tableView(tableView: UITableView!, numberOfRowsInSection section: Int) -> Int {
+  override func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
     return transportItems.count
   }
   
   
-  override func tableView(tableView: UITableView!, cellForRowAtIndexPath indexPath: NSIndexPath!) -> UITableViewCell! {
+  override func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
     
     var cell = tableView.dequeueReusableCellWithIdentifier("transportCell") as? UITableViewCell
     
-    cell?.textLabel.text = transportItems[indexPath.row]
+    cell?.textLabel?.text = transportItems[indexPath.row]
     
     var imageName = UIImage(named: transportItems[indexPath.row])
-    cell?.imageView.image = imageName
+    cell?.imageView?.image = imageName
     
-    return cell
+    return cell!
   }
+
+  
 
   
 }
