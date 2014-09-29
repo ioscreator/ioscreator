@@ -130,6 +130,8 @@ IOS8SwiftSliderTutorial		- http://ioscreator.com/tutorials/uislider-tutorial-ios
 IOS8SwiftTwitterTutorial	- http://ioscreator.com/tutorials/twitter-tutorial-in-ios8-with-swift  
 IOS8SwiftShadowButtonTutorial	- http://ioscreator.com/tutorials/add-shadow-button-ios8-swift  
 IOS8SwiftPostFacebookTutorial	- http://ioscreator.com/tutorials/facebook-tutorial-ios8-swift  
+IOS8SwiftRotatingImageTutorial	- http://ioscreator.com/tutorials/rotating-image-tutorial-ios8-swift   
+
 
 
 ===========================================================================================================
