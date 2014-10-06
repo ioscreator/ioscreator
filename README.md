@@ -132,6 +132,7 @@ IOS8SwiftShadowButtonTutorial	- http://ioscreator.com/tutorials/add-shadow-butto
 IOS8SwiftPostFacebookTutorial	- http://ioscreator.com/tutorials/facebook-tutorial-ios8-swift  
 IOS8SwiftRotatingImageTutorial	- http://ioscreator.com/tutorials/rotating-image-tutorial-ios8-swift   
 IOS8SwiftJSONTutorial		- http://ioscreator.com/tutorials/json-parsing-tutorial-ios8-swift  
+IOS8SwiftAnimatingViewTutorial	- http://ioscreator.com/tutorials/animating-views-auto-layout-ios8-swift    
 
 
 
