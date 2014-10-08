@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 15-Sept-2014
+  This README last updated: 8-Oct-2014
 ===========================================================================================================
 
 INDEX
@@ -133,6 +133,7 @@ IOS8SwiftPostFacebookTutorial	- http://ioscreator.com/tutorials/facebook-tutoria
 IOS8SwiftRotatingImageTutorial	- http://ioscreator.com/tutorials/rotating-image-tutorial-ios8-swift   
 IOS8SwiftJSONTutorial		- http://ioscreator.com/tutorials/json-parsing-tutorial-ios8-swift  
 IOS8SwiftAnimatingViewTutorial	- http://ioscreator.com/tutorials/animating-views-auto-layout-ios8-swift    
+IOS8SwiftDeleteTableViewTutorial - http://ioscreator.com/tutorials/delete-rows-table-view-ios8-swift  
 
 
 
