@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 8-Oct-2014
+  This README last updated: 12-Oct-2014
 ===========================================================================================================
 
 INDEX
@@ -134,6 +134,7 @@ IOS8SwiftRotatingImageTutorial	- http://ioscreator.com/tutorials/rotating-image-
 IOS8SwiftJSONTutorial		- http://ioscreator.com/tutorials/json-parsing-tutorial-ios8-swift  
 IOS8SwiftAnimatingViewTutorial	- http://ioscreator.com/tutorials/animating-views-auto-layout-ios8-swift    
 IOS8SwiftDeleteTableViewTutorial - http://ioscreator.com/tutorials/delete-rows-table-view-ios8-swift  
+IOS8SwiftDrawingCirclesTutorial - http://ioscreator.com/tutorials/drawing-circles-uitouch-ios8-swift  
 
 
 
