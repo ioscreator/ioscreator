@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6245" systemVersion="14A386b" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="IOS8SwiftPickerViewTutorial" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Hda-kM-9Zl">
+                                <rect key="frame" x="0.0" y="28" width="600" height="162"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="600" id="kWZ-E2-BWJ"/>
+                                    <constraint firstAttribute="width" secondItem="Hda-kM-9Zl" secondAttribute="height" multiplier="100:27" id="qcy-qi-hPU"/>
+                                </constraints>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="kWZ-E2-BWJ"/>
+                                        <exclude reference="qcy-qi-hPU"/>
+                                    </mask>
+                                </variation>
+                                <connections>
+                                    <outlet property="dataSource" destination="BYZ-38-t0r" id="cOI-T7-Z1T"/>
+                                </connections>
+                            </pickerView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="Hda-kM-9Zl" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="-16" id="OsF-Uz-eRX"/>
+                            <constraint firstItem="Hda-kM-9Zl" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="8" id="W5P-xR-fUK"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="Hda-kM-9Zl" secondAttribute="trailing" constant="-16" id="ZrY-XC-u5Q"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="Hda-kM-9Zl" secondAttribute="trailing" constant="-16" id="dIs-z2-UZR"/>
+                            <constraint firstItem="Hda-kM-9Zl" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="-16" id="kJK-M5-jdf"/>
+                            <constraint firstItem="Hda-kM-9Zl" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="8" id="tuZ-by-17M"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="W5P-xR-fUK"/>
+                                <exclude reference="ZrY-XC-u5Q"/>
+                                <exclude reference="kJK-M5-jdf"/>
+                            </mask>
+                        </variation>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="68" y="7"/>
+        </scene>
+    </scenes>
+</document>
