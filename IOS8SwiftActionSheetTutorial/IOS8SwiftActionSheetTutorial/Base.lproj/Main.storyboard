@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6245" systemVersion="14A388b" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="IOS8SwiftActionSheetTutorial" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vEc-SV-8TL">
+                                <rect key="frame" x="235" y="86" width="131" height="30"/>
+                                <state key="normal" title="Show Action Sheet">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="showActionSheet:" destination="BYZ-38-t0r" eventType="touchUpInside" id="WAQ-1V-XDu"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="vEc-SV-8TL" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="66" id="31x-eF-vhb"/>
+                            <constraint firstAttribute="centerX" secondItem="vEc-SV-8TL" secondAttribute="centerX" id="JxN-El-lpT"/>
+                            <constraint firstItem="vEc-SV-8TL" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="66" id="Nef-f6-EFn"/>
+                            <constraint firstAttribute="centerY" secondItem="vEc-SV-8TL" secondAttribute="centerY" constant="199" id="Q6y-5Y-ASK"/>
+                            <constraint firstAttribute="centerY" secondItem="vEc-SV-8TL" secondAttribute="centerY" id="Va5-mo-Htl"/>
+                            <constraint firstItem="vEc-SV-8TL" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="66" id="Ycm-aZ-61I"/>
+                            <constraint firstItem="vEc-SV-8TL" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="219" id="fnq-uH-KOV"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="vEc-SV-8TL" secondAttribute="trailing" constant="218" id="gAS-gc-IgG"/>
+                            <constraint firstItem="vEc-SV-8TL" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="nby-21-Sex"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="31x-eF-vhb"/>
+                                <exclude reference="JxN-El-lpT"/>
+                                <exclude reference="Q6y-5Y-ASK"/>
+                                <exclude reference="Va5-mo-Htl"/>
+                                <exclude reference="Ycm-aZ-61I"/>
+                                <exclude reference="fnq-uH-KOV"/>
+                                <exclude reference="gAS-gc-IgG"/>
+                            </mask>
+                        </variation>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+</document>
