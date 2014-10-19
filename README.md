@@ -137,6 +137,7 @@ IOS8SwiftDeleteTableViewTutorial - http://ioscreator.com/tutorials/delete-rows-t
 IOS8SwiftDrawingCirclesTutorial - http://ioscreator.com/tutorials/drawing-circles-uitouch-ios8-swift  
 IOS8SwiftPickerViewTutorial	- http://ioscreator.com/tutorials/picker-view-tutorial-ios8-swift  
 IOS8SwiftActionSheetTutorial	- http://ioscreator.com/tutorials/action-sheet-tutorial-ios8-swift  
+IOS8SwiftShakeGestureTutorial	- http://ioscreator.com/tutorials/detect-shake-gesture-ios8-swift  
 
 
 
