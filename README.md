@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 27-Oct-2014
+  This README last updated: 29-Oct-2014
 ===========================================================================================================
 
 INDEX
@@ -142,6 +142,7 @@ IOS8SwiftAddRowsTableViewTutorial - http://ioscreator.com/tutorials/add-rows-tab
 IOS8SwiftVolumeTutorial		- http://ioscreator.com/tutorials/volume-view-tutorial-ios8-swift  
 IOS8SwiftScrollViewPagingTutorial - http://ioscreator.com/tutorials/scroll-view-paging-tutorial-ios8-swift  
 IOS8SwiftCustomizeTableViewTutorial - http://ioscreator.com/tutorials/customizing-table-view-tutorial-ios8-swift  
+IOS8SwiftGradientsCoreGraphicsTutorial - http://ioscreator.com/tutorials/draw-gradients-core-graphics-ios8-swift  
 
 
 
