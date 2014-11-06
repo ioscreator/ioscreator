@@ -52,7 +52,7 @@ class CarListViewController: UITableViewController {
 
         // Configure the cell...
       
-        cell.textLabel?.text = cars[indexPath.row]
+        cell.textLabel.text = cars[indexPath.row]
 
         return cell
     }
