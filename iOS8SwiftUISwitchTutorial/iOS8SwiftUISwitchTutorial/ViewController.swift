@@ -10,8 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
                             
-	@IBOutlet var myTextField: UITextField
-	@IBOutlet var mySwitch: UISwitch
+	@IBOutlet var myTextField: UITextField!
+	@IBOutlet var mySwitch: UISwitch!
 	
 	@IBAction func buttonClicked(sender: UIButton) {
 		if mySwitch.on {
