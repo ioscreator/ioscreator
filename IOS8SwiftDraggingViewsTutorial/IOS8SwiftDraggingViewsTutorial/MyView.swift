@@ -11,12 +11,12 @@ import UIKit
 class MyView: UIView {
     var lastLocation:CGPoint = CGPointMake(0, 0)
     
-    init(frame: CGRect) {
+    override init(frame: CGRect) {
         super.init(frame: frame)
         // Initialization code
         var panRecognizer = UIPanGestureRecognizer(target:self, action:"detectPan:")
         self.gestureRecognizers = [panRecognizer]
-        
+      
         //randomize view color
         let blueValue = CGFloat(Int(arc4random() % 255)) / 255.0
         let greenValue = CGFloat(Int(arc4random() % 255)) / 255.0
@@ -24,15 +24,19 @@ class MyView: UIView {
         
         self.backgroundColor = UIColor(red:redValue, green: greenValue, blue: blueValue, alpha: 1.0)
     }
+
+    required init(coder aDecoder: NSCoder) {
+        fatalError("init(coder:) has not been implemented")
+    }
     
     func detectPan(recognizer:UIPanGestureRecognizer) {
-        var translation  = recognizer.translationInView(self.superview)
+        var translation  = recognizer.translationInView(self.superview!)
         self.center = CGPointMake(lastLocation.x + translation.x, lastLocation.y + translation.y)
     }
     
-    override func touchesBegan(touches: NSSet!, withEvent event: UIEvent!) {
+    override func touchesBegan(touches: NSSet, withEvent event: UIEvent) {
         // Promote the touched view
-        self.superview.bringSubviewToFront(self)
+        self.superview?.bringSubviewToFront(self)
         
         // Remember original location
         lastLocation = self.center
