@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
   
   @IBAction func scaleImage(sender: UIPinchGestureRecognizer) {
-    sender.view.transform = CGAffineTransformScale(sender.view.transform, sender.scale, sender.scale)
+    self.view.transform = CGAffineTransformScale(self.view.transform, sender.scale, sender.scale)
     sender.scale = 1
   }
                             
