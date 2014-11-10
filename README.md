@@ -145,6 +145,7 @@ IOS8SwiftCustomizeTableViewTutorial - http://ioscreator.com/tutorials/customizin
 IOS8SwiftGradientsCoreGraphicsTutorial - http://ioscreator.com/tutorials/draw-gradients-core-graphics-ios8-swift  
 IOS8SwiftCollectionViewControllerTutorial - http://ioscreator.com/tutorials/collection-view-controller-tutorial-ios8-swift  
 IOS8SwiftBlurEffectTutorial	- http://ioscreator.com/tutorials/add-blur-effect-ios8-swift  
+IOS8SwiftSnapBehaviourTutorial  - http://ioscreator.com/tutorials/add-snap-behaviour-tutorial-ios8-swift  
 
 
 
