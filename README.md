@@ -147,6 +147,7 @@ IOS8SwiftCollectionViewControllerTutorial - http://ioscreator.com/tutorials/coll
 IOS8SwiftBlurEffectTutorial	- http://ioscreator.com/tutorials/add-blur-effect-ios8-swift  
 IOS8SwiftSnapBehaviourTutorial  - http://ioscreator.com/tutorials/add-snap-behaviour-tutorial-ios8-swift  
 SpriteKitSwiftLabelTutorial	- http://ioscreator.com/tutorials/using-labels-spritekit-swift  
+IOS8SwiftHideOnTapTutorial	- http://ioscreator.com/tutorials/hide-navigation-bar-on-tap-ios8-swift  
 
 
 
