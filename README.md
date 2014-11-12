@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 09-Nov-2014
+  This README last updated: 11-Nov-2014
 ===========================================================================================================
 
 INDEX
@@ -146,6 +146,7 @@ IOS8SwiftGradientsCoreGraphicsTutorial - http://ioscreator.com/tutorials/draw-gr
 IOS8SwiftCollectionViewControllerTutorial - http://ioscreator.com/tutorials/collection-view-controller-tutorial-ios8-swift  
 IOS8SwiftBlurEffectTutorial	- http://ioscreator.com/tutorials/add-blur-effect-ios8-swift  
 IOS8SwiftSnapBehaviourTutorial  - http://ioscreator.com/tutorials/add-snap-behaviour-tutorial-ios8-swift  
+SpriteKitSwiftLabelTutorial	- http://ioscreator.com/tutorials/using-labels-spritekit-swift  
 
 
 
