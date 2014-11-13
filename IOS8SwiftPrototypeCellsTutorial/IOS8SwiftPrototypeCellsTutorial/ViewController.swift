@@ -26,18 +26,21 @@ class ViewController: UITableViewController {
     return transportItems.count
   }
   
+
   
   override func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
     
-    var cell = tableView.dequeueReusableCellWithIdentifier("transportCell") as? UITableViewCell
+    var cell = tableView.dequeueReusableCellWithIdentifier("transportCell") as UITableViewCell
     
-    cell?.textLabel?.text = transportItems[indexPath.row]
+    cell.textLabel.text = transportItems[indexPath.row]
     
     var imageName = UIImage(named: transportItems[indexPath.row])
-    cell?.imageView?.image = imageName
+    cell.imageView.image = imageName
     
-    return cell!
+    return cell
   }
+  
+  
 
   
 
