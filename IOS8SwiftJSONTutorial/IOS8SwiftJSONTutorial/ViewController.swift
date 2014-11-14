@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     
     // 1
     let urlAsString = "http://date.jsontest.com"
-    let url: NSURL  = NSURL(string: urlAsString)
+    let url = NSURL(string: urlAsString)!
     let urlSession = NSURLSession.sharedSession()
     
     //2
