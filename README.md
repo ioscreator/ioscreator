@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 11-Nov-2014
+  This README last updated: 18-Nov-2014
 ===========================================================================================================
 
 INDEX
@@ -148,6 +148,7 @@ IOS8SwiftBlurEffectTutorial	- http://ioscreator.com/tutorials/add-blur-effect-io
 IOS8SwiftSnapBehaviourTutorial  - http://ioscreator.com/tutorials/add-snap-behaviour-tutorial-ios8-swift  
 SpriteKitSwiftLabelTutorial	- http://ioscreator.com/tutorials/using-labels-spritekit-swift  
 IOS8SwiftHideOnTapTutorial	- http://ioscreator.com/tutorials/hide-navigation-bar-on-tap-ios8-swift  
+IOS8SwiftActionTableViewTutorial - http://ioscreator.com/tutorials/swipe-table-view-cell-custom-actions-tutorial-ios8-swift  
 
 
 
