@@ -150,6 +150,7 @@ SpriteKitSwiftLabelTutorial	- http://ioscreator.com/tutorials/using-labels-sprit
 IOS8SwiftHideOnTapTutorial	- http://ioscreator.com/tutorials/hide-navigation-bar-on-tap-ios8-swift  
 IOS8SwiftActionTableViewTutorial - http://ioscreator.com/tutorials/swipe-table-view-cell-custom-actions-tutorial-ios8-swift  
 WatchKitLabelTutorial		- http://ioscreator.com/tutorials/display-label-tutorial-watchkit  
+IOS8SwiftSwipeGestureTutorial	- http://ioscreator.com/tutorials/detecting-swipe-gesture-tutorial-ios8-swift  
 
 
 
