@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 19-Nov-2014
+  This README last updated: 24-Nov-2014
 ===========================================================================================================
 
 INDEX
@@ -151,6 +151,7 @@ IOS8SwiftHideOnTapTutorial	- http://ioscreator.com/tutorials/hide-navigation-bar
 IOS8SwiftActionTableViewTutorial - http://ioscreator.com/tutorials/swipe-table-view-cell-custom-actions-tutorial-ios8-swift  
 WatchKitLabelTutorial		- http://ioscreator.com/tutorials/display-label-tutorial-watchkit  
 IOS8SwiftSwipeGestureTutorial	- http://ioscreator.com/tutorials/detecting-swipe-gesture-tutorial-ios8-swift  
+IOS8SwiftPasteBinTutorial	- http://ioscreator.com/tutorials/pasteboard-tutorial-ios8-swift  
 
 
 
