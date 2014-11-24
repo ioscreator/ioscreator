@@ -152,6 +152,7 @@ IOS8SwiftActionTableViewTutorial - http://ioscreator.com/tutorials/swipe-table-v
 WatchKitLabelTutorial		- http://ioscreator.com/tutorials/display-label-tutorial-watchkit  
 IOS8SwiftSwipeGestureTutorial	- http://ioscreator.com/tutorials/detecting-swipe-gesture-tutorial-ios8-swift  
 IOS8SwiftPasteBinTutorial	- http://ioscreator.com/tutorials/pasteboard-tutorial-ios8-swift  
+IOS8SwiftSendSMSTutorial	- http://ioscreator.com/tutorials/send-sms-messages-tutorial-ios8-swift  
 
 
 
