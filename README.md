@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 24-Nov-2014
+  This README last updated: 26-Nov-2014
 ===========================================================================================================
 
 INDEX
@@ -153,6 +153,7 @@ WatchKitLabelTutorial		- http://ioscreator.com/tutorials/display-label-tutorial-
 IOS8SwiftSwipeGestureTutorial	- http://ioscreator.com/tutorials/detecting-swipe-gesture-tutorial-ios8-swift  
 IOS8SwiftPasteBinTutorial	- http://ioscreator.com/tutorials/pasteboard-tutorial-ios8-swift  
 IOS8SwiftSendSMSTutorial	- http://ioscreator.com/tutorials/send-sms-messages-tutorial-ios8-swift  
+IOS8SwiftPullToRefreshTutorial	- http://ioscreator.com/tutorials/add-pull-to-refresh-table-view-ios8-swift  
 
 
 
