@@ -154,6 +154,7 @@ IOS8SwiftSwipeGestureTutorial	- http://ioscreator.com/tutorials/detecting-swipe-
 IOS8SwiftPasteBinTutorial	- http://ioscreator.com/tutorials/pasteboard-tutorial-ios8-swift  
 IOS8SwiftSendSMSTutorial	- http://ioscreator.com/tutorials/send-sms-messages-tutorial-ios8-swift  
 IOS8SwiftPullToRefreshTutorial	- http://ioscreator.com/tutorials/add-pull-to-refresh-table-view-ios8-swift  
+WatchKitPositioningTutorial	- http://ioscreator.com/tutorials/positioning-tutorial-watchkit  
 
 
 
