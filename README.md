@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 26-Nov-2014
+  This README last updated: 27-Nov-2014
 ===========================================================================================================
 
 INDEX
@@ -156,6 +156,7 @@ IOS8SwiftSendSMSTutorial	- http://ioscreator.com/tutorials/send-sms-messages-tut
 IOS8SwiftPullToRefreshTutorial	- http://ioscreator.com/tutorials/add-pull-to-refresh-table-view-ios8-swift  
 WatchKitPositioningTutorial	- http://ioscreator.com/tutorials/positioning-tutorial-watchkit  
 IOS8SwiftSpringAnimationTutorial - http://ioscreator.com/tutorials/spring-animation-tutorial-ios8-swift  
+IOS8SwiftActivityViewControllerTutorial	- http://ioscreator.com/tutorials/activity-view-controller-tutorial-ios8-swift  
 
 
 
