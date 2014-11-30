@@ -158,6 +158,7 @@ WatchKitPositioningTutorial	- http://ioscreator.com/tutorials/positioning-tutori
 IOS8SwiftSpringAnimationTutorial - http://ioscreator.com/tutorials/spring-animation-tutorial-ios8-swift  
 IOS8SwiftActivityViewControllerTutorial	- http://ioscreator.com/tutorials/activity-view-controller-tutorial-ios8-swift  
 IOS8SwiftCustomizeNavBarTutorial - http://ioscreator.com/tutorials/customizing-navigation-bar-ios8-swift  
+IOS8SwiftTouchIDTutorial	- http://ioscreator.com/tutorials/touch-id-tutorial-ios8-swift  
 
 
 
