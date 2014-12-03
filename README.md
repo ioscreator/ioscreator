@@ -1,5 +1,5 @@
 iOScreator
-==========
+G==========
 
 Source Code of iOS tutorials at ioscreator.com
 
@@ -160,6 +160,7 @@ IOS8SwiftActivityViewControllerTutorial	- http://ioscreator.com/tutorials/activi
 IOS8SwiftCustomizeNavBarTutorial - http://ioscreator.com/tutorials/customizing-navigation-bar-ios8-swift  
 IOS8SwiftTouchIDTutorial	- http://ioscreator.com/tutorials/touch-id-tutorial-ios8-swift  
 IOS8SwiftActivityIndicatorStatusBarTutorial - http://ioscreator.com/tutorials/display-activity-indicator-status-bar-ios8-swift  
+IOSSwiftLongPressGesturesTutorial - http://ioscreator.com/tutorials/detecting-long-press-gestures-tutorial-ios8-swift
 
 
 
