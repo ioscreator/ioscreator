@@ -162,6 +162,7 @@ IOS8SwiftTouchIDTutorial	- http://ioscreator.com/tutorials/touch-id-tutorial-ios
 IOS8SwiftActivityIndicatorStatusBarTutorial - http://ioscreator.com/tutorials/display-activity-indicator-status-bar-ios8-swift  
 IOS8SwiftLongPressGesturesTutorial - http://ioscreator.com/tutorials/detecting-long-press-gestures-tutorial-ios8-swift
 IOS8SwiftAttributedStringsTutorial - http://ioscreator.com/tutorials/attributed-strings-tutorial-ios8-swift  
+IOS8SWiftHeaderFooterTutorial 	- http://ioscreator.com/tutorials/customizing-header-footer-table-view-ios8-swift
 
 
 
