@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 7-Dec-2014
+  This README last updated: 10-Dec-2014
 ===========================================================================================================
 
 INDEX
@@ -163,6 +163,7 @@ IOS8SwiftActivityIndicatorStatusBarTutorial - http://ioscreator.com/tutorials/di
 IOS8SwiftLongPressGesturesTutorial - http://ioscreator.com/tutorials/detecting-long-press-gestures-tutorial-ios8-swift
 IOS8SwiftAttributedStringsTutorial - http://ioscreator.com/tutorials/attributed-strings-tutorial-ios8-swift  
 IOS8SWiftHeaderFooterTutorial 	- http://ioscreator.com/tutorials/customizing-header-footer-table-view-ios8-swift
+SpriteKitSwiftAccelerometerTutorial - http://ioscreator.com/tutorials/move-sprites-accelerometer-spritekit-swift  
 
 
 
