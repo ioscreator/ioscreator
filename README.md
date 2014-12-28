@@ -168,6 +168,7 @@ IOS8SwiftEmailTutorial		- http://ioscreator.com/tutorials/send-email-tutorial-io
 IOS8SwiftTodayExtensionTutorial - http://ioscreator.com/tutorials/today-extensions-tutorial-ios8-swift  
 IOS8SwiftCustomFontsTutorial	- http://ioscreator.com/tutorials/custom-fonts-interface-builder-tutorial-ios8-swift  
 IOS8SwiftCustomCollectionViewCellsTutorial - http://ioscreator.com/tutorials/custom-collection-view-cell-tutorial-ios8-swift  
+IOS8SwiftAttachBehaviourTutorial - http://ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-tutorial-ios8-swift  
 
 
 
