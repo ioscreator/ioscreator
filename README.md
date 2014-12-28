@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 20-Dec-2014
+  This README last updated: 28-Dec-2014
 ===========================================================================================================
 
 INDEX
@@ -167,6 +167,7 @@ SpriteKitSwiftAccelerometerTutorial - http://ioscreator.com/tutorials/move-sprit
 IOS8SwiftEmailTutorial		- http://ioscreator.com/tutorials/send-email-tutorial-ios8-swift  
 IOS8SwiftTodayExtensionTutorial - http://ioscreator.com/tutorials/today-extensions-tutorial-ios8-swift  
 IOS8SwiftCustomFontsTutorial	- http://ioscreator.com/tutorials/custom-fonts-interface-builder-tutorial-ios8-swift  
+IOS8SwiftCustomCollectionViewCellsTutorial - http://ioscreator.com/tutorials/custom-collection-view-cell-tutorial-ios8-swift  
 
 
 
