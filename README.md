@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 05-Jan-2015
+  This README last updated: 07-Jan-2015
 ===========================================================================================================
 
 INDEX
@@ -171,6 +171,7 @@ IOS8SwiftCustomCollectionViewCellsTutorial - http://ioscreator.com/tutorials/cus
 IOS8SwiftAttachBehaviourTutorial - http://ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-tutorial-ios8-swift  
 IOS8SwiftSceneKitTutorial	- http://ioscreator.com/tutorials/scene-kit-primitives-tutorial-swift  
 IOS8SwiftReorderingRowsTutorial	- http://ioscreator.com/tutorials/reordering-rows-table-view-ios8-swift  
+IOS8SwiftAirprintTutorial	- http://ioscreator.com/tutorials/airprint-tutorial-ios8-swift  
 
 
 

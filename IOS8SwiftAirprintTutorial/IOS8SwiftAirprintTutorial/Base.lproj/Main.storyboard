@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6254" systemVersion="14B25" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="vXZ-lx-hvc">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="ufC-wZ-h7g">
+            <objects>
+                <viewController id="vXZ-lx-hvc" customClass="ViewController" customModule="IOS8SwiftAirprintTutorial" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="jyV-Pf-zRb"/>
+                        <viewControllerLayoutGuide type="bottom" id="2fi-mo-0CV"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="kh9-bI-dsS">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xs7-YQ-a05">
+                                <rect key="frame" x="277" y="209" width="32" height="30"/>
+                                <state key="normal" title="Print">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="printText:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="glp-h3-yhz"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gH6-9k-Wp7">
+                                <rect key="frame" x="16" y="28" width="584" height="150"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="gH6-9k-Wp7" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="1hH-4p-3P0"/>
+                            <constraint firstItem="Xs7-YQ-a05" firstAttribute="top" secondItem="gH6-9k-Wp7" secondAttribute="bottom" constant="31" id="1qw-0G-ytf"/>
+                            <constraint firstAttribute="centerY" secondItem="Xs7-YQ-a05" secondAttribute="centerY" constant="76" id="2ng-Ap-kzy"/>
+                            <constraint firstAttribute="trailing" secondItem="gH6-9k-Wp7" secondAttribute="trailing" id="5Om-6G-J8L"/>
+                            <constraint firstItem="gH6-9k-Wp7" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="8" symbolic="YES" id="7sR-bb-UBk"/>
+                            <constraint firstItem="Xs7-YQ-a05" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" constant="277" id="DuG-Ho-4nh"/>
+                            <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="Xs7-YQ-a05" secondAttribute="bottom" constant="361" id="Fap-2a-YFF"/>
+                            <constraint firstAttribute="trailing" secondItem="gH6-9k-Wp7" secondAttribute="trailing" id="J3X-1U-0yl"/>
+                            <constraint firstItem="gH6-9k-Wp7" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="JBY-Il-Tda"/>
+                            <constraint firstItem="Xs7-YQ-a05" firstAttribute="top" secondItem="gH6-9k-Wp7" secondAttribute="bottom" constant="31" id="NRP-k5-hiC"/>
+                            <constraint firstItem="Xs7-YQ-a05" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" constant="261" id="Pak-4r-t9m"/>
+                            <constraint firstItem="gH6-9k-Wp7" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="8" symbolic="YES" id="PgU-M4-1fr"/>
+                            <constraint firstItem="Xs7-YQ-a05" firstAttribute="top" secondItem="gH6-9k-Wp7" secondAttribute="bottom" constant="31" id="Ueh-jd-iTI"/>
+                            <constraint firstItem="Xs7-YQ-a05" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" constant="277" id="X1z-S5-tgJ"/>
+                            <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="Xs7-YQ-a05" secondAttribute="bottom" constant="361" id="XnI-ef-nHe"/>
+                            <constraint firstItem="gH6-9k-Wp7" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="8" symbolic="YES" id="Zr6-0M-NsD"/>
+                            <constraint firstItem="gH6-9k-Wp7" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="eDh-g6-yjq"/>
+                            <constraint firstItem="Xs7-YQ-a05" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" constant="277" id="fB2-Du-yQA"/>
+                            <constraint firstItem="gH6-9k-Wp7" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="guL-Yl-85c"/>
+                            <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="Xs7-YQ-a05" secondAttribute="bottom" constant="361" id="hUm-72-4bg"/>
+                            <constraint firstAttribute="trailing" secondItem="gH6-9k-Wp7" secondAttribute="trailing" id="iAg-Ax-VEQ"/>
+                            <constraint firstItem="2fi-mo-0CV" firstAttribute="top" secondItem="Xs7-YQ-a05" secondAttribute="bottom" constant="361" id="jms-r7-oRh"/>
+                            <constraint firstItem="gH6-9k-Wp7" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="8" symbolic="YES" id="nkq-1C-ZRg"/>
+                            <constraint firstAttribute="trailing" secondItem="gH6-9k-Wp7" secondAttribute="trailing" id="rWC-Z6-WdG"/>
+                            <constraint firstItem="Xs7-YQ-a05" firstAttribute="top" secondItem="gH6-9k-Wp7" secondAttribute="bottom" constant="31" id="ruc-oP-uld"/>
+                            <constraint firstItem="gH6-9k-Wp7" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="8" id="tqq-By-dEj"/>
+                            <constraint firstItem="Xs7-YQ-a05" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" constant="277" id="uS5-dZ-eqs"/>
+                            <constraint firstAttribute="centerY" secondItem="Xs7-YQ-a05" secondAttribute="centerY" constant="76" id="xZp-hR-EJd"/>
+                            <constraint firstItem="gH6-9k-Wp7" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leadingMargin" id="zg3-Nh-jst"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="5Om-6G-J8L"/>
+                                <exclude reference="7sR-bb-UBk"/>
+                                <exclude reference="J3X-1U-0yl"/>
+                                <exclude reference="JBY-Il-Tda"/>
+                                <exclude reference="PgU-M4-1fr"/>
+                                <exclude reference="Zr6-0M-NsD"/>
+                                <exclude reference="eDh-g6-yjq"/>
+                                <exclude reference="guL-Yl-85c"/>
+                                <exclude reference="rWC-Z6-WdG"/>
+                                <exclude reference="tqq-By-dEj"/>
+                                <exclude reference="zg3-Nh-jst"/>
+                                <exclude reference="1qw-0G-ytf"/>
+                                <exclude reference="2ng-Ap-kzy"/>
+                                <exclude reference="DuG-Ho-4nh"/>
+                                <exclude reference="NRP-k5-hiC"/>
+                                <exclude reference="Pak-4r-t9m"/>
+                                <exclude reference="X1z-S5-tgJ"/>
+                                <exclude reference="fB2-Du-yQA"/>
+                                <exclude reference="ruc-oP-uld"/>
+                                <exclude reference="xZp-hR-EJd"/>
+                                <exclude reference="Fap-2a-YFF"/>
+                                <exclude reference="XnI-ef-nHe"/>
+                                <exclude reference="jms-r7-oRh"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <connections>
+                        <outlet property="textView" destination="gH6-9k-Wp7" id="wYt-Ul-YbK"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="190" y="171"/>
+        </scene>
+    </scenes>
+</document>
