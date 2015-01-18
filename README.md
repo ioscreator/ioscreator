@@ -175,6 +175,7 @@ IOS8SwiftAirprintTutorial	- http://ioscreator.com/tutorials/airprint-tutorial-io
 IOS8SwiftCollisionDetectionTutorial - http://ioscreator.com/tutorials/uikit-dynamics-collision-detection-ios8-swift  
 IOS8SwiftDynamicTypesTutorial	- http://ioscreator.com/tutorials/dynamic-types-tutorial-ios8-swift  
 IOS8SwiftScreenEdgePanGesturesTutorial - http://ioscreator.com/tutorials/screen-edge-pan-gesture-tutorial-ios8-swift  
+IOS8SwiftAddEventTutorial	- http:/ioscreator.com/tutorials/add-event-calendar-tutorial-ios8-swift  
 
 
 
