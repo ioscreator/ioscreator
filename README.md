@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 13-Jan-2015
+  This README last updated: 17-Jan-2015
 ===========================================================================================================
 
 INDEX
@@ -174,6 +174,7 @@ IOS8SwiftReorderingRowsTutorial	- http://ioscreator.com/tutorials/reordering-row
 IOS8SwiftAirprintTutorial	- http://ioscreator.com/tutorials/airprint-tutorial-ios8-swift  
 IOS8SwiftCollisionDetectionTutorial - http://ioscreator.com/tutorials/uikit-dynamics-collision-detection-ios8-swift  
 IOS8SwiftDynamicTypesTutorial	- http://ioscreator.com/tutorials/dynamic-types-tutorial-ios8-swift  
+IOS8SwiftScreenEdgePanGesturesTutorial - http://ioscreator.com/tutorials/screen-edge-pan-gesture-tutorial-ios8-swift  
 
 
 
