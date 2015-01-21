@@ -177,6 +177,7 @@ IOS8SwiftDynamicTypesTutorial	- http://ioscreator.com/tutorials/dynamic-types-tu
 IOS8SwiftScreenEdgePanGesturesTutorial - http://ioscreator.com/tutorials/screen-edge-pan-gesture-tutorial-ios8-swift  
 IOS8SwiftAddEventTutorial	- http://ioscreator.com/tutorials/add-event-calendar-tutorial-ios8-swift  
 IOS8SwiftTakePhotoTutorial	- http://ioscreator.com/tutorials/take-photo-tutorial-ios8-swift  
+IOS8SwiftScrollViewTutorial	- http://ioscreator.com/tutorials/scroll-view-tutorial-ios8-swift  
 
 
 
