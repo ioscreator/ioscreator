@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 20-Jan-2015
+  This README last updated: 26-Jan-2015
 ===========================================================================================================
 
 INDEX
@@ -178,6 +178,7 @@ IOS8SwiftScreenEdgePanGesturesTutorial - http://ioscreator.com/tutorials/screen-
 IOS8SwiftAddEventTutorial	- http://ioscreator.com/tutorials/add-event-calendar-tutorial-ios8-swift  
 IOS8SwiftTakePhotoTutorial	- http://ioscreator.com/tutorials/take-photo-tutorial-ios8-swift  
 IOS8SwiftScrollViewTutorial	- http://ioscreator.com/tutorials/scroll-view-tutorial-ios8-swift  
+SpriteKitSwiftScenesTutorial	- http://ioscreator.com/tutorials/scenes-tutorial-spritekit-swift  
 
 
 
