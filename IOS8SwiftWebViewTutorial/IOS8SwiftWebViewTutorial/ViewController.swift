@@ -17,7 +17,7 @@ class ViewController: UIViewController {
 		super.viewDidLoad()
 		
 		let requestURL = NSURL(string:url)
-        let request = NSURLRequest(URL: requesturl!)
+        let request = NSURLRequest(URL: requestURL!)
     
         webView.loadRequest(request)
 	}
