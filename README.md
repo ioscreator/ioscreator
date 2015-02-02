@@ -180,6 +180,7 @@ IOS8SwiftTakePhotoTutorial	- http://ioscreator.com/tutorials/take-photo-tutorial
 IOS8SwiftScrollViewTutorial	- http://ioscreator.com/tutorials/scroll-view-tutorial-ios8-swift  
 SpriteKitSwiftScenesTutorial	- http://ioscreator.com/tutorials/scenes-tutorial-spritekit-swift  
 IOS8SwiftLocalNotificationTutorial - http://ioscreator.com/tutorials/local-notification-tutorial-ios8-swift  
+IOS8SwiftMoveViewKeyboardTutorial - http://ioscreator.com/tutorials/move-view-behind-keyboard-ios8-swift  
 
 
 
