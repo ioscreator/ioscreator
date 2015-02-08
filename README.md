@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 28-Jan-2015
+  This README last updated: 8-Feb-2015
 ===========================================================================================================
 
 INDEX
@@ -181,6 +181,7 @@ IOS8SwiftScrollViewTutorial	- http://ioscreator.com/tutorials/scroll-view-tutori
 SpriteKitSwiftScenesTutorial	- http://ioscreator.com/tutorials/scenes-tutorial-spritekit-swift  
 IOS8SwiftLocalNotificationTutorial - http://ioscreator.com/tutorials/local-notification-tutorial-ios8-swift  
 IOS8SwiftMoveViewKeyboardTutorial - http://ioscreator.com/tutorials/move-view-behind-keyboard-ios8-swift  
+IOS8SwiftAddSearchTableViewTutorial - http://ioscreator.com/tutorials/add-search-table-view-tutorial-ios8-swift  
 
 
 
