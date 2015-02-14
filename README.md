@@ -182,6 +182,7 @@ SpriteKitSwiftScenesTutorial	- http://ioscreator.com/tutorials/scenes-tutorial-s
 IOS8SwiftLocalNotificationTutorial - http://ioscreator.com/tutorials/local-notification-tutorial-ios8-swift  
 IOS8SwiftMoveViewKeyboardTutorial - http://ioscreator.com/tutorials/move-view-behind-keyboard-ios8-swift  
 IOS8SwiftAddSearchTableViewTutorial - http://ioscreator.com/tutorials/add-search-table-view-tutorial-ios8-swift  
+SpriteKitSwiftFollowPathTutorial - http://ioscreator.com/tutorials/move-sprite-along-path-spritekit-swift  
 
 
 
