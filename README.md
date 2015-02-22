@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 8-Feb-2015
+  This README last updated: 21-Feb-2015
 ===========================================================================================================
 
 INDEX
@@ -183,6 +183,7 @@ IOS8SwiftLocalNotificationTutorial - http://ioscreator.com/tutorials/local-notif
 IOS8SwiftMoveViewKeyboardTutorial - http://ioscreator.com/tutorials/move-view-behind-keyboard-ios8-swift  
 IOS8SwiftAddSearchTableViewTutorial - http://ioscreator.com/tutorials/add-search-table-view-tutorial-ios8-swift  
 SpriteKitSwiftFollowPathTutorial - http://ioscreator.com/tutorials/move-sprite-along-path-spritekit-swift  
+IOS8SwiftNSUserDefaultsTutorial - http://ioscreator.com/tutorials/use-settings-nsuserdefaults-ios8-swift  
 
 
 
