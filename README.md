@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 6-Mar-2015
+  This README last updated: 30-Mar-2015
 ===========================================================================================================
 
 INDEX
@@ -185,7 +185,7 @@ IOS8SwiftAddSearchTableViewTutorial - http://ioscreator.com/tutorials/add-search
 SpriteKitSwiftFollowPathTutorial - http://ioscreator.com/tutorials/move-sprite-along-path-spritekit-swift  
 IOS8SwiftNSUserDefaultsTutorial - http://ioscreator.com/tutorials/use-settings-nsuserdefaults-ios8-swift  
 IOS8SwiftFileManagementTutorial - http://ioscreator.com/tutorials/file-management-tutorial-ios8-swift  
-
+IOS8SwiftLiveRenderingTutorial  - http://ioscreator.com/tutorials/live-rendering-tutorial-ios-8-swift  
 
 
 ===========================================================================================================
