@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     
     // 1
     let string = "Testing Attributed Strings" as NSString
-    var attributedString = NSMutableAttributedString(string: string)
+    var attributedString = NSMutableAttributedString(string: string as String)
     
     
     // 2

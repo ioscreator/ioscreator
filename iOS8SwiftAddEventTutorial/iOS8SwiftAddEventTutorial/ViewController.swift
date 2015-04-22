@@ -41,7 +41,7 @@ class ViewController: UIViewController {
   func insertEvent(store: EKEventStore) {
     // 1
     let calendars = store.calendarsForEntityType(EKEntityTypeEvent)
-      as [EKCalendar]
+      as! [EKCalendar]
     
     for calendar in calendars {
       // 2

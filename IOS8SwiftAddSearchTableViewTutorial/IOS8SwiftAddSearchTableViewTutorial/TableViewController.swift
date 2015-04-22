@@ -56,7 +56,7 @@ class TableViewController: UITableViewController, UISearchResultsUpdating {
     
     
     override func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCellWithIdentifier("Cell", forIndexPath: indexPath) as UITableViewCell
+        let cell = tableView.dequeueReusableCellWithIdentifier("Cell", forIndexPath: indexPath) as! UITableViewCell
         
         // 3
         if (self.resultSearchController.active) {
@@ -76,8 +76,8 @@ class TableViewController: UITableViewController, UISearchResultsUpdating {
         filteredTableData.removeAll(keepCapacity: false)
         
         let searchPredicate = NSPredicate(format: "SELF CONTAINS[c] %@", searchController.searchBar.text)
-        let array = (tableData as NSArray).filteredArrayUsingPredicate(searchPredicate!)
-        filteredTableData = array as [String]
+        let array = (tableData as NSArray).filteredArrayUsingPredicate(searchPredicate)
+        filteredTableData = array as! [String]
         
         self.tableView.reloadData()
     }

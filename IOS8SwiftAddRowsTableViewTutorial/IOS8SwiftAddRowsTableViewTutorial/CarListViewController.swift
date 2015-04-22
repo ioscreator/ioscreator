@@ -18,7 +18,7 @@ class CarListViewController: UITableViewController {
   }
   
   @IBAction func done(segue:UIStoryboardSegue) {
-    var carDetailVC = segue.sourceViewController as CarDetailViewController
+    var carDetailVC = segue.sourceViewController as! CarDetailViewController
     newCar = carDetailVC.name
     
     cars.append(newCar)
@@ -48,11 +48,11 @@ class CarListViewController: UITableViewController {
 
   
     override func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCellWithIdentifier("carCell", forIndexPath: indexPath) as UITableViewCell
+        let cell = tableView.dequeueReusableCellWithIdentifier("carCell", forIndexPath: indexPath) as! UITableViewCell
 
         // Configure the cell...
       
-        cell.textLabel.text = cars[indexPath.row]
+        cell.textLabel!.text = cars[indexPath.row]
 
         return cell
     }
