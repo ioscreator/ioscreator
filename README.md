@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 23-Apr-2015
+  This README last updated: 3-May-2015
 ===========================================================================================================
 
 INDEX
@@ -187,7 +187,8 @@ IOS8SwiftNSUserDefaultsTutorial | http://ioscreator.com/tutorials/use-settings-n
 IOS8SwiftFileManagementTutorial | http://ioscreator.com/tutorials/file-management-tutorial-ios8-swift  
 IOS8SwiftLiveRenderingTutorial  | http://ioscreator.com/tutorials/live-rendering-tutorial-ios-8-swift  
 IOS8SwiftCoreImageTutorial	| http://ioscreator.com/tutorials/core-image-tutorial-ios8-swift  
-IOS8SwiftSearchMapTutorial	| http://ioscreator.com/.tutorials/searching-map-view-ios8-swift  
+IOS8SwiftSearchMapTutorial	| http://ioscreator.com/tutorials/searching-map-view-ios8-swift  
+IOS8SwiftPropertyListTutorial	| http://ioscreator.com/tutorials/load-data-property-list-ios8-swift  
 
 
 ===========================================================================================================
