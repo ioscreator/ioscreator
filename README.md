@@ -191,6 +191,7 @@ IOS8SwiftSearchMapTutorial	| http://ioscreator.com/tutorials/searching-map-view-
 IOS8SwiftPropertyListTutorial	| http://ioscreator.com/tutorials/load-data-property-list-ios8-swift  
 IOS8SwiftIndexedTableViewTutorial | http://ioscreator.com/tutorials/indexed-table-view-tutorial-ios8-swift  
 IOS8SwiftAirdropTutorial	| http://ioscreator.com/tutorials/airdrop-tutorial-ios8-swift  
+SpriteKitSwiftParticleTutorial  | http://ioscreator.com/tutorials/particle-emitter-tutorial-sprite-kit-swift  
 
 
 ===========================================================================================================
