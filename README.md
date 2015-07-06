@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 17-May-2015
+  This README last updated: 6-July-2015
 ===========================================================================================================
 
 INDEX
@@ -192,6 +192,8 @@ IOS8SwiftPropertyListTutorial	| http://ioscreator.com/tutorials/load-data-proper
 IOS8SwiftIndexedTableViewTutorial | http://ioscreator.com/tutorials/indexed-table-view-tutorial-ios8-swift  
 IOS8SwiftAirdropTutorial	| http://ioscreator.com/tutorials/airdrop-tutorial-ios8-swift  
 SpriteKitSwiftParticleTutorial  | http://ioscreator.com/tutorials/particle-emitter-tutorial-sprite-kit-swift  
+IOS8SwiftPlayMusicAVAudioPlayerTutorial | http://ioscreator.com/tutorials/play-music-avaudioplayer-ios8-swift
+IOS8SwiftCocoapodsTutorial	| http://ioscreator.com/tutorials/cocoapods-tutorial-ios8-swift  
 
 
 ===========================================================================================================
