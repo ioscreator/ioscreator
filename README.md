@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 8-July-2015
+  This README last updated: 12-July-2015
 ===========================================================================================================
 
 INDEX
@@ -195,6 +195,7 @@ SpriteKitSwiftParticleTutorial  | http://ioscreator.com/tutorials/particle-emitt
 IOS8SwiftPlayMusicAVAudioPlayerTutorial | http://ioscreator.com/tutorials/play-music-avaudioplayer-ios8-swift
 IOS8SwiftCocoapodsTutorial	| http://ioscreator.com/tutorials/cocoapods-tutorial-ios8-swift  
 IOS8SwiftTakeVideoTutorial	| http://ioscreator.com/tutorials/take-video-tutorial-ios8-swift  
+IOS8SwiftTabBarControllerTutorial | http://ioscreator.com/tutorials/tab-bar-controller-tutorial-ios8-swift  
 
 
 ===========================================================================================================
