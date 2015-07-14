@@ -28,14 +28,14 @@ class ViewController: UIViewController {
       var err: NSError?
       
       // 3
-      var jsonResult = NSJSONSerialization.JSONObjectWithData(data, options: NSJSONReadingOptions.MutableContainers, error: &err) as NSDictionary
+      var jsonResult = NSJSONSerialization.JSONObjectWithData(data, options: NSJSONReadingOptions.MutableContainers, error: &err) as! NSDictionary
       if (err != nil) {
         println("JSON Error \(err!.localizedDescription)")
       }
       
       // 4
-      let jsonDate: String! = jsonResult["date"] as NSString
-      let jsonTime: String! = jsonResult["time"] as NSString
+      let jsonDate: String! = jsonResult["date"] as! String
+      let jsonTime: String! = jsonResult["time"] as! String
       
       dispatch_async(dispatch_get_main_queue(), {
         self.dateLabel.text = jsonDate
