@@ -34,7 +34,15 @@ class MyView: UIView {
         self.center = CGPointMake(lastLocation.x + translation.x, lastLocation.y + translation.y)
     }
     
-    override func touchesBegan(touches: NSSet, withEvent event: UIEvent) {
+    /*override func touchesBegan(touches: NSSet, withEvent event: UIEvent) {
+        // Promote the touched view
+        self.superview?.bringSubviewToFront(self)
+        
+        // Remember original location
+        lastLocation = self.center
+    }*/
+    
+    override func touchesBegan(touches: Set<NSObject>, withEvent event: UIEvent) {
         // Promote the touched view
         self.superview?.bringSubviewToFront(self)
         

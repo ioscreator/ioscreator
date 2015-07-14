@@ -15,23 +15,22 @@ class ViewController: UIViewController {
     self.view.backgroundColor = UIColor.lightGrayColor()
   }
   
-  override func touchesBegan(touches: NSSet, withEvent event: UIEvent) {
-    
-    // loop through the touches
-    for touch in touches {
-      
-      // Set the Center of the Circle
-      var circleCenter = touch.locationInView(view)
-      
-      // Set a random Circle Radius
-      var circleWidth = CGFloat(25 + (arc4random() % 50))
-      var circleHeight = circleWidth
-      
-      
-      // Create a new CircleView
-      var circleView = CircleView(frame: CGRectMake(circleCenter.x, circleCenter.y, circleWidth, circleHeight))
-      view.addSubview(circleView)
+  override func touchesBegan(touches: Set<NSObject>, withEvent event: UIEvent) {
+    if let touch = touches as? Set<UITouch> {
+        // Set the Center of the Circle
+        var circleCenter = touch.first!.locationInView(view)
+        
+        // Set a random Circle Radius
+        var circleWidth = CGFloat(25 + (arc4random() % 50))
+        var circleHeight = circleWidth
+        
+        
+        // Create a new CircleView
+        var circleView = CircleView(frame: CGRectMake(circleCenter.x, circleCenter.y, circleWidth, circleHeight))
+        view.addSubview(circleView)
     }
+    
+    
   }
 
   override func didReceiveMemoryWarning() {
