@@ -38,7 +38,7 @@ class TableViewController: UITableViewController {
 
   
     override func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
-      let cell = tableView.dequeueReusableCellWithIdentifier("Cell", forIndexPath: indexPath) as UITableViewCell
+      let cell = tableView.dequeueReusableCellWithIdentifier("Cell", forIndexPath: indexPath) as! UITableViewCell
       
       // 3
       // Configure the cell...
@@ -58,7 +58,7 @@ class TableViewController: UITableViewController {
     }
   
   override func tableView(tableView: UITableView, viewForHeaderInSection section: Int) -> UIView? {
-    let  headerCell = tableView.dequeueReusableCellWithIdentifier("HeaderCell") as CustomHeaderCell
+    let  headerCell = tableView.dequeueReusableCellWithIdentifier("HeaderCell") as! CustomHeaderCell
     headerCell.backgroundColor = UIColor.cyanColor()
   
     switch (section) {
