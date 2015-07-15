@@ -26,7 +26,7 @@ class ViewController: UIViewController {
     mapView.setRegion(region, animated: true)
     
     let annotation = MKPointAnnotation()
-    annotation.setCoordinate(location)
+    annotation.coordinate = location
     annotation.title = "Big Ben"
     annotation.subtitle = "London"
     
