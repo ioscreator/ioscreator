@@ -15,7 +15,7 @@ class GameViewController: UIViewController {
     override func viewDidLoad() {
       super.viewDidLoad()
       
-      let scnView = self.view as SCNView
+      let scnView = self.view as! SCNView
       scnView.scene = MyScene() as MyScene
       scnView.backgroundColor = UIColor.blackColor()
       

@@ -33,7 +33,7 @@ class ViewController: UIViewController {
 		
 		let cell:UITableViewCell = UITableViewCell(style:UITableViewCellStyle.Default, reuseIdentifier:"cell")
 		
-		cell.textLabel.text = tableData[indexPath.row]
+		cell.textLabel?.text = tableData[indexPath.row]
 		
 		return cell
 	}
