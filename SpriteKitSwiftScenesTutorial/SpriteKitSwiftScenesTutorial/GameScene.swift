@@ -19,12 +19,12 @@ class GameScene: SKScene {
         self.addChild(button)
     }
     
-    override func touchesBegan(touches: NSSet, withEvent event: UIEvent) {
-        var touch: UITouch = touches.anyObject() as UITouch
-        var location = touch.locationInNode(self)
+    
+    override func touchesBegan(touches: Set<NSObject>, withEvent event: UIEvent) {
+        var touch = touches as!  Set<UITouch>
+        var location = touch.first!.locationInNode(self)
         var node = self.nodeAtPoint(location)
         
-        // If next button is touched, start transition to second scene
         if (node.name == "nextButton") {
             var secondScene = SecondScene(size: self.size)
             var transition = SKTransition.flipVerticalWithDuration(1.0)
@@ -32,6 +32,8 @@ class GameScene: SKScene {
             self.scene!.view?.presentScene(secondScene, transition: transition)
         }
     }
+    
+    
    
     override func update(currentTime: CFTimeInterval) {
         /* Called before each frame is rendered */

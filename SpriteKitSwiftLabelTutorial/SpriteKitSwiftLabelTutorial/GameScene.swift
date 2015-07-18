@@ -26,23 +26,26 @@ class GameScene: SKScene {
       self.addChild(myLabel)
     }
   
-    override func touchesMoved(touches: NSSet, withEvent: UIEvent) {
-      var currentPoint:CGPoint! = touches.anyObject()?.locationInNode(self)
-      var previousPoint:CGPoint! = touches.anyObject()?.previousLocationInNode(self)
-      deltaPoint = CGPointMake(currentPoint.x - previousPoint.x, currentPoint.y - previousPoint.y)
+    override func touchesBegan(touches: Set<NSObject>, withEvent event: UIEvent) {
+        if let touch = touches as? Set<UITouch> {
+            var currentPoint = touch.first!.locationInNode(self)
+            var previousPoint:CGPoint! = touch.first!.previousLocationInNode(self)
+            deltaPoint = CGPointMake(currentPoint.x - previousPoint.x, currentPoint.y - previousPoint.y)            
+        }
     }
     
-    override func touchesEnded(touches: NSSet, withEvent: UIEvent) {
-      deltaPoint = CGPointZero
+    override func touchesEnded(touches: Set<NSObject>, withEvent event: UIEvent) {
+        deltaPoint = CGPointZero
     }
     
-    override func touchesCancelled(touches: NSSet!, withEvent: UIEvent!) {
-      deltaPoint = CGPointZero
+    override func touchesCancelled(touches: Set<NSObject>!, withEvent event: UIEvent!) {
+        deltaPoint = CGPointZero
     }
     
     
     override func update(currentTime: CFTimeInterval) {
       var newPoint = CGPointMake(self.myLabel.position.x + self.deltaPoint.x, self.myLabel.position.y + self.deltaPoint.y)
+      //println(newPoint)
       myLabel.position = newPoint
       deltaPoint = CGPointZero
     }

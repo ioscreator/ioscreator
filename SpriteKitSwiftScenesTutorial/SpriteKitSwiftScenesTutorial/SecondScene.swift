@@ -20,9 +20,9 @@ class SecondScene: SKScene {
         self.addChild(button)
     }
     
-    override func touchesBegan(touches: NSSet, withEvent event: UIEvent) {
-        var touch: UITouch = touches.anyObject() as UITouch
-        var location = touch.locationInNode(self)
+    override func touchesBegan(touches: Set<NSObject>, withEvent event: UIEvent) {
+        var touch = touches as!  Set<UITouch>
+        var location = touch.first!.locationInNode(self)
         var node = self.nodeAtPoint(location)
         
         // If previous button is touched, start transition to previous scene
