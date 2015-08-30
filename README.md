@@ -197,6 +197,7 @@ IOS8SwiftCocoapodsTutorial	| http://ioscreator.com/tutorials/cocoapods-tutorial-
 IOS8SwiftTakeVideoTutorial	| http://ioscreator.com/tutorials/take-video-tutorial-ios8-swift  
 IOS8SwiftTabBarControllerTutorial | http://ioscreator.com/tutorials/tab-bar-controller-tutorial-ios8-swift  
 IOS9ContextMenuTableViewTutorial | http://ioscreator.com/tutorials/use-context-menu-table-view-tutorial  
+IOS9DrawShapesTutorial		| http://ioscreator.com/tutorials/drawing-shapes-core-graphics-tutorial  
 
 ===========================================================================================================
 
