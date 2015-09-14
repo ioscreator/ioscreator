@@ -17,21 +17,21 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <stackView opaque="NO" contentMode="scaleToFill" misplaced="YES" axis="vertical" alignment="center" spacing="20" translatesAutoresizingMaskIntoConstraints="NO" id="h62-fb-rO1">
-                                <rect key="frame" x="172" y="70" width="256" height="347"/>
+                                <rect key="frame" x="172" y="70" width="128" height="219"/>
                                 <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Swift" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PPm-dQ-nFb">
-                                        <rect key="frame" x="109" y="0.0" width="39" height="21"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Swift" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PPm-dQ-nFb">
+                                        <rect key="frame" x="45" y="0.0" width="39" height="21"/>
                                         <animations/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="Apple_Swift_Logo.png" translatesAutoresizingMaskIntoConstraints="NO" id="bIw-ry-pes">
-                                        <rect key="frame" x="0.0" y="41" width="256" height="256"/>
+                                        <rect key="frame" x="0.0" y="41" width="128" height="128"/>
                                         <animations/>
                                     </imageView>
                                     <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ihw-Vq-m8f">
-                                        <rect key="frame" x="85" y="317" width="87" height="30"/>
+                                        <rect key="frame" x="21" y="189" width="87" height="30"/>
                                         <animations/>
                                         <state key="normal" title="Start Coding"/>
                                     </button>
@@ -53,6 +53,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Apple_Swift_Logo.png" width="256" height="256"/>
+        <image name="Apple_Swift_Logo.png" width="128" height="128"/>
     </resources>
 </document>

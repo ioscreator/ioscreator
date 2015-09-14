@@ -14,7 +14,6 @@
 		E255251B1BA3761200CA18DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E25525191BA3761200CA18DB /* LaunchScreen.storyboard */; };
 		E25525261BA3761200CA18DB /* IOS9StackViewTutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E25525251BA3761200CA18DB /* IOS9StackViewTutorialTests.swift */; };
 		E25525311BA3761200CA18DB /* IOS9StackViewTutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E25525301BA3761200CA18DB /* IOS9StackViewTutorialUITests.swift */; };
-		E255253F1BA3765600CA18DB /* Apple_Swift_Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = E255253E1BA3765600CA18DB /* Apple_Swift_Logo.png */; settings = {ASSET_TAGS = (); }; };
 		E25525411BA41E5A00CA18DB /* Apple_Swift_Logo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E25525401BA41E5A00CA18DB /* Apple_Swift_Logo@2x.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
@@ -49,7 +48,6 @@
 		E255252C1BA3761200CA18DB /* IOS9StackViewTutorialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IOS9StackViewTutorialUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E25525301BA3761200CA18DB /* IOS9StackViewTutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOS9StackViewTutorialUITests.swift; sourceTree = "<group>"; };
 		E25525321BA3761200CA18DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E255253E1BA3765600CA18DB /* Apple_Swift_Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Apple_Swift_Logo.png; sourceTree = "<group>"; };
 		E25525401BA41E5A00CA18DB /* Apple_Swift_Logo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Apple_Swift_Logo@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -81,7 +79,6 @@
 		E25525041BA3761200CA18DB = {
 			isa = PBXGroup;
 			children = (
-				E255253E1BA3765600CA18DB /* Apple_Swift_Logo.png */,
 				E25525401BA41E5A00CA18DB /* Apple_Swift_Logo@2x.png */,
 				E255250F1BA3761200CA18DB /* IOS9StackViewTutorial */,
 				E25525241BA3761200CA18DB /* IOS9StackViewTutorialTests */,
@@ -235,7 +232,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				E255251B1BA3761200CA18DB /* LaunchScreen.storyboard in Resources */,
-				E255253F1BA3765600CA18DB /* Apple_Swift_Logo.png in Resources */,
 				E25525411BA41E5A00CA18DB /* Apple_Swift_Logo@2x.png in Resources */,
 				E25525181BA3761200CA18DB /* Assets.xcassets in Resources */,
 				E25525161BA3761200CA18DB /* Main.storyboard in Resources */,
@@ -489,6 +485,7 @@
 				E25525371BA3761200CA18DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E25525381BA3761200CA18DB /* Build configuration list for PBXNativeTarget "IOS9StackViewTutorialTests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +494,7 @@
 				E255253A1BA3761200CA18DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E255253B1BA3761200CA18DB /* Build configuration list for PBXNativeTarget "IOS9StackViewTutorialUITests" */ = {
 			isa = XCConfigurationList;
@@ -505,6 +503,7 @@
 				E255253D1BA3761200CA18DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
