@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 8-Sep-2015
+  This README last updated: 14-Sep-2015
 ===========================================================================================================
 
 INDEX
@@ -199,6 +199,7 @@ IOS8SwiftTabBarControllerTutorial | http://ioscreator.com/tutorials/tab-bar-cont
 IOS9ContextMenuTableViewTutorial | http://ioscreator.com/tutorials/use-context-menu-table-view-tutorial  
 IOS9DrawShapesTutorial		| http://ioscreator.com/tutorials/drawing-shapes-core-graphics-tutorial  
 IOS9SafariViewControllerTutorial | http://ioscreator.com/tutorials/safari-view-controller-tutorial  
+IOS9StackViewTutorial		| http://ioscreator.com/tutorials/stack-view-tutorial  
 
 ===========================================================================================================
 
