@@ -200,6 +200,7 @@ IOS9ContextMenuTableViewTutorial | http://ioscreator.com/tutorials/use-context-m
 IOS9DrawShapesTutorial		| http://ioscreator.com/tutorials/drawing-shapes-core-graphics-tutorial  
 IOS9SafariViewControllerTutorial | http://ioscreator.com/tutorials/safari-view-controller-tutorial  
 IOS9StackViewTutorial		| http://ioscreator.com/tutorials/stack-view-tutorial  
+IOS9ReorderingCollectionViewTutorial | http://ioscreator.com/tutorials/reordering-collection-view-cells-tutorial  
 
 ===========================================================================================================
 
