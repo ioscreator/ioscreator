@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="8191" systemVersion="15A282a" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="IOS9CoreSpotlightTutorial" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="UbA-RX-uJc">
+                                <rect key="frame" x="136" y="95" width="87" height="30"/>
+                                <animations/>
+                                <state key="normal" title="Add to Index"/>
+                                <connections>
+                                    <action selector="AddItemToCoreSpotlight:" destination="BYZ-38-t0r" eventType="touchUpInside" id="YnR-FQ-3kk"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bEg-Lf-22m">
+                                <rect key="frame" x="330" y="95" width="135" height="30"/>
+                                <animations/>
+                                <state key="normal" title="Remove From Index"/>
+                                <connections>
+                                    <action selector="RemoveItemFromCoreSpotlight:" destination="BYZ-38-t0r" eventType="touchUpInside" id="VT2-65-qtC"/>
+                                </connections>
+                            </button>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="rIb-WW-BmL">
+                                <rect key="frame" x="136" y="28" width="329" height="30"/>
+                                <animations/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="329" id="6Zq-tJ-1Gg"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                        </subviews>
+                        <animations/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="UbA-RX-uJc" firstAttribute="top" secondItem="rIb-WW-BmL" secondAttribute="bottom" constant="37" id="IyY-jH-ARI"/>
+                            <constraint firstItem="rIb-WW-BmL" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="NJw-nn-CBb"/>
+                            <constraint firstItem="rIb-WW-BmL" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="8" id="aYa-Tl-dHF"/>
+                            <constraint firstItem="bEg-Lf-22m" firstAttribute="top" secondItem="rIb-WW-BmL" secondAttribute="bottom" constant="37" id="r7v-xd-24H"/>
+                            <constraint firstItem="bEg-Lf-22m" firstAttribute="trailing" secondItem="rIb-WW-BmL" secondAttribute="trailing" id="sUb-cM-7dt"/>
+                            <constraint firstItem="UbA-RX-uJc" firstAttribute="leading" secondItem="rIb-WW-BmL" secondAttribute="leading" id="thG-vb-m4N"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="textField" destination="rIb-WW-BmL" id="2qE-LG-yH2"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="305" y="429"/>
+        </scene>
+    </scenes>
+</document>

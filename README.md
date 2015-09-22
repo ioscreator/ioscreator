@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 14-Sep-2015
+  This README last updated: 22-Sep-2015
 ===========================================================================================================
 
 INDEX
@@ -201,6 +201,7 @@ IOS9DrawShapesTutorial		| http://ioscreator.com/tutorials/drawing-shapes-core-gr
 IOS9SafariViewControllerTutorial | http://ioscreator.com/tutorials/safari-view-controller-tutorial  
 IOS9StackViewTutorial		| http://ioscreator.com/tutorials/stack-view-tutorial  
 IOS9ReorderingCollectionViewTutorial | http://ioscreator.com/tutorials/reordering-collection-view-cells-tutorial  
+IOS9CoreSpotlightTutorial	| http://ioscreator.com/tutorials/index-app-content-core-spotlight-tutorial  
 
 ===========================================================================================================
 
