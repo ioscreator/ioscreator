@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 22-Sep-2015
+  This README last updated: 30-Sep-2015
 ===========================================================================================================
 
 INDEX
@@ -202,6 +202,7 @@ IOS9SafariViewControllerTutorial | http://ioscreator.com/tutorials/safari-view-c
 IOS9StackViewTutorial		| http://ioscreator.com/tutorials/stack-view-tutorial  
 IOS9ReorderingCollectionViewTutorial | http://ioscreator.com/tutorials/reordering-collection-view-cells-tutorial  
 IOS9CoreSpotlightTutorial	| http://ioscreator.com/tutorials/index-app-content-core-spotlight-tutorial  
+IOS9DisableATSTutorial		| http://ioscreator.com/tutorials/disable-apple-transport-security-tutorial  
 
 ===========================================================================================================
 
