@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 21-Oct-2015
+  This README last updated: 11-Nov-2015
 ===========================================================================================================
 
 INDEX
@@ -204,6 +204,7 @@ IOS9ReorderingCollectionViewTutorial | http://ioscreator.com/tutorials/reorderin
 IOS9CoreSpotlightTutorial	| http://ioscreator.com/tutorials/index-app-content-core-spotlight-tutorial  
 IOS9DisableATSTutorial		| http://ioscreator.com/tutorials/disable-apple-transport-security-tutorial  
 SpriteKitPhysicsTutorial	| http://ioscreator.com/tutorials/sprite-kit-physics-tutorial  
+IOS9OpenPDFTutorial		| http://ioscreator.com/tutorials/open-pdf-tutorial  
 
 ===========================================================================================================
 
