@@ -208,6 +208,7 @@ IOS9OpenPDFTutorial		| http://ioscreator.com/tutorials/open-pdf-tutorial
 IOS9VibrationTutorial		| http://ioscreator.com/tutorials/play-vibration-tutorial  
 IOS9TextFieldAlertControllerTutorial | http://ioscreator.com/tutorials/editable-text-field-alert-controller-tutorial  
 IOS9SpellingCheckerTutorial	| http://ioscreator.com/tutorials/spelling-checker-tutorial  
+IOS9MultipleOutletsTutorial	| http://ioscreator.com/tutorials/multiple-outlets-tutorial  
 
 ===========================================================================================================
 
