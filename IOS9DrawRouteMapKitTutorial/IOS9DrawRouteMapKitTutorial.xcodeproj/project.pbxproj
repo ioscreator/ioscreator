@@ -1,0 +1,514 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		E269C8421C6A31C4003E5DD9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E269C8411C6A31C4003E5DD9 /* AppDelegate.swift */; };
+		E269C8441C6A31C4003E5DD9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E269C8431C6A31C4003E5DD9 /* ViewController.swift */; };
+		E269C8471C6A31C5003E5DD9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E269C8451C6A31C5003E5DD9 /* Main.storyboard */; };
+		E269C8491C6A31C5003E5DD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E269C8481C6A31C5003E5DD9 /* Assets.xcassets */; };
+		E269C84C1C6A31C5003E5DD9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E269C84A1C6A31C5003E5DD9 /* LaunchScreen.storyboard */; };
+		E269C8571C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E269C8561C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialTests.swift */; };
+		E269C8621C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E269C8611C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialUITests.swift */; };
+		E269C8721C6BBDC4003E5DD9 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E269C8711C6BBDC4003E5DD9 /* MapKit.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		E269C8531C6A31C7003E5DD9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E269C8361C6A31C3003E5DD9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E269C83D1C6A31C4003E5DD9;
+			remoteInfo = IOS9DrawRouteMapKitTutorial;
+		};
+		E269C85E1C6A31C7003E5DD9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E269C8361C6A31C3003E5DD9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E269C83D1C6A31C4003E5DD9;
+			remoteInfo = IOS9DrawRouteMapKitTutorial;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		E269C83E1C6A31C4003E5DD9 /* IOS9DrawRouteMapKitTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOS9DrawRouteMapKitTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E269C8411C6A31C4003E5DD9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E269C8431C6A31C4003E5DD9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E269C8461C6A31C5003E5DD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E269C8481C6A31C5003E5DD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E269C84B1C6A31C5003E5DD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E269C84D1C6A31C5003E5DD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E269C8521C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IOS9DrawRouteMapKitTutorialTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E269C8561C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOS9DrawRouteMapKitTutorialTests.swift; sourceTree = "<group>"; };
+		E269C8581C6A31C7003E5DD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E269C85D1C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IOS9DrawRouteMapKitTutorialUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E269C8611C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IOS9DrawRouteMapKitTutorialUITests.swift; sourceTree = "<group>"; };
+		E269C8631C6A31C7003E5DD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E269C8711C6BBDC4003E5DD9 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E269C83B1C6A31C4003E5DD9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E269C8721C6BBDC4003E5DD9 /* MapKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E269C84F1C6A31C7003E5DD9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E269C85A1C6A31C7003E5DD9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E269C8351C6A31C3003E5DD9 = {
+			isa = PBXGroup;
+			children = (
+				E269C8711C6BBDC4003E5DD9 /* MapKit.framework */,
+				E269C8401C6A31C4003E5DD9 /* IOS9DrawRouteMapKitTutorial */,
+				E269C8551C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialTests */,
+				E269C8601C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialUITests */,
+				E269C83F1C6A31C4003E5DD9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E269C83F1C6A31C4003E5DD9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E269C83E1C6A31C4003E5DD9 /* IOS9DrawRouteMapKitTutorial.app */,
+				E269C8521C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialTests.xctest */,
+				E269C85D1C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		E269C8401C6A31C4003E5DD9 /* IOS9DrawRouteMapKitTutorial */ = {
+			isa = PBXGroup;
+			children = (
+				E269C8411C6A31C4003E5DD9 /* AppDelegate.swift */,
+				E269C8431C6A31C4003E5DD9 /* ViewController.swift */,
+				E269C8451C6A31C5003E5DD9 /* Main.storyboard */,
+				E269C8481C6A31C5003E5DD9 /* Assets.xcassets */,
+				E269C84A1C6A31C5003E5DD9 /* LaunchScreen.storyboard */,
+				E269C84D1C6A31C5003E5DD9 /* Info.plist */,
+			);
+			path = IOS9DrawRouteMapKitTutorial;
+			sourceTree = "<group>";
+		};
+		E269C8551C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialTests */ = {
+			isa = PBXGroup;
+			children = (
+				E269C8561C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialTests.swift */,
+				E269C8581C6A31C7003E5DD9 /* Info.plist */,
+			);
+			path = IOS9DrawRouteMapKitTutorialTests;
+			sourceTree = "<group>";
+		};
+		E269C8601C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialUITests */ = {
+			isa = PBXGroup;
+			children = (
+				E269C8611C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialUITests.swift */,
+				E269C8631C6A31C7003E5DD9 /* Info.plist */,
+			);
+			path = IOS9DrawRouteMapKitTutorialUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E269C83D1C6A31C4003E5DD9 /* IOS9DrawRouteMapKitTutorial */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E269C8661C6A31C7003E5DD9 /* Build configuration list for PBXNativeTarget "IOS9DrawRouteMapKitTutorial" */;
+			buildPhases = (
+				E269C83A1C6A31C4003E5DD9 /* Sources */,
+				E269C83B1C6A31C4003E5DD9 /* Frameworks */,
+				E269C83C1C6A31C4003E5DD9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = IOS9DrawRouteMapKitTutorial;
+			productName = IOS9DrawRouteMapKitTutorial;
+			productReference = E269C83E1C6A31C4003E5DD9 /* IOS9DrawRouteMapKitTutorial.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E269C8511C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E269C8691C6A31C7003E5DD9 /* Build configuration list for PBXNativeTarget "IOS9DrawRouteMapKitTutorialTests" */;
+			buildPhases = (
+				E269C84E1C6A31C7003E5DD9 /* Sources */,
+				E269C84F1C6A31C7003E5DD9 /* Frameworks */,
+				E269C8501C6A31C7003E5DD9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E269C8541C6A31C7003E5DD9 /* PBXTargetDependency */,
+			);
+			name = IOS9DrawRouteMapKitTutorialTests;
+			productName = IOS9DrawRouteMapKitTutorialTests;
+			productReference = E269C8521C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		E269C85C1C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E269C86C1C6A31C7003E5DD9 /* Build configuration list for PBXNativeTarget "IOS9DrawRouteMapKitTutorialUITests" */;
+			buildPhases = (
+				E269C8591C6A31C7003E5DD9 /* Sources */,
+				E269C85A1C6A31C7003E5DD9 /* Frameworks */,
+				E269C85B1C6A31C7003E5DD9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E269C85F1C6A31C7003E5DD9 /* PBXTargetDependency */,
+			);
+			name = IOS9DrawRouteMapKitTutorialUITests;
+			productName = IOS9DrawRouteMapKitTutorialUITests;
+			productReference = E269C85D1C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E269C8361C6A31C3003E5DD9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "Arthur Knopper";
+				TargetAttributes = {
+					E269C83D1C6A31C4003E5DD9 = {
+						CreatedOnToolsVersion = 7.2.1;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+						};
+					};
+					E269C8511C6A31C7003E5DD9 = {
+						CreatedOnToolsVersion = 7.2.1;
+						TestTargetID = E269C83D1C6A31C4003E5DD9;
+					};
+					E269C85C1C6A31C7003E5DD9 = {
+						CreatedOnToolsVersion = 7.2.1;
+						TestTargetID = E269C83D1C6A31C4003E5DD9;
+					};
+				};
+			};
+			buildConfigurationList = E269C8391C6A31C3003E5DD9 /* Build configuration list for PBXProject "IOS9DrawRouteMapKitTutorial" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E269C8351C6A31C3003E5DD9;
+			productRefGroup = E269C83F1C6A31C4003E5DD9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E269C83D1C6A31C4003E5DD9 /* IOS9DrawRouteMapKitTutorial */,
+				E269C8511C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialTests */,
+				E269C85C1C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E269C83C1C6A31C4003E5DD9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E269C84C1C6A31C5003E5DD9 /* LaunchScreen.storyboard in Resources */,
+				E269C8491C6A31C5003E5DD9 /* Assets.xcassets in Resources */,
+				E269C8471C6A31C5003E5DD9 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E269C8501C6A31C7003E5DD9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E269C85B1C6A31C7003E5DD9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E269C83A1C6A31C4003E5DD9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E269C8441C6A31C4003E5DD9 /* ViewController.swift in Sources */,
+				E269C8421C6A31C4003E5DD9 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E269C84E1C6A31C7003E5DD9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E269C8571C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E269C8591C6A31C7003E5DD9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E269C8621C6A31C7003E5DD9 /* IOS9DrawRouteMapKitTutorialUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E269C8541C6A31C7003E5DD9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E269C83D1C6A31C4003E5DD9 /* IOS9DrawRouteMapKitTutorial */;
+			targetProxy = E269C8531C6A31C7003E5DD9 /* PBXContainerItemProxy */;
+		};
+		E269C85F1C6A31C7003E5DD9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E269C83D1C6A31C4003E5DD9 /* IOS9DrawRouteMapKitTutorial */;
+			targetProxy = E269C85E1C6A31C7003E5DD9 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		E269C8451C6A31C5003E5DD9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E269C8461C6A31C5003E5DD9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		E269C84A1C6A31C5003E5DD9 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				E269C84B1C6A31C5003E5DD9 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		E269C8641C6A31C7003E5DD9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		E269C8651C6A31C7003E5DD9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E269C8671C6A31C7003E5DD9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = IOS9DrawRouteMapKitTutorial/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ioscreator.IOS9DrawRouteMapKitTutorial;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		E269C8681C6A31C7003E5DD9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = IOS9DrawRouteMapKitTutorial/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ioscreator.IOS9DrawRouteMapKitTutorial;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		E269C86A1C6A31C7003E5DD9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = IOS9DrawRouteMapKitTutorialTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ioscreator.IOS9DrawRouteMapKitTutorialTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IOS9DrawRouteMapKitTutorial.app/IOS9DrawRouteMapKitTutorial";
+			};
+			name = Debug;
+		};
+		E269C86B1C6A31C7003E5DD9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = IOS9DrawRouteMapKitTutorialTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ioscreator.IOS9DrawRouteMapKitTutorialTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IOS9DrawRouteMapKitTutorial.app/IOS9DrawRouteMapKitTutorial";
+			};
+			name = Release;
+		};
+		E269C86D1C6A31C7003E5DD9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = IOS9DrawRouteMapKitTutorialUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ioscreator.IOS9DrawRouteMapKitTutorialUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = IOS9DrawRouteMapKitTutorial;
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		E269C86E1C6A31C7003E5DD9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = IOS9DrawRouteMapKitTutorialUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ioscreator.IOS9DrawRouteMapKitTutorialUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = IOS9DrawRouteMapKitTutorial;
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E269C8391C6A31C3003E5DD9 /* Build configuration list for PBXProject "IOS9DrawRouteMapKitTutorial" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E269C8641C6A31C7003E5DD9 /* Debug */,
+				E269C8651C6A31C7003E5DD9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E269C8661C6A31C7003E5DD9 /* Build configuration list for PBXNativeTarget "IOS9DrawRouteMapKitTutorial" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E269C8671C6A31C7003E5DD9 /* Debug */,
+				E269C8681C6A31C7003E5DD9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		E269C8691C6A31C7003E5DD9 /* Build configuration list for PBXNativeTarget "IOS9DrawRouteMapKitTutorialTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E269C86A1C6A31C7003E5DD9 /* Debug */,
+				E269C86B1C6A31C7003E5DD9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		E269C86C1C6A31C7003E5DD9 /* Build configuration list for PBXNativeTarget "IOS9DrawRouteMapKitTutorialUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E269C86D1C6A31C7003E5DD9 /* Debug */,
+				E269C86E1C6A31C7003E5DD9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E269C8361C6A31C3003E5DD9 /* Project object */;
+}
