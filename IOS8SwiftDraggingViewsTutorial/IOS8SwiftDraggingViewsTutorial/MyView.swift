@@ -9,12 +9,12 @@
 import UIKit
 
 class MyView: UIView {
-    var lastLocation:CGPoint = CGPointMake(0, 0)
+    var lastLocation = CGPointMake(0, 0)
     
     override init(frame: CGRect) {
         super.init(frame: frame)
         // Initialization code
-        let panRecognizer = UIPanGestureRecognizer(target:self, action:"detectPan:")
+        let panRecognizer = UIPanGestureRecognizer(target:self, action:#selector(MyView.detectPan(_:)))
         self.gestureRecognizers = [panRecognizer]
       
         //randomize view color
@@ -35,8 +35,8 @@ class MyView: UIView {
     }
     
 
-    
-    override func touchesBegan(touches: Set<NSObject>, withEvent event: UIEvent) {
+    override func touchesBegan(touches: Set<UITouch>,
+                                      withEvent event: UIEvent?) {
         // Promote the touched view
         self.superview?.bringSubviewToFront(self)
         
