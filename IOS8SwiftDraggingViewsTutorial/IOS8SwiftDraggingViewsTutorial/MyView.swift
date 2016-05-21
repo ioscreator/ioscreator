@@ -9,12 +9,12 @@
 import UIKit
 
 class MyView: UIView {
-    var lastLocation:CGPoint = CGPointMake(0, 0)
+    var lastLocation = CGPointMake(0, 0)
     
     override init(frame: CGRect) {
         super.init(frame: frame)
         // Initialization code
-        var panRecognizer = UIPanGestureRecognizer(target:self, action:"detectPan:")
+        let panRecognizer = UIPanGestureRecognizer(target:self, action:#selector(MyView.detectPan(_:)))
         self.gestureRecognizers = [panRecognizer]
       
         //randomize view color
@@ -30,19 +30,13 @@ class MyView: UIView {
     }
     
     func detectPan(recognizer:UIPanGestureRecognizer) {
-        var translation  = recognizer.translationInView(self.superview!)
+        let translation  = recognizer.translationInView(self.superview!)
         self.center = CGPointMake(lastLocation.x + translation.x, lastLocation.y + translation.y)
     }
     
-    /*override func touchesBegan(touches: NSSet, withEvent event: UIEvent) {
-        // Promote the touched view
-        self.superview?.bringSubviewToFront(self)
-        
-        // Remember original location
-        lastLocation = self.center
-    }*/
-    
-    override func touchesBegan(touches: Set<NSObject>, withEvent event: UIEvent) {
+
+    override func touchesBegan(touches: Set<UITouch>,
+                                      withEvent event: UIEvent?) {
         // Promote the touched view
         self.superview?.bringSubviewToFront(self)
         
@@ -50,13 +44,5 @@ class MyView: UIView {
         lastLocation = self.center
     }
 
-    /*
-    // Only override drawRect: if you perform custom drawing.
-    // An empty implementation adversely affects performance during animation.
-    override func drawRect(rect: CGRect)
-    {
-        // Drawing code
-    }
-    */
 
 }
