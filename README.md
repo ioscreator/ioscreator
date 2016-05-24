@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 28-Feb-2016
+  This README last updated: 24-May-2016
 ===========================================================================================================
 
 INDEX
@@ -210,6 +210,7 @@ IOS9TextFieldAlertControllerTutorial | http://ioscreator.com/tutorials/editable-
 IOS9SpellingCheckerTutorial	| http://ioscreator.com/tutorials/spelling-checker-tutorial  
 IOS9MultipleOutletsTutorial	| http://ioscreator.com/tutorials/multiple-outlets-tutorial  
 IOS9DrawRouteMapKitTutorial	| http://ioscreator.com/tutorials/draw-route-mapkit-tutorial  
+IOS9PersistentPropertytutorial  | http://ioscreator.com/tutorials/persistent-data-property-list-tutorial  
 
 ===========================================================================================================
 
