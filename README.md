@@ -211,6 +211,7 @@ IOS9SpellingCheckerTutorial	| http://ioscreator.com/tutorials/spelling-checker-t
 IOS9MultipleOutletsTutorial	| http://ioscreator.com/tutorials/multiple-outlets-tutorial  
 IOS9DrawRouteMapKitTutorial	| http://ioscreator.com/tutorials/draw-route-mapkit-tutorial  
 IOS9PersistentPropertytutorial  | http://ioscreator.com/tutorials/persistent-data-property-list-tutorial  
+IOS9ChangeDisplayNameTutorial   | http://ioscreator.com/tutorials/change-display-name-tutorial 
 
 ===========================================================================================================
 
