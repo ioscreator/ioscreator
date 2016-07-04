@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 24-May-2016
+  This README last updated: 04-Jul-2016
 ===========================================================================================================
 
 INDEX
@@ -212,6 +212,7 @@ IOS9MultipleOutletsTutorial	| http://ioscreator.com/tutorials/multiple-outlets-t
 IOS9DrawRouteMapKitTutorial	| http://ioscreator.com/tutorials/draw-route-mapkit-tutorial  
 IOS9PersistentPropertytutorial  | http://ioscreator.com/tutorials/persistent-data-property-list-tutorial  
 IOS9ChangeDisplayNameTutorial   | http://ioscreator.com/tutorials/change-display-name-tutorial 
+IOS9XMLParserTutorial		| http://ioscreator.com/tutorials/parsing-xml-tutorial  
 
 ===========================================================================================================
 
