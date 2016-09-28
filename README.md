@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 12-Sep-2016
+  This README last updated: 28-Sep-2016
 ===========================================================================================================
 
 INDEX
@@ -214,6 +214,7 @@ IOS9PersistentPropertytutorial  | http://ioscreator.com/tutorials/persistent-dat
 IOS9ChangeDisplayNameTutorial   | http://ioscreator.com/tutorials/change-display-name-tutorial 
 IOS9XMLParserTutorial		| http://ioscreator.com/tutorials/parsing-xml-tutorial  
 IOS10RequestingPermissionTutorial | http://ioscreator.com/tutorials/requesting-permissions-core-location-tutorial  
+IOS10ChangeStatusbarColorTutoial  | http://ioscreator.com/tutorials/change-color-status-bar-tutorial  
 
 ===========================================================================================================
 
