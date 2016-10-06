@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 05-Oct-2016
+  This README last updated: 06-Oct-2016
 ===========================================================================================================
 
 INDEX
@@ -216,6 +216,7 @@ IOS9XMLParserTutorial		| http://ioscreator.com/tutorials/parsing-xml-tutorial
 IOS10RequestingPermissionTutorial | http://ioscreator.com/tutorials/requesting-permissions-core-location-tutorial  
 IOS10ChangeStatusbarColorTutoial  | http://ioscreator.com/tutorials/change-color-status-bar-tutorial  
 IOS10DrawShapesTutorial		| http://ioscreator.com/tutorials/drawing-shapes-core-graphics-tutorial-ios10  
+IOS10TabBarCustomizationTutorial | http://ioscreator.com/tutorials/stomisation-tutorial-ios10  
 
 ===========================================================================================================
 
