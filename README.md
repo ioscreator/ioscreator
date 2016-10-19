@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 17-Oct-2016
+  This README last updated: 19-Oct-2016
 ===========================================================================================================
 
 INDEX
@@ -219,6 +219,7 @@ IOS10DrawShapesTutorial		| http://ioscreator.com/tutorials/drawing-shapes-core-g
 IOS10TabBarCustomizationTutorial | http://ioscreator.com/tutorials/customisation-tutorial-ios10  
 IOS10LocalNotificationTutorial  | http://ioscreator.com/tutorials/local-notification-tutorial-ios10  
 IOS10DrawGradientsTutorial  | http://ioscreator.com/tutorials/draw-gradients-core-graphics-tutorial-ios10  
+IOS10SegmentedControlTutorial | http://ioscreator.com/tutorials/segmented-control-tutorial-ios10  
 
 ===========================================================================================================
 
