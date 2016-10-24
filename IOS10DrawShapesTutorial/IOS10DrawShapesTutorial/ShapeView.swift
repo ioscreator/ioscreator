@@ -25,8 +25,8 @@ class ShapeView: UIView {
     
         override func draw(_ rect: CGRect) {
             switch currentShapeType {
-            case 0: drawLines()
-            case 1: drawRectangle()
+            case 0: drawRectangle()
+            case 1: drawLines()
             case 2: drawCircle()
             default: print("default")
             }
