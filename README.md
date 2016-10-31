@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 19-Oct-2016
+  This README last updated: 31-Oct-2016
 ===========================================================================================================
 
 INDEX
@@ -220,6 +220,7 @@ IOS10TabBarCustomizationTutorial | http://ioscreator.com/tutorials/customisation
 IOS10LocalNotificationTutorial  | http://ioscreator.com/tutorials/local-notification-tutorial-ios10  
 IOS10DrawGradientsTutorial  | http://ioscreator.com/tutorials/draw-gradients-core-graphics-tutorial-ios10  
 IOS10SegmentedControlTutorial | http://ioscreator.com/tutorials/segmented-control-tutorial-ios10  
+IOS10StopWatchTutorial  | http://ioscreator.com/tutorials/stopwatch-tutorial  
 
 ===========================================================================================================
 
