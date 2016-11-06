@@ -221,6 +221,7 @@ IOS10LocalNotificationTutorial  | http://ioscreator.com/tutorials/local-notifica
 IOS10DrawGradientsTutorial  | http://ioscreator.com/tutorials/draw-gradients-core-graphics-tutorial-ios10  
 IOS10SegmentedControlTutorial | http://ioscreator.com/tutorials/segmented-control-tutorial-ios10  
 IOS10StopWatchTutorial  | http://ioscreator.com/tutorials/stopwatch-tutorial  
+IOS10DraggingViewsTutorial | http://ioscreator.com/tutorials/dragging-views-gestures-tutorial-ios10  
 
 ===========================================================================================================
 
