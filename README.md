@@ -223,6 +223,7 @@ IOS10SegmentedControlTutorial | http://ioscreator.com/tutorials/segmented-contro
 IOS10StopWatchTutorial  | http://ioscreator.com/tutorials/stopwatch-tutorial  
 IOS10DraggingViewsTutorial | http://ioscreator.com/tutorials/dragging-views-gestures-tutorial-ios10  
 IOS10ContextMenuTableViewTutorial | http://ioscreator.com/tutorials/use-context-menu-with-table-view-tutorial-ios10  
+IOS10DisplayAlertTutorial | http://ioscreator.com/tutorials/display-alert-ios-tutorial-ios10  
 
 ===========================================================================================================
 
