@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 18-01-2017
+  This README last updated: 23-01-2017
 ===========================================================================================================
 
 INDEX
@@ -226,6 +226,7 @@ IOS10ContextMenuTableViewTutorial | http://ioscreator.com/tutorials/use-context-
 IOS10DisplayAlertTutorial | http://ioscreator.com/tutorials/display-alert-ios-tutorial-ios10  
 SpriteKitBackgroundTutorial | http://ioscreator.com/tutorials/display-background-with-spritekit-ios-tutorial-ios10  
 IOS10ScaleImagesTutorial | http://ioscreator.com/tutorials/scale-images-with-pinch-gesture-ios-tutorial-ios10  
+IOS10DatePickerTutorial | http://ioscreator.com/tutorials/display-date-date-picker-ios-tutorial-ios10  
 
 ===========================================================================================================
 
