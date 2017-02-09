@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 05-02-2017
+  This README last updated: 09-02-2017
 ===========================================================================================================
 
 INDEX
@@ -228,6 +228,7 @@ SpriteKitBackgroundTutorial | http://ioscreator.com/tutorials/display-background
 IOS10ScaleImagesTutorial | http://ioscreator.com/tutorials/scale-images-with-pinch-gesture-ios-tutorial-ios10  
 IOS10DatePickerTutorial | http://ioscreator.com/tutorials/display-date-date-picker-ios-tutorial-ios10  
 IOS10UIStepperTutorisl  | http://ioscreator.com/tutorials/stepper-ios-tutorial-ios10 
+IOS10MapKitTutorial  | http://ioscreator.com/tutorials/mapkit-ios-tutorial-ios10  
 
 ===========================================================================================================
 
