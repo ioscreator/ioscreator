@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 09-02-2017
+  This README last updated: 13-02-2017
 ===========================================================================================================
 
 INDEX
@@ -229,6 +229,7 @@ IOS10ScaleImagesTutorial | http://ioscreator.com/tutorials/scale-images-with-pin
 IOS10DatePickerTutorial | http://ioscreator.com/tutorials/display-date-date-picker-ios-tutorial-ios10  
 IOS10UIStepperTutorisl  | http://ioscreator.com/tutorials/stepper-ios-tutorial-ios10 
 IOS10MapKitTutorial  | http://ioscreator.com/tutorials/mapkit-ios-tutorial-ios10  
+IOS10ProtoTypeCellsTutorial  | http://ioscreator.com/tutorials/prototype-cells-table-view-ios-tutorial-ios10  
 
 ===========================================================================================================
 
