@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See http://ioscreator.com for a detailed description 
 
-  This README last updated: 28-02-2017
+  This README last updated: 05-03-2017
 ===========================================================================================================
 
 INDEX
@@ -232,6 +232,7 @@ IOS10MapKitTutorial  | http://ioscreator.com/tutorials/mapkit-ios-tutorial-ios10
 IOS10ProtoTypeCellsTutorial  | http://ioscreator.com/tutorials/prototype-cells-table-view-ios-tutorial-ios10  
 IOS10FadeMusicTutorial  |  http://ioscreator.com/tutorials/fade-in-fade-out-music-ios-tutorial-ios10  
 IOS10ShadowButtonTutorial  | http://ioscreator.com/tutorials/add-shadow-to-a-button-ios-tutorial-ios10  
+IOS10CustomizeNavBarTutorial  | http://ioscreator.com/tutorials/customizing-navigation-bar-ios-tutorial-ios10  
 
 ===========================================================================================================
 
