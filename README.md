@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 03-04-2017
+  This README last updated: 05-04-2017
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS10
 
+- [IOS10PickerViewTutorial](https://ioscreator.com/tutorials/picker-view-ios-tutorial-ios10)  
 - [IOS10AttributedStringsTutorial](https://ioscreator.com/tutorials/attributed-strings-ios-tutorial-ios10)
 - [IOS10TwitterTutorial](https://ioscreator.com/tutorials/twitter-ios-tutorial-ios10)  
 - [IOS10CustomizeNavBarTutorial](https://ioscreator.com/tutorials/customizing-navigation-bar-ios-tutorial-ios10)  
