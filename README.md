@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 25-04-2017
+  This README last updated: 08-05-2017
 ===========================================================================================================
 
 INDEX
@@ -16,7 +16,8 @@ INDEX
 
 ### iOS10
 
-- [IOS10FacebookTutorial]*https://ioscreator.com/tutorials/facebook-ios-tutorial-ios10)  
+- [IOS10RotateImageTutorial](https://ioscreator.com/tutorials/rotate-image-ios-tutorial-ios10)  
+- [IOS10FacebookTutorial](https://ioscreator.com/tutorials/facebook-ios-tutorial-ios10)  
 - [IOS10CollisionDetectionTutorial](https://ioscreator.com/tutorials/collision-detection-uikit-dynamics-ios-tutorial-ios10)  
 - [IOS10ShakeGestureTutorial](https://ioscreator.com/tutorials/detect-shake-gestures-ios-tutorial-ios10)
 - [SpriteKitActionsTutorial](https://ioscreator.com/tutorials/sprite-movement-actions-sprite-kit-ios-tutorial-ios10)  
