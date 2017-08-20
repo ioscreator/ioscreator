@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 07-08-2017
+  This README last updated: 20-08-2017
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,8 @@ INDEX
 
 ### iOS11
 
+- [IOS11PullToRefreshTutorial](https://ioscreator.com/tutorials/pull-to-refresh-ios-tutorial-ios11)  
+- [IOS11SpringAnimationTutorial](https://ioscreator.com/tutorials/spring-animation-ios-tutorial-ios11)  
 - [IOS11ActionsTableViewTutorial](https://ioscreator.com/tutorials/swipe-table-view-cell-custom-actions-tutorial-ios11)  
 
 
