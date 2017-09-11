@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 23-08-2017
+  This README last updated: 11-09-2017
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS11
 
+- [IOS11ParticleEmitterTutorial](https://ioscreator.com/tutorials/particle-emitter-ios-tutorial-ios11)  
 - [IOS11LongGestureTutorial](https://ioscreator.com/tutorials/long-press-gesture-ios-tutorial-ios11)  
 - [IOS11PullToRefreshTutorial](https://ioscreator.com/tutorials/pull-to-refresh-ios-tutorial-ios11)  
 - [IOS11SpringAnimationTutorial](https://ioscreator.com/tutorials/spring-animation-ios-tutorial-ios11)  
