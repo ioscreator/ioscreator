@@ -156,6 +156,8 @@
 		E228C0BE1A2504890032877C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0720;
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Arthur Knopper";
 				TargetAttributes = {
@@ -405,6 +407,7 @@
 				E228C0E71A2504890032877C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E228C0E81A2504890032877C /* Build configuration list for PBXNativeTarget "IOS8SwiftPullToRefreshTutorialTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +416,7 @@
 				E228C0EA1A2504890032877C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

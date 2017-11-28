@@ -15,16 +15,16 @@ class TableViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
       
-        var refreshControl = UIRefreshControl()
+        let refreshControl = UIRefreshControl()
         refreshControl.addTarget(self, action: Selector("sortArray"), forControlEvents: UIControlEvents.ValueChanged)
         self.refreshControl = refreshControl
     }
   
   func sortArray() {
     //isAscending = !isAscending
-    var sortedAlphabet = alphabet.reverse()
+    let sortedAlphabet = Array(alphabet.reverse())
     
-    for (index, element) in enumerate(sortedAlphabet) {
+    for (index, element) in sortedAlphabet.enumerate() {
       alphabet[index] = element
     }
     
@@ -51,7 +51,7 @@ class TableViewController: UITableViewController {
 
   
     override func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCellWithIdentifier("Cell", forIndexPath: indexPath) as!UITableViewCell
+        let cell = tableView.dequeueReusableCellWithIdentifier("Cell", forIndexPath: indexPath) 
 
         // Configure the cell...
         cell.textLabel?.text = alphabet[indexPath.row]
