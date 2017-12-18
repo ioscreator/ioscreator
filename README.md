@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 15-12-2017
+  This README last updated: 18-12-2017
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,8 @@ INDEX
 
 ### iOS11
 
+
+- [IOS11AttachBehaviourTutorial](https://ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-ios-tutorial-ios11)  
 - [IOS11TouchIDTutorial](https://ioscreator.com/tutorials/touch-id-tutorial-ios-tutorial-ios11)  
 - [IOS11AirprintTutorial](https://ioscreator.com/tutorials/airprint-ios-tutorials-ios11)  
 - [IOS11DynamicTypesTutorial](https://ioscreator.com/tutorials/dynamic-types-ios-tutorial-ios11)  
