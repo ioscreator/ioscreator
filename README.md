@@ -81,7 +81,6 @@ INDEX
 - [IOS9StackViewTutorial](https://ioscreator.com/tutorials/stack-view-tutorial)   
 - [IOS9SafariViewControllerTutorial](https://ioscreator.com/tutorials/safari-view-controller-tutorial)   
 - [IOS9DrawShapesTutorial](https://ioscreator.com/tutorials/drawing-shapes-core-graphics-tutorial)   
-- [IOS9ContextMenuTableViewTutorial](https://ioscreator.com/tutorials/use-context-menu-table-view-tutorial)  
 
 ### iOS8
  
@@ -165,7 +164,6 @@ INDEX
 - [iOS8SwiftUISwitchTutorial](https://ioscreator.com/tutorials/uiswitch-tutorial-in-ios8-with-swift)  
 - [iOS8SwiftWebViewTutorial](https://ioscreator.com/tutorials/webview-tutorial-in-ios8-with-swift)  
 - [iOS8SwiftCalculatorTutorial](https://ioscreator.com/tutorials/calculator-tutorial-in-ios8-with-swift)   
-- [iOS8SwiftAlertViewTutorial](https://ioscreator.com/tutorials/display-an-alert-view-in-ios8-with-swift)   
 - [iOS8SwiftTableViewTurorial](https://ioscreator.com/tutorials/tableview-tutorial-in-ios8-with-swift)  
 
 ### iOS7
@@ -189,7 +187,6 @@ INDEX
 - [iOS7CurrentLocationTutorial](https://ioscreator.com/tutorials/get-current-location-with-core-location)  
 - [iOS7ImageViewTutorial](https://ioscreator.com/tutorials/ios-7-views-image-view)  
 - [iOS7BackgroundFetchTutorial](https://ioscreator.com/tutorials/using-background-fetch-in-ios-7)  
-- [iOS7AlertViewTutorial](https://ioscreator.com/tutorials/ios-7-views-alert-view)  
 - [ScenesSpriteKitTutorial](https://ioscreator.com/tutorials/working-with-scenes-in-sprite-kit)  
 - [iOS7DynamicTypeTutorial](https://ioscreator.com/tutorials/using-dynamic-types-in-ios-7)  
 - [iOS7CollisionDetectionTutorial](https://ioscreator.com/tutorials/collision-detection-with-uikit-dynamics-in-ios-7)  
