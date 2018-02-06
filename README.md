@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 31-01-2018
+  This README last updated: 06-02-2018
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS11
 
+- [IOS11SwitchTutorial](https://ioscreator.com/tutorials/switch-ios-tutorial-ios11)  
 - [IOS11SliderTutorial](https://ioscreator.com/tutorials/slider-ios-tutorial-ios11)  
 - [IOS11ActivityViewControllerTutorial](https://ioscreator.com/tutorials/activity-view-controller-ios-tutorial-ios11)  
 - [IOS11WebViewTutorial](https://ioscreator.com/tutorials/webview-ios-tutorial-ios11)  
