@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 28-05-2018
+  This README last updated: 30-05-2018
 ===========================================================================================================
 
 INDEX
@@ -16,8 +16,9 @@ INDEX
 
 ### iOS11
 
-- [IOS11SwipeGestureTutorial](http://ioscreator.com/tutorials/swipe-gesture-ios-tutorial-ios11)  
-- [IOS11FlyOverMApKitTutorial](http://ioscreator.com/tutorials/mapkit-flyover-ios-tutorial-ios11)
+- [IOS11VolumeViewTutorial](https://ioscreator.com/tutorials/volume-view-ios-tutorial-ios11)  
+- [IOS11SwipeGestureTutorial](https://ioscreator.com/tutorials/swipe-gesture-ios-tutorial-ios11)  
+- [IOS11FlyOverMApKitTutorial](https://ioscreator.com/tutorials/mapkit-flyover-ios-tutorial-ios11)
 - [IOS11SwitchTutorial](https://ioscreator.com/tutorials/switch-ios-tutorial-ios11)  
 - [IOS11SliderTutorial](https://ioscreator.com/tutorials/slider-ios-tutorial-ios11)  
 - [IOS11ActivityViewControllerTutorial](https://ioscreator.com/tutorials/activity-view-controller-ios-tutorial-ios11)  
