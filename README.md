@@ -8,11 +8,15 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 30-05-2018
+  This README last updated: 11-06-2018
 ===========================================================================================================
 
 INDEX
 ===========================================================================================================
+
+### iOS12
+
+- [IOS12ActivityIndicatorTutorial](https://ioscreator.com/tutorials/activity-indicator-ios-tutorial-ios12)  
 
 ### iOS11
 
