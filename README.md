@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 12-06-2018
+  This README last updated: 26-08-2018
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOS12SceneKitTutorial](https://ioscreator.com/tutorials/primitives-scene-kit-ios-tutorial-ios12)  
 - [IOS12DrawCirclesTutorial](https://ioscreator.com/tutorials/draw-circles-ios-tutorial-ios12)  
 - [IOS12ActivityIndicatorTutorial](https://ioscreator.com/tutorials/activity-indicator-ios-tutorial-ios12)  
 
