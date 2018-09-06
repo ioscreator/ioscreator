@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 01-09-2018
+  This README last updated: 06-09-2018
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,8 @@ INDEX
 
 ### iOS12
 
+
+- [IOS12SearchMapKitTutorial](https://ioscreator.com/tutorials/search-map-kit-ios-tutorial-ios12)  
 - [IOS12ActionSheetTutorial](https://ioscreator.com/tutorials/action-sheet-ios-tutorial-ios12)  
 - [IOS12HideNavBarTutorial](https://ioscreator.com/tutorials/hide-navigation-bar-ios-tutorial-ios12)  
 - [IOS12SceneKitTutorial](https://ioscreator.com/tutorials/primitives-scene-kit-ios-tutorial-ios12)  
