@@ -36,6 +36,9 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        UNUserNotificationCenter.current().delegate = self
+        
         // Do any additional setup after loading the view, typically from a nib.
         
         UNUserNotificationCenter.current().requestAuthorization(options: [.alert]) { (success, error) in
@@ -56,3 +59,15 @@ class ViewController: UIViewController {
 
 }
 
+extension ViewController: UNUserNotificationCenterDelegate {
+    
+    func userNotificationCenter(_ center: UNUserNotificationCenter, willPresent notification: UNNotification, withCompletionHandler completionHandler: @escaping (UNNotificationPresentationOptions) -> Void) {
+        // EZAlertController.alert("you have new meeting ")
+
+        completionHandler( [.alert, .badge, .sound])
+    }
+
+    func userNotificationCenter(_ center: UNUserNotificationCenter, didReceive response: UNNotificationResponse, withCompletionHandler completionHandler: @escaping () -> Void) {
+        completionHandler()
+    }
+}
