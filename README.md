@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 06-09-2018
+  This README last updated: 24-09-2018
 ===========================================================================================================
 
 INDEX
@@ -16,7 +16,7 @@ INDEX
 
 ### iOS12
 
-
+- [IOS12AddRowsTableViewTutorial](https://ioscreator.com/tutorials/add-rows-table-view-ios-tutorial-ios12)  
 - [IOS12SearchMapKitTutorial](https://ioscreator.com/tutorials/search-map-kit-ios-tutorial-ios12)  
 - [IOS12ActionSheetTutorial](https://ioscreator.com/tutorials/action-sheet-ios-tutorial-ios12)  
 - [IOS12HideNavBarTutorial](https://ioscreator.com/tutorials/hide-navigation-bar-ios-tutorial-ios12)  
