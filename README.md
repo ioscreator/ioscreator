@@ -15,7 +15,7 @@ INDEX
 ===========================================================================================================
 
 ### iOS12
-
+- [IOS12AnimateViewsTutorial](https://ioscreator.com/tutorials/animate-view-auto-layout-ios-tutorial-ios12)  
 - [IOS12SpriteKitLabelsTutorial](https://ioscreator.com/tutorials/spritekit-labels-ios-tutorial-ios12)  
 - [IOS12AddRowsTableViewTutorial](https://ioscreator.com/tutorials/add-rows-table-view-ios-tutorial-ios12)  
 - [IOS12SearchMapKitTutorial](https://ioscreator.com/tutorials/search-map-kit-ios-tutorial-ios12)  
