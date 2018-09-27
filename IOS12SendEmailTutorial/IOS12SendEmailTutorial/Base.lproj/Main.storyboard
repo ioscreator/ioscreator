@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="IOS12SendEmailTutorial" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Subject" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Zxc-em-9ck">
+                                <rect key="frame" x="16" y="42" width="343" height="30"/>
+                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="yP6-4Q-Ksc">
+                                <rect key="frame" x="16" y="92" width="343" height="158"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZX0-uH-bGI">
+                                <rect key="frame" x="149" y="277" width="77" height="30"/>
+                                <state key="normal" title="Send Email"/>
+                                <connections>
+                                    <action selector="sendMail:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Brl-zj-t6i"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="Zxc-em-9ck" firstAttribute="leading" secondItem="yP6-4Q-Ksc" secondAttribute="leading" id="4CT-rV-7Tu"/>
+                            <constraint firstItem="yP6-4Q-Ksc" firstAttribute="top" secondItem="Zxc-em-9ck" secondAttribute="bottom" constant="20" id="4Td-ae-Qza"/>
+                            <constraint firstItem="ZX0-uH-bGI" firstAttribute="top" secondItem="yP6-4Q-Ksc" secondAttribute="bottom" constant="27" id="567-4Q-6cy"/>
+                            <constraint firstItem="ZX0-uH-bGI" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="149" id="5DC-2P-ewu"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="ZX0-uH-bGI" secondAttribute="bottom" constant="360" id="Bav-QY-ak5"/>
+                            <constraint firstItem="Zxc-em-9ck" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="G6p-yi-t0h"/>
+                            <constraint firstItem="Zxc-em-9ck" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="Mgx-qb-ihZ"/>
+                            <constraint firstItem="Zxc-em-9ck" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="22" id="Mvm-df-S5w"/>
+                            <constraint firstItem="Zxc-em-9ck" firstAttribute="trailing" secondItem="yP6-4Q-Ksc" secondAttribute="trailing" id="U3d-2b-PUk"/>
+                            <constraint firstItem="yP6-4Q-Ksc" firstAttribute="centerX" secondItem="ZX0-uH-bGI" secondAttribute="centerX" id="eQn-cP-3eq"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="body" destination="yP6-4Q-Ksc" id="6q1-JT-tbq"/>
+                        <outlet property="subject" destination="Zxc-em-9ck" id="umw-76-qIi"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="132" y="133.5832083958021"/>
+        </scene>
+    </scenes>
+</document>
