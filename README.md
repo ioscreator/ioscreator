@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 25-09-2018
+  This README last updated: 26-09-2018
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOS12TabBarControllerTutorial](https://ioscreator.com/tutorials/tab-bar/controller-ios-tutorial-ios12)  
 - [IOS12ScrollViewTutorial](https://ioscreatpr.com/tutorials/scroll-view-ios-tutorial-ios12)  
 - [IOS12AnimateViewsTutorial](https://ioscreator.com/tutorials/animate-view-auto-layout-ios-tutorial-ios12)  
 - [IOS12SpriteKitLabelsTutorial](https://ioscreator.com/tutorials/spritekit-labels-ios-tutorial-ios12)  
