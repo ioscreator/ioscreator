@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 01-10-2018
+  This README last updated: 03-10-2018
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOS12DeleteTableViewTutorial](https://ioscreator.com/tutorials/delete-rows-table-view-ios-tutorial-ios12)  
 - [IOS12CoreImageTutorial](https://ioscreator.com/tutorials/core-image-ios-tutorial-ios12)  
 - [IOS12SendEmailTutorial](https://ioscreator.com/tutorials/send-mail-ios-tutorial-ios12)  
 - [IOS12TabBarControllerTutorial](https://ioscreator.com/tutorials/tab-bar-controller-ios-tutorial-ios12)  
