@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 05-10-2018
+  This README last updated: 07-10-2018
 ===========================================================================================================
 
 INDEX
@@ -16,7 +16,8 @@ INDEX
 
 ### iOS12
 
-- [IOS12ActivityStatusBarTutorial](http://ioscreator.com/tutorials/activity-indicator-statusbar-ios-tutorial-ios12)  
+- [IOS12ReorderRowsTutorial](https://ioscreator.com/tutorials/reorder-rows-table-view-ios-tutorial-ios12)  
+- [IOS12ActivityStatusBarTutorial](https://ioscreator.com/tutorials/activity-indicator-statusbar-ios-tutorial-ios12)  
 - [IOS12SpriteKitScenesTutroial](https://ioscreator.com/tutorials/spritekit-scenes-ios-tutorial-ios12)  
 - [IOS12DeleteTableViewTutorial](https://ioscreator.com/tutorials/delete-rows-table-view-ios-tutorial-ios12)  
 - [IOS12CoreImageTutorial](https://ioscreator.com/tutorials/core-image-ios-tutorial-ios12)  
