@@ -20,18 +20,13 @@ class ViewController: UIViewController {
         let insetSize = CGRectInset(self.view.bounds, CGFloat(Int(2 * halfSizeOfView)), CGFloat(Int(2 * halfSizeOfView))).size
         
         // Add the Views
-        for i in 0..<maxViews {
-            var pointX = CGFloat(UInt(arc4random() % UInt32(UInt(insetSize.width))))
-            var pointY = CGFloat(UInt(arc4random() % UInt32(UInt(insetSize.height))))
+        for _ in 0..<maxViews {
+            let pointX = CGFloat(UInt(arc4random() % UInt32(UInt(insetSize.width))))
+            let pointY = CGFloat(UInt(arc4random() % UInt32(UInt(insetSize.height))))
             
-            var newView = MyView(frame: CGRectMake(pointX, pointY, 50, 50))
+            let newView = MyView(frame: CGRectMake(pointX, pointY, 50, 50))
             self.view.addSubview(newView)
         }
-    }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
     }
 
 
