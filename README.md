@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 16-10-2018
+  This README last updated: 18-10-2018
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOS12DeleteMultipleRowsTutorial](https://ioscreator.com/tutorials/delete-multiple-rows-table-view-ios-tutorial)  
 - [IOS12TakeVideoTutorial](https://ioscreator.com/tutorials/take-video-ios-tutorial)  
 - [IOS12SendiMessageTutorial](https://ioscreator.com/tutorials/send-imessage-ios-tutorial)  
 - [IOS12ReorderRowsTutorial](https://ioscreator.com/tutorials/reorder-rows-table-view-ios-tutorial-ios12)  
