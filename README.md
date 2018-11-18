@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 12-11-2018
+  This README last updated: 18-11-2018
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSSpriteKitMoveSpritePathTutorial](https://ioscreator.com/spritekit-move-sprite-path-ios-tutorial)  
 - [IOSAddEventTutorial](https://ioscreator.com/tutorials/add-event-calendar-ios-tutorial)  
 - [IOSAirdropTutorial](https://ioscreator.com/tutorials/airdrop-ios-tutorial)  
 - [IOSUserDefaultsTutorial](https://ioscreator.com/tutorials/user-defaults-ios-tutorial)  
@@ -119,11 +120,9 @@ INDEX
  
 - [IOS8SwiftCocoapodsTutorial](https://ioscreator.com/tutorials/cocoapods-tutorial-ios8-swift)  
 - [IOS8SwiftPlayMusicAVAudioPlayerTutorial](https://ioscreator.com/tutorials/play-music-avaudioplayer-ios8-swift)  
-- [IOS8SwiftAirdropTutorial](https://ioscreator.com/tutorials/airdrop-tutorial-ios8-swift)  
 - [IOS8SwiftPropertyListTutorial](https://ioscreator.com/tutorials/load-data-property-list-ios8-swift)  
 - [IOS8SwiftLiveRenderingTutorial](https://ioscreator.com/tutorials/live-rendering-tutorial-ios-8-swift)    
 - [IOS8SwiftFileManagementTutorial](https://ioscreator.com/tutorials/file-management-tutorial-ios8-swift)    
-- [IOS8SwiftNSUserDefaultsTutorial](https://ioscreator.com/tutorials/use-settings-nsuserdefaults-ios8-swift)    
 - [SpriteKitSwiftFollowPathTutorial](https://ioscreator.com/tutorials/move-sprite-along-path-spritekit-swift)   
 - [IOS8SwiftAddSearchTableViewTutorial](https://ioscreator.com/tutorials/add-search-table-view-tutorial-ios8-swift)    
 - [IOS8SwiftMoveViewKeyboardTutorial](https://ioscreator.com/tutorials/move-view-behind-keyboard-ios8-swift)  
@@ -184,7 +183,6 @@ INDEX
 
 ### iOS6
 
-- [UserDefaultsDemo](https://ioscreator.com/tutorials/use-settings-with-nsuserdefaults)  
 - [ChangeScreensDemo](https://ioscreator.com/tutorials/changing-screens-with-uipagecontrol)  
 - [CategoryDemo](https://ioscreator.com/tutorials/objective-c-add-a-category)  
 - [SearchTableViewDemo](https://ioscreator.com/tutorials/add-searchbar-to-tableview)  
