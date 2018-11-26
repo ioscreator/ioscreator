@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 18-11-2018
+  This README last updated: 26-11-2018
 ===========================================================================================================
 
 INDEX
@@ -16,7 +16,8 @@ INDEX
 
 ### iOS12
 
-- [IOSSpriteKitMoveSpritePathTutorial](https://ioscreator.com/spritekit-move-sprite-path-ios-tutorial)  
+- [IOSMoveViewKeyboardTutorial](https://ioscreator.com/tutorials/move-view-keyboard-ios-tutorial)  
+- [IOSSpriteKitMoveSpritePathTutorial](https://ioscreator.com/tutorials/spritekit-move-sprite-path-ios-tutorial)  
 - [IOSAddEventTutorial](https://ioscreator.com/tutorials/add-event-calendar-ios-tutorial)  
 - [IOSAirdropTutorial](https://ioscreator.com/tutorials/airdrop-ios-tutorial)  
 - [IOSUserDefaultsTutorial](https://ioscreator.com/tutorials/user-defaults-ios-tutorial)  
