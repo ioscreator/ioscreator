@@ -1,0 +1,6 @@
+framework module FontBlaster {
+  umbrella header "FontBlaster-umbrella.h"
+
+  export *
+  module * { export * }
+}

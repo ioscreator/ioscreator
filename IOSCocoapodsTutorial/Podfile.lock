@@ -1,0 +1,16 @@
+PODS:
+  - FontBlaster (4.1.0)
+
+DEPENDENCIES:
+  - FontBlaster
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FontBlaster
+
+SPEC CHECKSUMS:
+  FontBlaster: 127aa66419478d1c62926c7fdb39841633344a45
+
+PODFILE CHECKSUM: b2576320532dfc673f6250b315190eaeea703e28
+
+COCOAPODS: 1.5.3
