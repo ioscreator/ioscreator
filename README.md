@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 27-11-2018
+  This README last updated: 28-11-2018
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSCustomCollectionViewCellTutorial](https://ioscreator.com/tutorials/custom-collection-view-cell-ios-tutorial)  
 - [IOSCocoapodsTutorial](https://ioscreator.com/tutorials/cocoapods-ios-tutorial)  
 - [IOSMoveViewKeyboardTutorial](https://ioscreator.com/tutorials/move-view-keyboard-ios-tutorial)  
 - [IOSSpriteKitMoveSpritePathTutorial](https://ioscreator.com/tutorials/spritekit-move-sprite-path-ios-tutorial)  
