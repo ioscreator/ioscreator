@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSDataLoadPropertyListTutorial](https://ioscreator.com/tutorials/load-data-property-list-ios-tutorial)  
 - [IOSPlayMusicAVAudioPlayTutorial](https://ioscreator.com/tutorials/play-music-avaudioplayer-ios-tutorial)  
 - [IOSCustomCollectionViewCellTutorial](https://ioscreator.com/tutorials/custom-collection-view-cell-ios-tutorial)  
 - [IOSCocoapodsTutorial](https://ioscreator.com/tutorials/cocoapods-ios-tutorial)  
