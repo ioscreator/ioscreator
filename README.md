@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 29-11-2018
+  This README last updated: 01-12-2018
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSLiveRenderingTutorial](https://ioscreator.com/tutorials/live-rendering-ios-tutorial)  
 - [IOSDataLoadPropertyListTutorial](https://ioscreator.com/tutorials/load-data-property-list-ios-tutorial)  
 - [IOSPlayMusicAVAudioPlayTutorial](https://ioscreator.com/tutorials/play-music-avaudioplayer-ios-tutorial)  
 - [IOSCustomCollectionViewCellTutorial](https://ioscreator.com/tutorials/custom-collection-view-cell-ios-tutorial)  
