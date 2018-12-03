@@ -124,14 +124,11 @@ INDEX
 
 ### iOS8
  
-- [IOS8SwiftCocoapodsTutorial](https://ioscreator.com/tutorials/cocoapods-tutorial-ios8-swift)  
 - [IOS8SwiftPlayMusicAVAudioPlayerTutorial](https://ioscreator.com/tutorials/play-music-avaudioplayer-ios8-swift)  
 - [IOS8SwiftPropertyListTutorial](https://ioscreator.com/tutorials/load-data-property-list-ios8-swift)  
 - [IOS8SwiftLiveRenderingTutorial](https://ioscreator.com/tutorials/live-rendering-tutorial-ios-8-swift)    
 - [IOS8SwiftFileManagementTutorial](https://ioscreator.com/tutorials/file-management-tutorial-ios8-swift)    
-- [SpriteKitSwiftFollowPathTutorial](https://ioscreator.com/tutorials/move-sprite-along-path-spritekit-swift)   
 - [IOS8SwiftAddSearchTableViewTutorial](https://ioscreator.com/tutorials/add-search-table-view-tutorial-ios8-swift)    
-- [IOS8SwiftMoveViewKeyboardTutorial](https://ioscreator.com/tutorials/move-view-behind-keyboard-ios8-swift)  
 - [IOS8SwiftLocalNotificationTutorial](https://ioscreator.com/tutorials/local-notification-tutorial-ios8-swift)  
 - [SpriteKitSwiftScenesTutorial](https://ioscreator.com/tutorials/scenes-tutorial-spritekit-swift)  
 - [IOS8SwiftScrollViewTutorial](https://ioscreator.com/tutorials/scroll-view-tutorial-ios8-swift)  
@@ -166,9 +163,7 @@ INDEX
 - [iOS7UISliderTutorial](https://ioscreator.com/tutorials/change-values-with-uislider-in-ios7)  
 - [ScrollingSpriteKitTutorial](https://ioscreator.com/tutorials/scrolling-in-sprite-kit-tutorial)  
 - [iOS7StretchableImageTutorial](https://ioscreator.com/tutorials/stretchable-images-ios7-tutorial)  
-- [iOS7CustomCollectionViewCellTutorial](https://ioscreator.com/tutorials/creating-custom-collection-view-cells-in-ios7)  
 - [iOS7UISwitchTutorial](https://ioscreator.com/tutorials/ios-7-controls-uiswitch-tutorial)  
-- [FollowPathSpriteKitTutorial](https://ioscreator.com/tutorials/moving-sprites-path-sprite-kit)  
 - [iOS7LocalNotificationTutorial](https://ioscreator.com/tutorials/local-notifications-ios7)  
 - [iOS7HeaderFooterTutorial](https://ioscreator.com/tutorials/customizing-headers-footers-table-view-ios7)  
 - [iOS7SharingAirdropTutorial](https://ioscreator.com/tutorials/sharing-airdrop-ios7)  
@@ -222,8 +217,6 @@ INDEX
 - [CGShapedDemo](https://ioscreator.com/tutorials/drawing-shapes-with-core-graphics)   
 - [ConstraintsCodeDemo](https://ioscreator.com/tutorials/auto-layout-in-ios-6-adding-constraints-through-code)  
 - [CoreDataDemo](https://ioscreator.com/tutorials/introduction-to-core-data)  
-- [playAudioDemo](https://ioscreator.com/tutorials/play-mp3-file-in-ios-with-avaudioplayer)  
-- [KeyboardDemo](https://ioscreator.com/tutorials/move-view-when-keyboard-appears)  
 - [CustomizingTableviewCell](https://ioscreator.com/tutorials/customize-tableviewcells-with-storyboards)   
 - [DraggingViewsDemo](https://ioscreator.com/tutorials/dragging-views-with-gestures)  
 - [HeaderFooterDemo](https://ioscreator.com/tutorials/customizing-headers-and-footers-of-a-tableview)   

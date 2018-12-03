@@ -1,6 +1,0 @@
-framework module Pods_IOS8SwiftCocoapodsTutorial {
-  umbrella header "Pods-IOS8SwiftCocoapodsTutorial-umbrella.h"
-
-  export *
-  module * { export * }
-}
