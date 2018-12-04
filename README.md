@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSScreenEdgePanGestureTutorial](https://ioscreator.com/tutorials/screen-edge-pan-gesture-ios-tutorial)  
 - [IOSLiveRenderingTutorial](https://ioscreator.com/tutorials/live-rendering-ios-tutorial)  
 - [IOSDataLoadPropertyListTutorial](https://ioscreator.com/tutorials/load-data-property-list-ios-tutorial)  
 - [IOSPlayMusicAVAudioPlayTutorial](https://ioscreator.com/tutorials/play-music-avaudioplayer-ios-tutorial)  
