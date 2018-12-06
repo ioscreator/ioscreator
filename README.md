@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 01-12-2018
+  This README last updated: 05-12-2018
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSPasteBoardTutorial](https://ioscreator.com/tutorials/pasteboard-ios-tutorial)  
 - [IOSScreenEdgePanGestureTutorial](https://ioscreator.com/tutorials/screen-edge-pan-gesture-ios-tutorial)  
 - [IOSLiveRenderingTutorial](https://ioscreator.com/tutorials/live-rendering-ios-tutorial)  
 - [IOSDataLoadPropertyListTutorial](https://ioscreator.com/tutorials/load-data-property-list-ios-tutorial)  
