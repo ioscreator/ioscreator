@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 10-12-2018
+  This README last updated: 14-12-2018
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSAddSearchTableViewTutorial](https://ioscreator.com/tutorials/add-search-table-view-ios-tutorial)  
 - [IOSPasteBoardTutorial](https://ioscreator.com/tutorials/pasteboard-ios-tutorial)  
 - [IOSCustomFontTutorial](https://ioscreator.com/tutorials/custom-font-ios-tutorial)  
 - [IOSScreenEdgePanGestureTutorial](https://ioscreator.com/tutorials/screen-edge-pan-gesture-ios-tutorial)  
@@ -128,8 +129,6 @@ INDEX
 ### iOS8
  
 - [IOS8SwiftPlayMusicAVAudioPlayerTutorial](https://ioscreator.com/tutorials/play-music-avaudioplayer-ios8-swift)  
-- [IOS8SwiftPropertyListTutorial](https://ioscreator.com/tutorials/load-data-property-list-ios8-swift)  
-- [IOS8SwiftLiveRenderingTutorial](https://ioscreator.com/tutorials/live-rendering-tutorial-ios-8-swift)    
 - [IOS8SwiftFileManagementTutorial](https://ioscreator.com/tutorials/file-management-tutorial-ios8-swift)    
 - [IOS8SwiftAddSearchTableViewTutorial](https://ioscreator.com/tutorials/add-search-table-view-tutorial-ios8-swift)    
 - [IOS8SwiftLocalNotificationTutorial](https://ioscreator.com/tutorials/local-notification-tutorial-ios8-swift)  
@@ -137,14 +136,11 @@ INDEX
 - [IOS8SwiftScrollViewTutorial](https://ioscreator.com/tutorials/scroll-view-tutorial-ios8-swift)  
 - [IOS8SwiftTakePhotoTutorial](https://ioscreator.com/tutorials/take-photo-tutorial-ios8-swift)  
 - [IOS8SwiftAddEventTutorial](https://ioscreator.com/tutorials/add-event-calendar-tutorial-ios8-swift)    
-- [IOS8SwiftScreenEdgePanGesturesTutorial](https://ioscreator.com/tutorials/screen-edge-pan-gesture-tutorial-ios8-swift)  
 - [IOS8SwiftCustomCollectionViewCellsTutorial](https://ioscreator.com/tutorials/custom-collection-view-cell-tutorial-ios8-swift)    
-- [IOS8SwiftCustomFontsTutorial](https://ioscreator.com/tutorials/custom-fonts-interface-builder-tutorial-ios8-swift)  
 - [SpriteKitSwiftAccelerometerTutorial](https://ioscreator.com/tutorials/move-sprites-accelerometer-spritekit-swift)    
 - [IOS8SWiftHeaderFooterTutorial](https://ioscreator.com/tutorials/customizing-header-footer-table-view-ios8-swift)  
 - [IOS8SwiftActivityViewControllerTutorial](https://ioscreator.com/tutorials/activity-view-controller-tutorial-ios8-swift)    
 - [WatchKitPositioningTutorial](https://ioscreator.com/tutorials/positioning-tutorial-watchkit)  
-- [IOS8SwiftPasteBinTutorial](https://ioscreator.com/tutorials/pasteboard-tutorial-ios8-swift)  
 - [IOS8SwiftSwipeGestureTutorial](https://ioscreator.com/tutorials/detecting-swipe-gesture-tutorial-ios8-swift)    
 - [WatchKitLabelTutorial](https://ioscreator.com/tutorials/display-label-tutorial-watchkit)  
 - [SpriteKitSwiftLabelTutorial](https://ioscreator.com/tutorials/using-labels-spritekit-swift)  
@@ -193,13 +189,11 @@ INDEX
 - [OpenPDFDocument](https://ioscreator.com/tutorials/open-pdf-documents-in-ios)  
 - [DeleteItemTableViewDemo](https://ioscreator.com/tutorials/delete-rows-from-tableview)   
 - [AddItemTableViewDemo](https://ioscreator.com/tutorials/add-rows-to-tableview)   
-- [CustomFontDemo](https://ioscreator.com/tutorials/using-custom-fonts)   
 - [ChangeVolumeDemo](https://ioscreator.com/tutorials/changing-volume-output)  
 - [PopoverDemo](https://ioscreator.com/tutorials/display-popovers-on-the-ipad)   
 - [ActivityControllerStatusBarDemo](https://ioscreator.com/tutorials/display-an-activity-indicator-in-the-status-bar)  
 - [SplitViewControllerDemo](https://ioscreator.com/tutorials/create-a-splitviewcontroller-on-the-ipad)  
 - [CenteringViewsDemo](https://ioscreator.com/tutorials/auto-layout-in-ios-6-centering-views)  
-- [CopyTextDemo](https://ioscreator.com/tutorials/copy-text-with-uipastebin)  
 - [ImageAspectRatioDemo](https://ioscreator.com/tutorials/auto-layout-in-ios-6-keep-aspect-ratio-of-image)  
 - [ScalingViewDemo](https://ioscreator.com/tutorials/scaling-views)  
 - [CameraApp](https://ioscreator.com/tutorials/take-photo-with-the-camera)  
@@ -214,7 +208,6 @@ INDEX
 - [SimpleCalculator](https://ioscreator.com/tutorials/simple-calculator)   
 - [iOSSwipeTutorial](https://ioscreator.com/tutorials/detecting-swipe-gestures)  
 - [NavigationControllerDemo](https://ioscreator.com/tutorials/navigate-with-uinavigationcontroller)   
-- [PropertyListDemo](https://ioscreator.com/tutorials/load-data-from-property-list)  
 - [AddressBookDemo](https://ioscreator.com/tutorials/retrieving-contacts-from-the-address-book)  
 - [ActionSheetDemo](https://ioscreator.com/tutorials/simple-menu-with-uiactionsheet)  
 - [CGShapedDemo](https://ioscreator.com/tutorials/drawing-shapes-with-core-graphics)   
