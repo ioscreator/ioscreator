@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 14-12-2018
+  This README last updated: 17-12-2018
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSScrollViewPagingTutorial](https://ioscreator.com/tutorials/scroll-view-poging-ios-tutorial)  
 - [IOSAddSearchTableViewTutorial](https://ioscreator.com/tutorials/add-search-table-view-ios-tutorial)  
 - [IOSPasteBoardTutorial](https://ioscreator.com/tutorials/pasteboard-ios-tutorial)  
 - [IOSCustomFontTutorial](https://ioscreator.com/tutorials/custom-font-ios-tutorial)  
