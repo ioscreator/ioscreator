@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 17-12-2018
+  This README last updated: 06-01-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,10 @@ INDEX
 
 ### iOS12
 
+- [IOSTakePhotoTutorial](https://ioscreator.com/tutorials/take-photo-ios-tutorial)  
+- [IOSMoveSpritesAccelerometerTutorial](https://ioscreator.com/tutorials/move-sprites-accelerometer-ios-tutorial)
+- [IOSCustomizingTableViewTutorial](https://ioscreator.com/tutorials/customizing-table-view-ios-tutorial)  
+- [IOSJSONTuotial](https://ioscreator.com/tutorials/json-ios-tutorial)    
 - [IOSScrollViewPagingTutorial](https://ioscreator.com/tutorials/scroll-view-poging-ios-tutorial)  
 - [IOSAddSearchTableViewTutorial](https://ioscreator.com/tutorials/add-search-table-view-ios-tutorial)  
 - [IOSPasteBoardTutorial](https://ioscreator.com/tutorials/pasteboard-ios-tutorial)  

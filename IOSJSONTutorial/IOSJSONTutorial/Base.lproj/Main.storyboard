@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="IOSJSONTutorial" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Date" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4uN-VX-fxt">
+                                <rect key="frame" x="16" y="47" width="36" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="HH:MM" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Tqm-jU-tJK">
+                                <rect key="frame" x="151" y="115" width="59" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="DD/MM/YYYY" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hEM-sZ-exY">
+                                <rect key="frame" x="151" y="47" width="106" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Time" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZpH-MI-ToG">
+                                <rect key="frame" x="16" y="115" width="38" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="Tqm-jU-tJK" firstAttribute="leading" secondItem="ZpH-MI-ToG" secondAttribute="trailing" constant="97" id="4VW-L8-wbD"/>
+                            <constraint firstItem="ZpH-MI-ToG" firstAttribute="top" secondItem="4uN-VX-fxt" secondAttribute="bottom" constant="47" id="5P5-wr-BNX"/>
+                            <constraint firstItem="4uN-VX-fxt" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="27" id="Kc7-UT-QfS"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="hEM-sZ-exY" secondAttribute="trailing" constant="118" id="Nj1-cO-3H9"/>
+                            <constraint firstItem="4uN-VX-fxt" firstAttribute="baseline" secondItem="hEM-sZ-exY" secondAttribute="baseline" id="PvC-V3-ota"/>
+                            <constraint firstItem="ZpH-MI-ToG" firstAttribute="baseline" secondItem="Tqm-jU-tJK" secondAttribute="baseline" id="QM5-AJ-f7G"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="Tqm-jU-tJK" secondAttribute="trailing" symbolic="YES" id="bx6-pW-VTF"/>
+                            <constraint firstItem="hEM-sZ-exY" firstAttribute="leading" secondItem="Tqm-jU-tJK" secondAttribute="leading" id="gIp-DC-ErR"/>
+                            <constraint firstItem="hEM-sZ-exY" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="4uN-VX-fxt" secondAttribute="trailing" constant="8" symbolic="YES" id="kaO-Dc-fdA"/>
+                            <constraint firstItem="4uN-VX-fxt" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="o8b-2j-qWC"/>
+                            <constraint firstItem="4uN-VX-fxt" firstAttribute="leading" secondItem="ZpH-MI-ToG" secondAttribute="leading" id="p0h-KT-dNo"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="dateLabel" destination="hEM-sZ-exY" id="tug-NX-0fq"/>
+                        <outlet property="timeLabel" destination="Tqm-jU-tJK" id="NkA-ej-WyD"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+</document>
