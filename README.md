@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 08-01-2019
+  This README last updated: 10-01-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSDrawShapesTutorial](https://ioscreator.com/tutorials/draw-shapes-core-graphics-ios-tutorial)  
 - [IOSSafariViewControllerTutorial](https://ioscreator.com/tutorials/safari-view-controller-ios-tutorial)  
 - [IOSTakePhotoTutorial](https://ioscreator.com/tutorials/take-photo-ios-tutorial)  
 - [IOSMoveSpritesAccelerometerTutorial](https://ioscreator.com/tutorials/move-sprites-accelerometer-ios-tutorial)

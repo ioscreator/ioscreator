@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="IOSDrawShapesTutorial" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="64Z-mp-ctn">
+                                <rect key="frame" x="16" y="35" width="37" height="30"/>
+                                <state key="normal" title="Lines"/>
+                                <connections>
+                                    <action selector="buttonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="GAE-hS-Ecm"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Sgc-f2-Zk4">
+                                <rect key="frame" x="153" y="35" width="69" height="30"/>
+                                <state key="normal" title="Rectangle"/>
+                                <connections>
+                                    <action selector="buttonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="A9C-Lq-dNE"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Slz-0M-KHv">
+                                <rect key="frame" x="319" y="35" width="40" height="30"/>
+                                <state key="normal" title="Circle"/>
+                                <connections>
+                                    <action selector="buttonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="mzj-mZ-sxV"/>
+                                </connections>
+                            </button>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="hDS-Xg-hmK">
+                                <rect key="frame" x="47" y="110" width="280" height="250"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="Slz-0M-KHv" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Sgc-f2-Zk4" secondAttribute="trailing" constant="8" symbolic="YES" id="0du-tA-Aax"/>
+                            <constraint firstItem="Sgc-f2-Zk4" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="64Z-mp-ctn" secondAttribute="trailing" constant="8" symbolic="YES" id="BiP-N4-25T"/>
+                            <constraint firstItem="hDS-Xg-hmK" firstAttribute="centerX" secondItem="Sgc-f2-Zk4" secondAttribute="centerX" id="Ex6-Aa-X3J"/>
+                            <constraint firstItem="hDS-Xg-hmK" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="47" id="EzY-rq-yHC"/>
+                            <constraint firstItem="64Z-mp-ctn" firstAttribute="baseline" secondItem="Sgc-f2-Zk4" secondAttribute="baseline" id="F6H-tq-CEC"/>
+                            <constraint firstItem="64Z-mp-ctn" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="15" id="FqI-nZ-dyQ"/>
+                            <constraint firstItem="hDS-Xg-hmK" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Ij6-1i-ON0"/>
+                            <constraint firstItem="Slz-0M-KHv" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="WUc-EK-wvv"/>
+                            <constraint firstItem="Sgc-f2-Zk4" firstAttribute="baseline" secondItem="Slz-0M-KHv" secondAttribute="baseline" id="cuF-pI-1lM"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="hDS-Xg-hmK" secondAttribute="bottom" constant="307" id="d3n-96-0Ca"/>
+                            <constraint firstItem="hDS-Xg-hmK" firstAttribute="top" secondItem="64Z-mp-ctn" secondAttribute="bottom" constant="45" id="hJx-ub-Kot"/>
+                            <constraint firstItem="64Z-mp-ctn" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="qWp-rW-IJr"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="imageView" destination="hDS-Xg-hmK" id="cR0-uk-hm1"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-502" y="16"/>
+        </scene>
+    </scenes>
+</document>
