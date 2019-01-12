@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSReorderCollectionViewTutorial](https://ioscreator.com/tutorials/reorder-collection-view-ios-tutorial)  
 - [IOSDrawShapesTutorial](https://ioscreator.com/tutorials/draw-shapes-core-graphics-ios-tutorial)  
 - [IOSSafariViewControllerTutorial](https://ioscreator.com/tutorials/safari-view-controller-ios-tutorial)  
 - [IOSTakePhotoTutorial](https://ioscreator.com/tutorials/take-photo-ios-tutorial)  
