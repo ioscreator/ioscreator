@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSVibrationTutorial](https://ioscreator.com/tutorials/play-vibration-ios-tutorial)      
 - [IOSDisableATSTutorial](https://ioscreator.com/tutorials/disable-apple-transport-security-ios-tutorial)    
 - [IOSReorderCollectionViewTutorial](https://ioscreator.com/tutorials/reorder-collection-view-ios-tutorial)  
 - [IOSDrawShapesTutorial](https://ioscreator.com/tutorials/draw-shapes-core-graphics-ios-tutorial)  
