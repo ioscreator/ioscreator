@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 14-01-2019
+  This README last updated: 16-01-2019
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,7 @@ INDEX
 ### iOS12
 
 - [IOSVibrationTutorial](https://ioscreator.com/tutorials/play-vibration-ios-tutorial)      
+- [IOSOpenPDFTutorial](https://ioscreator.com/tutorials/open-pdf-ios-tutorial)      
 - [IOSDisableATSTutorial](https://ioscreator.com/tutorials/disable-apple-transport-security-ios-tutorial)    
 - [IOSReorderCollectionViewTutorial](https://ioscreator.com/tutorials/reorder-collection-view-ios-tutorial)  
 - [IOSDrawShapesTutorial](https://ioscreator.com/tutorials/draw-shapes-core-graphics-ios-tutorial)  
