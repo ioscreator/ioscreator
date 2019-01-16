@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSTextFieldAlertControllerTutorial](https://ioscreator.com/tutorials/editable-text-field-alert-controller-ios-tutorial)      
 - [IOSVibrationTutorial](https://ioscreator.com/tutorials/play-vibration-ios-tutorial)      
 - [IOSOpenPDFTutorial](https://ioscreator.com/tutorials/open-pdf-ios-tutorial)      
 - [IOSDisableATSTutorial](https://ioscreator.com/tutorials/disable-apple-transport-security-ios-tutorial)    
