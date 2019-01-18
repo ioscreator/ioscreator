@@ -127,13 +127,8 @@ INDEX
 - [IOS9DrawRouteMapKitTutorial](https://ioscreator.com/tutorials/draw-route-mapkit-tutorial)  
 - [IOS9MultipleOutletsTutorial](https://ioscreator.com/tutorials/multiple-outlets-tutorial)  
 - [IOS9SpellingCheckerTutorial](https://ioscreator.com/tutorials/spelling-checker-tutorial)   
-- [IOS9TextFieldAlertControllerTutorial](https://ioscreator.com/tutorials/editable-text-field-alert-controller-tutorial)    
-- [IOS9VibrationTutorial](https://ioscreator.com/tutorials/play-vibration-tutorial)  
-- [IOS9OpenPDFTutorial](https://ioscreator.com/tutorials/open-pdf-tutorial)     
 - [SpriteKitPhysicsTutorial](https://ioscreator.com/tutorials/sprite-kit-physics-tutorial)    
-- [IOS9DisableATSTutorial](https://ioscreator.com/tutorials/disable-apple-transport-security-tutorial)    
 - [IOS9CoreSpotlightTutorial](https://ioscreator.com/tutorials/index-app-content-core-spotlight-tutorial)    
-- [IOS9ReorderingCollectionViewTutorial](https://ioscreator.com/tutorials/reordering-collection-view-cells-tutorial)    
 - [IOS9StackViewTutorial](https://ioscreator.com/tutorials/stack-view-tutorial)   
 
 ### iOS8
