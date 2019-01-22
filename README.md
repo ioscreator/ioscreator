@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 21-01-2019
+  This README last updated: 22-01-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSSegmentedControllerTutorial](https://ioscreator.com/tutorials/segmented-cpntroller-ios-tutorial)        
 - [IOSColorStatusBarTutorial](https://ioscreator.com/tutorials/change-color-status-bar-ios-tutorial)        
 - [IOSSpriteKitPhysicsTutorial](https://ioscreator.com/tutorials/sprite-kit-physics-ios-tutorial)        
 - [IOSTextFieldAlertControllerTutorial](https://ioscreator.com/tutorials/editable-text-field-alert-controller-ios-tutorial)      
