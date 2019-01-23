@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<catalog>
+    <book id="1">
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+    </book>
+    <book id="2">
+        <title>1984</title>
+        <author>George Orwell</author>
+    </book>
+    <book id="3">
+        <title>The Lord of the Rings</title>
+        <author>J.R.R Tolkien</author>
+    </book>
+    <book id="4">
+        <title>The Catcher in the Rye</title>
+        <author>J.D. Salinger</author>
+    </book>
+    <book id="5">
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+    </book>
+</catalog>
