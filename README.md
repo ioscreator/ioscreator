@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSChangeDisplayNameTutorial](https://ioscreator.com/tutorials/change-display-name-ios-tutorial)            
 - [IOSParseXMLTutorial](https://ioscreator.com/tutorials/parse-xml-ios-tutorial)          
 - [IOSSegmentedControllerTutorial](https://ioscreator.com/tutorials/segmented-controller-ios-tutorial)        
 - [IOSColorStatusBarTutorial](https://ioscreator.com/tutorials/change-color-status-bar-ios-tutorial)        
