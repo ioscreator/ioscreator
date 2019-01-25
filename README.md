@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 24-01-2019
+  This README last updated: 25-01-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSRequestPermissionTutorial](https://ioscreator.com/tutorials/request-permission-core-location-ios-tutorial)            
 - [IOSMultipleOutletsTutorial](https://ioscreator.com/tutorials/multiple-outlets-ios-tutorial)            
 - [IOSChangeDisplayNameTutorial](https://ioscreator.com/tutorials/change-display-name-ios-tutorial)            
 - [IOSParseXMLTutorial](https://ioscreator.com/tutorials/parse-xml-ios-tutorial)          
