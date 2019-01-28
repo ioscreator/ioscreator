@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSDisplayAlertTutorial](https://ioscreator.com/tutorials/display-alert-ios-tutorial)            
 - [IOSTabBarCustomizationTutorial](https://ioscreator.com/tutorials/tab-bar-customization-ios-tutorial)            
 - [IOSRequestPermissionTutorial](https://ioscreator.com/tutorials/request-permission-core-location-ios-tutorial)            
 - [IOSMultipleOutletsTutorial](https://ioscreator.com/tutorials/multiple-outlets-ios-tutorial)            
