@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 31-01-2019
+  This README last updated: 02-04-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSLocalNotificationTutorial](https://ioscreator.com/tutorials/local-notification-ios-tutorial)              
 - [IOSSpriteKitBackgroundTutorial](https://ioscreator.com/tutorials/display-background-spritekit-ios-tutorial)              
 - [IOSContextMenuTableViewTutorial](https://ioscreator.com/tutorials/context-menu-table-view-ios-tutorial)            
 - [IOSDisplayAlertTutorial](https://ioscreator.com/tutorials/display-alert-ios-tutorial)            
