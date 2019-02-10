@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 02-06-2019
+  This README last updated: 02-10-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,8 @@ INDEX
 
 ### iOS12
 
+- [IOSFadeMusicTutorial](https://ioscreator.com/tutorials/fade-in-fade-out-ios-tutorial)              
+- [IOSPrototypeCellsTutorial](https://ioscreator.com/tutorials/prototype-cells-table-view-ios-tutorial)              
 - [IOSShadowButtonTutorial](https://ioscreator.com/tutorials/add-shadow-button-ios-tutorial)              
 - [IOSStepperTutorial](https://ioscreator.com/tutorials/stepper-ios-tutorial)              
 - [IOSLocalNotificationTutorial](https://ioscreator.com/tutorials/local-notification-ios-tutorial)              
