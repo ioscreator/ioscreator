@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 02-10-2019
+  This README last updated: 02-11-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,8 @@ INDEX
 
 ### iOS12
 
+- [IOSScaleImageTutorial](https://ioscreator.com/tutorials/scale-images-pinch-gesture-ios-tutorial)              
+- [IOSDatePickerTutorial](https://ioscreator.com/tutorials/display-date-date-picker-ios-tutorial)              
 - [IOSFadeMusicTutorial](https://ioscreator.com/tutorials/fade-in-fade-out-ios-tutorial)              
 - [IOSPrototypeCellsTutorial](https://ioscreator.com/tutorials/prototype-cells-table-view-ios-tutorial)              
 - [IOSShadowButtonTutorial](https://ioscreator.com/tutorials/add-shadow-button-ios-tutorial)              
