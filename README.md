@@ -118,13 +118,7 @@ INDEX
 - [IOS10AttributedStringsTutorial](https://ioscreator.com/tutorials/attributed-strings-ios-tutorial-ios10)
 - [IOS10TwitterTutorial](https://ioscreator.com/tutorials/twitter-ios-tutorial-ios10)  
 - [IOS10CustomizeNavBarTutorial](https://ioscreator.com/tutorials/customizing-navigation-bar-ios-tutorial-ios10)  
-- [IOS10ShadowButtonTutorial](https://ioscreator.com/tutorials/add-shadow-to-a-button-ios-tutorial-ios10)  
-- [IOS10FadeMusicTutorial](https://ioscreator.com/tutorials/fade-in-fade-out-music-ios-tutorial-ios10) 
-- [IOS10ProtoTypeCellsTutorial](https://ioscreator.com/tutorials/prototype-cells-table-view-ios-tutorial-ios10) 
 - [IOS10MapKitTutorial](https://ioscreator.com/tutorials/mapkit-ios-tutorial-ios10)  
-- [IOS10DatePickerTutorial](https://ioscreator.com/tutorials/display-date-date-picker-ios-tutorial-ios10)  
-- [IOS10ScaleImagesTutorial](https://ioscreator.com/tutorials/scale-images-with-pinch-gesture-ios-tutorial-ios10)  
-- [IOS10DraggingViewsTutorial](https://ioscreator.com/tutorials/dragging-views-gestures-tutorial-ios10)  
 - [IOS10StopWatchTutorial](https://ioscreator.com/tutorials/stopwatch-tutorial)  
 - [IOS10DrawGradientsTutorial](https://ioscreator.com/tutorials/draw-gradients-core-graphics-tutorial-ios10)  
 
