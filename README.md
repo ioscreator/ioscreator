@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 02-12-2019
+  This README last updated: 02-17-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,8 @@ INDEX
 
 ### iOS12
 
+- [IOSAttributedStringsTutorial](https://ioscreator.com/tutorials/attributed-strings-ios-tutorial)  
+- [IOSDragViewsGesturesTutorial](https://ioscreator.com/tutorials/customize-navigation-bar-ios-tutorial)  
 - [IOSDragViewsGesturesTutorial](https://ioscreator.com/tutorials/drag-views-gestures-ios-tutorial)  
 - [IOSScaleImageTutorial](https://ioscreator.com/tutorials/scale-images-pinch-gesture-ios-tutorial)              
 - [IOSDatePickerTutorial](https://ioscreator.com/tutorials/display-date-date-picker-ios-tutorial)              
