@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSCollectionDetectionTutorial](https://ioscreator.com/tutorials/collision-detection-uikit-dynamics--ios-tutorial)  
 - [IOSShakeGestureTutorial](https://ioscreator.com/tutorials/shake-gesture-ios-tutorial)  
 - [IOSAttributedStringsTutorial](https://ioscreator.com/tutorials/attributed-strings-ios-tutorial)  
 - [IOSDragViewsGesturesTutorial](https://ioscreator.com/tutorials/customize-navigation-bar-ios-tutorial)  
