@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 02-17-2019
+  This README last updated: 02-18-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSShakeGestureTutorial](https://ioscreator.com/tutorials/shake-gesture-ios-tutorial)  
 - [IOSAttributedStringsTutorial](https://ioscreator.com/tutorials/attributed-strings-ios-tutorial)  
 - [IOSDragViewsGesturesTutorial](https://ioscreator.com/tutorials/customize-navigation-bar-ios-tutorial)  
 - [IOSDragViewsGesturesTutorial](https://ioscreator.com/tutorials/drag-views-gestures-ios-tutorial)  
