@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 02-18-2019
+  This README last updated: 02-19-2019
 ===========================================================================================================
 
 INDEX
@@ -16,7 +16,8 @@ INDEX
 
 ### iOS12
 
-- [IOSCollectionDetectionTutorial](https://ioscreator.com/tutorials/collision-detection-uikit-dynamics--ios-tutorial)  
+- [IOSPickerTutorial](https://ioscreator.com/tutorials/picker-ios-tutorial)  
+- [IOSCollectionDetectionTutorial](https://ioscreator.com/tutorials/collision-detection-uikit-dynamics-ios-tutorial)  
 - [IOSShakeGestureTutorial](https://ioscreator.com/tutorials/shake-gesture-ios-tutorial)  
 - [IOSAttributedStringsTutorial](https://ioscreator.com/tutorials/attributed-strings-ios-tutorial)  
 - [IOSDragViewsGesturesTutorial](https://ioscreator.com/tutorials/customize-navigation-bar-ios-tutorial)  
