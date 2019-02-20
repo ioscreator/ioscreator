@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="IOSRotateImageTutorial" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" image="Apple_Swift_Logo" translatesAutoresizingMaskIntoConstraints="NO" id="c8c-jv-phJ">
+                                <rect key="frame" x="107" y="78" width="200" height="200"/>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rEX-rY-gIT">
+                                <rect key="frame" x="153" y="318" width="92" height="30"/>
+                                <state key="normal" title="Rotate"/>
+                                <connections>
+                                    <action selector="rotateImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="CZ2-ic-f8p"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="rEX-rY-gIT" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="153" id="WF3-O6-juL"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="rEX-rY-gIT" secondAttribute="bottom" constant="514" id="Yrc-xM-dDI"/>
+                            <constraint firstItem="rEX-rY-gIT" firstAttribute="top" secondItem="c8c-jv-phJ" secondAttribute="bottom" constant="40" id="cit-sz-pN1"/>
+                            <constraint firstItem="rEX-rY-gIT" firstAttribute="centerX" secondItem="c8c-jv-phJ" secondAttribute="centerX" constant="-8" id="jWV-48-ctM"/>
+                            <constraint firstItem="c8c-jv-phJ" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="34" id="qyb-oc-SHs"/>
+                            <constraint firstItem="c8c-jv-phJ" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="107" id="sTx-HW-RCM"/>
+                            <constraint firstItem="c8c-jv-phJ" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="yjR-qM-H6X"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="imageView" destination="c8c-jv-phJ" id="bij-Yh-HoY"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="34.782608695652179" y="18.75"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Apple_Swift_Logo" width="256" height="256"/>
+    </resources>
+</document>
