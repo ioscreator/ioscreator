@@ -15,27 +15,19 @@ class ViewController: UIViewController {
 	
 	@IBAction func buttonClicked(sender: UIButton) {
 		if mySwitch.on {
-			myTextField.text = "The Switch is Off"
+			myTextField.text = "The Switch is On"
 			println("Switch is on")
-			mySwitch.setOn(false, animated:true)
-		} else {
-			myTextField.text = "The Switch is On"
 			mySwitch.setOn(true, animated:true)
-		}
-	}
-	
-	func stateChanged(switchState: UISwitch) {
-		if switchState.on {
-			myTextField.text = "The Switch is On"
 		} else {
 			myTextField.text = "The Switch is Off"
+			println("Switch is off")
+			mySwitch.setOn(false, animated:true)
 		}
 	}
 	
 	override func viewDidLoad() {
 		super.viewDidLoad()
 		// Do any additional setup after loading the view, typically from a nib.
-		mySwitch.addTarget(self, action: Selector("stateChanged:"), forControlEvents: UIControlEvents.ValueChanged)
 	}
 	
 	
