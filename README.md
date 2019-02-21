@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSBlurEffectTutorial](https://ioscreator.com/tutorials/blur-effect-ios-tutorial)  
 - [IOSRotateImageTutorial](https://ioscreator.com/tutorials/rotate-image-ios-tutorial)  
 - [IOSSpriteKitActionsTutorial](https://ioscreator.com/tutorials/sprite-movement-actions-ios-tutorial)  
 - [IOSPickerTutorial](https://ioscreator.com/tutorials/picker-ios-tutorial)  
