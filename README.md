@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 02-20-2019
+  This README last updated: 02-24-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSSnapBehaviourTutorial](https://ioscreator.com/tutorials/snap-behaviour-ios-tutorial)  
 - [IOSBlurEffectTutorial](https://ioscreator.com/tutorials/blur-effect-ios-tutorial)  
 - [IOSRotateImageTutorial](https://ioscreator.com/tutorials/rotate-image-ios-tutorial)  
 - [IOSSpriteKitActionsTutorial](https://ioscreator.com/tutorials/sprite-movement-actions-ios-tutorial)  
