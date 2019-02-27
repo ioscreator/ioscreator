@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 02-25-2019
+  This README last updated: 02-27-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSPullToRefreshTutorial](https://ioscreator.com/tutorials/pull-to-refresh-ios-tutorial)    
 - [IOSActionsTableViewTutorial](https://ioscreator.com/tutorials/swipe-table-view-cell-custom-actions-ios-tutorial)    
 - [IOSSnapBehaviourTutorial](https://ioscreator.com/tutorials/snap-behaviour-ios-tutorial)  
 - [IOSBlurEffectTutorial](https://ioscreator.com/tutorials/blur-effect-ios-tutorial)  
