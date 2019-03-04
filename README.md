@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 01-04-2019
+  This README last updated: 03-05-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSSpringAnimationTutorial](https://ioscreator.com/tutorials/spring-animation-ios-tutorial)    
 - [IOSLongPressGestureTutorial](https://ioscreator.com/tutorials/long-press-gesture-ios-tutorial)    
 - [IOSPullToRefreshTutorial](https://ioscreator.com/tutorials/pull-to-refresh-ios-tutorial)    
 - [IOSActionsTableViewTutorial](https://ioscreator.com/tutorials/swipe-table-view-cell-custom-actions-ios-tutorial)    
