@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSCollectionViewControllerTutorial](https://ioscreator.com/tutorials/collection-view-controller-ios-tutorial)    
 - [IOSTouchIDTutorial](https://ioscreator.com/tutorials/touch-id-ios-tutorial)    
 - [IOSSpringAnimationTutorial](https://ioscreator.com/tutorials/spring-animation-ios-tutorial)    
 - [IOSLongPressGestureTutorial](https://ioscreator.com/tutorials/long-press-gesture-ios-tutorial)    
