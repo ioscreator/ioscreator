@@ -113,25 +113,13 @@ INDEX
 - [IOS11CollectionViewControllerTutorial](https://ioscreator.com/tutorials/collection-view-controller-ios-tutorial-ios-11)  
 - [IOS11IndexedTableViewTutorial](https://ioscreator.com/tutorials/indexed-table-view-ios-tutorial-ios11)  
 - [IOS11ParticleEmitterTutorial](https://ioscreator.com/tutorials/particle-emitter-ios-tutorial-ios11)  
-- [IOS11LongGestureTutorial](https://ioscreator.com/tutorials/long-press-gesture-ios-tutorial-ios11)  
-- [IOS11PullToRefreshTutorial](https://ioscreator.com/tutorials/pull-to-refresh-ios-tutorial-ios11)  
-- [IOS11SpringAnimationTutorial](https://ioscreator.com/tutorials/spring-animation-ios-tutorial-ios11)  
-- [IOS11ActionsTableViewTutorial](https://ioscreator.com/tutorials/swipe-table-view-cell-custom-actions-tutorial-ios11)  
 
 
 ### iOS10
 
-- [IOS10SnapBehaviourTutorial](https://ioscreator.com/tutorials/snap-behaviour-ios-tutorial-ios10)  
-- [IOS10BlurEffectTutorial](https://ioscreator.com/tutorials/blur-effect-ios-tutorial-ios10)  
-- [IOS10RotateImageTutorial](https://ioscreator.com/tutorials/rotate-image-ios-tutorial-ios10)  
 - [IOS10FacebookTutorial](https://ioscreator.com/tutorials/facebook-ios-tutorial-ios10)  
-- [IOS10CollisionDetectionTutorial](https://ioscreator.com/tutorials/collision-detection-uikit-dynamics-ios-tutorial-ios10)  
-- [IOS10ShakeGestureTutorial](https://ioscreator.com/tutorials/detect-shake-gestures-ios-tutorial-ios10)
-- [SpriteKitActionsTutorial](https://ioscreator.com/tutorials/sprite-movement-actions-sprite-kit-ios-tutorial-ios10)  
-- [IOS10PickerViewTutorial](https://ioscreator.com/tutorials/picker-view-ios-tutorial-ios10)  
-- [IOS10AttributedStringsTutorial](https://ioscreator.com/tutorials/attributed-strings-ios-tutorial-ios10)
+- [IOS10PickerViewkTutorial](https://ioscreator.com/tutorials/picker-view-ios-tutorial-ios10)  
 - [IOS10TwitterTutorial](https://ioscreator.com/tutorials/twitter-ios-tutorial-ios10)  
-- [IOS10CustomizeNavBarTutorial](https://ioscreator.com/tutorials/customizing-navigation-bar-ios-tutorial-ios10)  
 - [IOS10MapKitTutorial](https://ioscreator.com/tutorials/mapkit-ios-tutorial-ios10)  
 - [IOS10StopWatchTutorial](https://ioscreator.com/tutorials/stopwatch-tutorial)  
 - [IOS10DrawGradientsTutorial](https://ioscreator.com/tutorials/draw-gradients-core-graphics-tutorial-ios10)  
