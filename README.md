@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 03-12-2019
+  This README last updated: 03-13-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSDynamicTypesTutorial](https://ioscreator.com/tutorials/dynamic-types-ios-tutorial)    
 - [IOSCollectionViewControllerTutorial](https://ioscreator.com/tutorials/collection-view-controller-ios-tutorial)    
 - [IOSSliderTutorial](https://ioscreator.com/tutorials/slider-ios-tutorial)    
 - [IOSTouchIDTutorial](https://ioscreator.com/tutorials/touch-id-ios-tutorial)    
