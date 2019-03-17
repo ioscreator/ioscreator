@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSAirPrintTutorial](https://ioscreator.com/tutorials/airprint-ios-tutorial)    
 - [IOSSwitchTutorial](https://ioscreator.com/tutorials/switch-ios-tutorial)    
 - [IOSDynamicTypesTutorial](https://ioscreator.com/tutorials/dynamic-types-ios-tutorial)    
 - [IOSCollectionViewControllerTutorial](https://ioscreator.com/tutorials/collection-view-controller-ios-tutorial)    
