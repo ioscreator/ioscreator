@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 03-17-2019
+  This README last updated: 03-19-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSMapKitTutorial](https://ioscreator.com/tutorials/mapkit-ios-tutorial)    
 - [IOSAirPrintTutorial](https://ioscreator.com/tutorials/airprint-ios-tutorial)    
 - [IOSSwitchTutorial](https://ioscreator.com/tutorials/switch-ios-tutorial)    
 - [IOSDynamicTypesTutorial](https://ioscreator.com/tutorials/dynamic-types-ios-tutorial)    
