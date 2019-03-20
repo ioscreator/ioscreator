@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 03-19-2019
+  This README last updated: 03-20-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSProgressViewTutorial](https://ioscreator.com/tutorials/progress-view-ios-tutorial)    
 - [IOSPassDataViewControllerTutorial](https://ioscreator.com/tutorials/pass-data-view-controller-ios-tutorial)    
 - [IOSMapKitTutorial](https://ioscreator.com/tutorials/mapkit-ios-tutorial)    
 - [IOSAirPrintTutorial](https://ioscreator.com/tutorials/airprint-ios-tutorial)    
