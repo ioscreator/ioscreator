@@ -123,7 +123,6 @@ INDEX
 - [IOS10FacebookTutorial](https://ioscreator.com/tutorials/facebook-ios-tutorial-ios10)  
 - [IOS10PickerViewkTutorial](https://ioscreator.com/tutorials/picker-view-ios-tutorial-ios10)  
 - [IOS10TwitterTutorial](https://ioscreator.com/tutorials/twitter-ios-tutorial-ios10)  
-- [IOS10MapKitTutorial](https://ioscreator.com/tutorials/mapkit-ios-tutorial-ios10)  
 - [IOS10StopWatchTutorial](https://ioscreator.com/tutorials/stopwatch-tutorial)  
 - [IOS10DrawGradientsTutorial](https://ioscreator.com/tutorials/draw-gradients-core-graphics-tutorial-ios10)  
 
@@ -150,7 +149,6 @@ INDEX
 - [SpriteKitSwiftLabelTutorial](https://ioscreator.com/tutorials/using-labels-spritekit-swift)  
 - [IOS8SwiftVolumeTutorial](https://ioscreator.com/tutorials/volume-view-tutorial-ios8-swift)  
 - [IOS8SwiftDrawingCirclesTutorial](https://ioscreator.com/tutorials/drawing-circles-uitouch-ios8-swift)    
-- [IOS8SwiftProgressViewTutorial](https//ioscreator.com/tutorials/progress-view-tutorial-in-ios8-with-swift)  
 - [IOS8SwiftDraggingViewsTutorial](https://ioscreator.com/tutorials/dragging-views-gestures-tutorial-ios8-swift)  
 - [iOS8SwiftCalculatorTutorial](https://ioscreator.com/tutorials/calculator-tutorial-in-ios8-with-swift)   
 - [iOS8SwiftTableViewTurorial](https://ioscreator.com/tutorials/tableview-tutorial-in-ios8-with-swift)  
@@ -170,7 +168,6 @@ INDEX
 - [iOS7BackgroundFetchTutorial](https://ioscreator.com/tutorials/using-background-fetch-in-ios-7)  
 - [ScenesSpriteKitTutorial](https://ioscreator.com/tutorials/working-with-scenes-in-sprite-kit)  
 - [iOS7ActivityViewControllerTutorial](https://ioscreator.com/tutorials/ios-7-views-activity-viewcontroller)  
-- [iOS7ProgressViewTutorial](https://ioscreator.com/tutorials/ios-7-views-progress-view)  
 - [SpriteAnimationTutorial](https://ioscreator.com/tutorials/animating-sprites-with-sprite-kit)  
 - [iOS7AutoLayoutTutorial](https://ioscreator.com/tutorials/using-auto-layout-xcode-5)  
 - [iOS7UIKitDynamicsTutorial](https://ioscreator.com/tutorials/introducing-uikit-dynamics-in-ios-7)  
@@ -208,4 +205,3 @@ INDEX
 - [AnimatingViewDemo](https://ioscreator.com/tutorials/animating-views)  
 - [AccelerometerDemo](https://ioscreator.com/tutorials/read-values-of-the-accelerometer)    
 - [ActivityIndicatorDemo](https://ioscreator.com/tutorials/display-an-activity-indicator)  
-- [ProgressViewDemo](https://ioscreator.com/tutorials/display-a-progress-bar)  
