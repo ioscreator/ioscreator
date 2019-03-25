@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSAttachmentBehaviourTutorial](https://ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-ios-tutorial)    
 - [IOSAddItemsCollectionViewTutorial](https://ioscreator.com/tutorials/add-item-collection-view-controller-ios-tutorial)    
 - [IOSParticleEmitterTutorial](https://ioscreator.com/tutorials/particle-emitter-ios-tutorial)    
 - [IOSProgressViewTutorial](https://ioscreator.com/tutorials/progress-view-ios-tutorial)    
