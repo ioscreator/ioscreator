@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 04-02-2019
+  This README last updated: 05-02-2019
 ===========================================================================================================
 
 INDEX
@@ -16,7 +16,8 @@ INDEX
 
 ### iOS12
 
-- [IOSwipeGestureTutorial](https://ioscreator.com/tutorials/swipe-gesture-ios-tutorial)     
+- [IOSActivityViewControllerTutorial](https://ioscreator.com/tutorials/activity-view-controller-ios-tutorial)      
+- [IOSSwipeGestureTutorial](https://ioscreator.com/tutorials/swipe-gesture-ios-tutorial)     
 - [IOSWebViewTutorial](https://ioscreator.com/tutorials/webview-ios-tutorial)    
 - [IOSAttachmentBehaviourTutorial](https://ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-ios-tutorial)    
 - [IOSAddItemsCollectionViewTutorial](https://ioscreator.com/tutorials/add-item-collection-view-controller-ios-tutorial)    
