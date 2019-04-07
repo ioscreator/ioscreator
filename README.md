@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 05-02-2019
+  This README last updated: 04-07-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSVolumeViewTutorial](https://ioscreator.com/tutorials/volume-view-ios-tutorial)      
 - [IOSActivityViewControllerTutorial](https://ioscreator.com/tutorials/activity-view-controller-ios-tutorial)      
 - [IOSSwipeGestureTutorial](https://ioscreator.com/tutorials/swipe-gesture-ios-tutorial)     
 - [IOSWebViewTutorial](https://ioscreator.com/tutorials/webview-ios-tutorial)    
