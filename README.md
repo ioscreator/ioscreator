@@ -114,15 +114,12 @@ INDEX
 ### iOS11
 
 - [IOS11VolumeViewTutorial](https://ioscreator.com/tutorials/volume-view-ios-tutorial-ios11)  
-- [IOS11SwipeGestureTutorial](https://ioscreator.com/tutorials/swipe-gesture-ios-tutorial-ios11)  
 - [IOS11FlyOverMApKitTutorial](https://ioscreator.com/tutorials/mapkit-flyover-ios-tutorial-ios11)
 - [IOS11ActivityViewControllerTutorial](https://ioscreator.com/tutorials/activity-view-controller-ios-tutorial-ios11)  
-- [IOS11WebViewTutorial](https://ioscreator.com/tutorials/webview-ios-tutorial-ios11)  
 - [IOS11TodayExtensionTutorial](https://ioscreator.com/tutorials/today-extension-ios-tutorial-ios11)  
 - [IOS11AttachBehaviourTutorial](https://ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-ios-tutorial-ios11)  
 - [IOS11TouchIDTutorial](https://ioscreator.com/tutorials/touch-id-tutorial-ios-tutorial-ios11)  
 - [IOS11IndexedTableViewTutorial](https://ioscreator.com/tutorials/indexed-table-view-ios-tutorial-ios11)  
-- [IOS11ParticleEmitterTutorial](https://ioscreator.com/tutorials/particle-emitter-ios-tutorial-ios11)  
 
 
 ### iOS10
@@ -149,9 +146,7 @@ INDEX
 - [IOS8SwiftScrollViewTutorial](https://ioscreator.com/tutorials/scroll-view-tutorial-ios8-swift)  
 - [IOS8SwiftAddEventTutorial](https://ioscreator.com/tutorials/add-event-calendar-tutorial-ios8-swift)    
 - [IOS8SWiftHeaderFooterTutorial](https://ioscreator.com/tutorials/customizing-header-footer-table-view-ios8-swift)  
-- [IOS8SwiftActivityViewControllerTutorial](https://ioscreator.com/tutorials/activity-view-controller-tutorial-ios8-swift)    
 - [WatchKitPositioningTutorial](https://ioscreator.com/tutorials/positioning-tutorial-watchkit)  
-- [IOS8SwiftSwipeGestureTutorial](https://ioscreator.com/tutorials/detecting-swipe-gesture-tutorial-ios8-swift)    
 - [WatchKitLabelTutorial](https://ioscreator.com/tutorials/display-label-tutorial-watchkit)  
 - [SpriteKitSwiftLabelTutorial](https://ioscreator.com/tutorials/using-labels-spritekit-swift)  
 - [IOS8SwiftVolumeTutorial](https://ioscreator.com/tutorials/volume-view-tutorial-ios8-swift)  
@@ -174,7 +169,6 @@ INDEX
 - [iOS7ImageViewTutorial](https://ioscreator.com/tutorials/ios-7-views-image-view)  
 - [iOS7BackgroundFetchTutorial](https://ioscreator.com/tutorials/using-background-fetch-in-ios-7)  
 - [ScenesSpriteKitTutorial](https://ioscreator.com/tutorials/working-with-scenes-in-sprite-kit)  
-- [iOS7ActivityViewControllerTutorial](https://ioscreator.com/tutorials/ios-7-views-activity-viewcontroller)  
 - [SpriteAnimationTutorial](https://ioscreator.com/tutorials/animating-sprites-with-sprite-kit)  
 - [iOS7AutoLayoutTutorial](https://ioscreator.com/tutorials/using-auto-layout-xcode-5)  
 - [iOS7UIKitDynamicsTutorial](https://ioscreator.com/tutorials/introducing-uikit-dynamics-in-ios-7)  
@@ -195,12 +189,10 @@ INDEX
 - [ImageAspectRatioDemo](https://ioscreator.com/tutorials/auto-layout-in-ios-6-keep-aspect-ratio-of-image)  
 - [ScalingViewDemo](https://ioscreator.com/tutorials/scaling-views)  
 - [EmailDemo](https://ioscreator.com/tutorials/send-email-from-an-app)  
-- [SocialSharingDemo](https://ioscreator.com/tutorials/social-sharing-in-ios-6-the-activity-viewcontroller)  
 - [PlacemarkDemo](https://ioscreator.com/tutorials/display-placemarks-with-mapkit)  
 - [FileManagementDemo](https://ioscreator.com/tutorials/ios-file-management)  
 - [DrawingCirclesWithUITouch](https://ioscreator.com/tutorials/drawing-circles-with-uitouch)   
 - [SimpleCalculator](https://ioscreator.com/tutorials/simple-calculator)   
-- [iOSSwipeTutorial](https://ioscreator.com/tutorials/detecting-swipe-gestures)  
 - [NavigationControllerDemo](https://ioscreator.com/tutorials/navigate-with-uinavigationcontroller)   
 - [AddressBookDemo](https://ioscreator.com/tutorials/retrieving-contacts-from-the-address-book)  
 - [ActionSheetDemo](https://ioscreator.com/tutorials/simple-menu-with-uiactionsheet)  
