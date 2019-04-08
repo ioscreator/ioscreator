@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="IOSFlyOverMapKitTutorial" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="MaE-Aq-8ys">
+                                <rect key="frame" x="0.0" y="44" width="414" height="692"/>
+                            </mapView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Y6s-Em-5NL">
+                                <rect key="frame" x="30" y="790" width="30" height="30"/>
+                                <state key="normal" title="Left"/>
+                                <connections>
+                                    <action selector="rotateLeft:" destination="BYZ-38-t0r" eventType="touchUpInside" id="3Ge-lz-k9Y"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Yeb-Z6-8XE">
+                                <rect key="frame" x="353" y="790" width="36" height="30"/>
+                                <state key="normal" title="Right"/>
+                                <connections>
+                                    <action selector="rotateRight:" destination="BYZ-38-t0r" eventType="touchUpInside" id="zBF-RS-CPt"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="Y6s-Em-5NL" firstAttribute="baseline" secondItem="Yeb-Z6-8XE" secondAttribute="baseline" id="54b-70-ols"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Y6s-Em-5NL" secondAttribute="bottom" constant="42" id="60a-XS-qtE"/>
+                            <constraint firstItem="MaE-Aq-8ys" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="7DD-i0-eVu"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Yeb-Z6-8XE" secondAttribute="trailing" constant="25" id="R93-ew-Rh9"/>
+                            <constraint firstItem="Yeb-Z6-8XE" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Y6s-Em-5NL" secondAttribute="trailing" constant="8" symbolic="YES" id="X6a-8L-I0G"/>
+                            <constraint firstItem="MaE-Aq-8ys" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="XkC-ex-lme"/>
+                            <constraint firstItem="Y6s-Em-5NL" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="30" id="Xmz-oy-Kg0"/>
+                            <constraint firstAttribute="trailing" secondItem="MaE-Aq-8ys" secondAttribute="trailing" id="oAj-3Z-M0k"/>
+                            <constraint firstItem="Y6s-Em-5NL" firstAttribute="top" secondItem="MaE-Aq-8ys" secondAttribute="bottom" constant="54" id="rDp-jx-cfF"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="mapView" destination="MaE-Aq-8ys" id="F1k-At-4QN"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="131.8840579710145" y="120.53571428571428"/>
+        </scene>
+    </scenes>
+</document>
