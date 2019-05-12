@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSBackgroundFetchTutorial](https://ioscreator.com/tutorials/background-fetch-ios-tutorial)           
 - [IOSCircularImageTutorial](https://ioscreator.com/tutorials/circular-image-view-ios-tutorial)           
 - [IOSPopoverTutorial](https://ioscreator.com/tutorials/display-popover-ios-tutorial)           
 - [IOSDeleteItemsCollectionViewTutorial](https://ioscreator.com/tutorials/delete-item-collection-view-controller-ios-tutorial)         
@@ -117,7 +118,6 @@ INDEX
 
 ### iOS11
 
-- [IOS11VolumeViewTutorial](https://ioscreator.com/tutorials/volume-view-ios-tutorial-ios11)  
 - [IOS11FlyOverMApKitTutorial](https://ioscreator.com/tutorials/mapkit-flyover-ios-tutorial-ios11)
 - [IOS11ActivityViewControllerTutorial](https://ioscreator.com/tutorials/activity-view-controller-ios-tutorial-ios11)  
 - [IOS11TodayExtensionTutorial](https://ioscreator.com/tutorials/today-extension-ios-tutorial-ios11)  
@@ -164,47 +164,28 @@ INDEX
 - [iOS7NavigationControllerTutorial](https://ioscreator.com/tutorials/navigate-with-uinavigationcontroller-in-ios7)  
 - [ScrollingSpriteKitTutorial](https://ioscreator.com/tutorials/scrolling-in-sprite-kit-tutorial)  
 - [iOS7StretchableImageTutorial](https://ioscreator.com/tutorials/stretchable-images-ios7-tutorial)  
-- [iOS7HeaderFooterTutorial](https://ioscreator.com/tutorials/customizing-headers-footers-table-view-ios7)  
-- [iOS7SharingAirdropTutorial](https://ioscreator.com/tutorials/sharing-airdrop-ios7)  
-- [LabelSpriteKitTutorial](https://ioscreator.com/tutorials/using-labels-sprite-kit)  
 - [iOS7ShowRegionMapKitTutorial](https://ioscreator.com/tutorials/display-region-map-kit-ios7)  
 - [iOS7AddressBookTutorial](https://ioscreator.com/tutorials/add-contacts-to-the-address-book-in-ios7)  
 - [iOS7CurrentLocationTutorial](https://ioscreator.com/tutorials/get-current-location-with-core-location)  
 - [iOS7ImageViewTutorial](https://ioscreator.com/tutorials/ios-7-views-image-view)  
 - [iOS7BackgroundFetchTutorial](https://ioscreator.com/tutorials/using-background-fetch-in-ios-7)  
-- [ScenesSpriteKitTutorial](https://ioscreator.com/tutorials/working-with-scenes-in-sprite-kit)  
 - [SpriteAnimationTutorial](https://ioscreator.com/tutorials/animating-sprites-with-sprite-kit)  
 - [iOS7AutoLayoutTutorial](https://ioscreator.com/tutorials/using-auto-layout-xcode-5)  
-- [iOS7UIKitDynamicsTutorial](https://ioscreator.com/tutorials/introducing-uikit-dynamics-in-ios-7)  
 - [iOS7TintColorTutorial](https://ioscreator.com/tutorials/ios-7-views-setting-tint-color)  
 
 ### iOS6
 
 - [ChangeScreensDemo](https://ioscreator.com/tutorials/changing-screens-with-uipagecontrol)  
 - [CategoryDemo](https://ioscreator.com/tutorials/objective-c-add-a-category)  
-- [OpenPDFDocument](https://ioscreator.com/tutorials/open-pdf-documents-in-ios)  
-- [DeleteItemTableViewDemo](https://ioscreator.com/tutorials/delete-rows-from-tableview)   
-- [AddItemTableViewDemo](https://ioscreator.com/tutorials/add-rows-to-tableview)   
-- [ChangeVolumeDemo](https://ioscreator.com/tutorials/changing-volume-output)  
-- [PopoverDemo](https://ioscreator.com/tutorials/display-popovers-on-the-ipad)   
-- [ActivityControllerStatusBarDemo](https://ioscreator.com/tutorials/display-an-activity-indicator-in-the-status-bar)  
 - [SplitViewControllerDemo](https://ioscreator.com/tutorials/create-a-splitviewcontroller-on-the-ipad)  
 - [CenteringViewsDemo](https://ioscreator.com/tutorials/auto-layout-in-ios-6-centering-views)  
 - [ImageAspectRatioDemo](https://ioscreator.com/tutorials/auto-layout-in-ios-6-keep-aspect-ratio-of-image)  
 - [ScalingViewDemo](https://ioscreator.com/tutorials/scaling-views)  
-- [EmailDemo](https://ioscreator.com/tutorials/send-email-from-an-app)  
 - [PlacemarkDemo](https://ioscreator.com/tutorials/display-placemarks-with-mapkit)  
 - [FileManagementDemo](https://ioscreator.com/tutorials/ios-file-management)  
-- [DrawingCirclesWithUITouch](https://ioscreator.com/tutorials/drawing-circles-with-uitouch)   
 - [SimpleCalculator](https://ioscreator.com/tutorials/simple-calculator)   
-- [NavigationControllerDemo](https://ioscreator.com/tutorials/navigate-with-uinavigationcontroller)   
 - [AddressBookDemo](https://ioscreator.com/tutorials/retrieving-contacts-from-the-address-book)  
-- [ActionSheetDemo](https://ioscreator.com/tutorials/simple-menu-with-uiactionsheet)  
 - [ConstraintsCodeDemo](https://ioscreator.com/tutorials/auto-layout-in-ios-6-adding-constraints-through-code)  
 - [CoreDataDemo](https://ioscreator.com/tutorials/introduction-to-core-data)  
 - [CustomizingTableviewCell](https://ioscreator.com/tutorials/customize-tableviewcells-with-storyboards)   
-- [DraggingViewsDemo](https://ioscreator.com/tutorials/dragging-views-with-gestures)  
-- [HeaderFooterDemo](https://ioscreator.com/tutorials/customizing-headers-and-footers-of-a-tableview)   
-- [AnimatingViewDemo](https://ioscreator.com/tutorials/animating-views)  
 - [AccelerometerDemo](https://ioscreator.com/tutorials/read-values-of-the-accelerometer)    
-- [ActivityIndicatorDemo](https://ioscreator.com/tutorials/display-an-activity-indicator)  
