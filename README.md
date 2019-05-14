@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 06-05-2019
+  This README last updated: 05-14-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### iOS12
 
+- [IOSSpellingCheckerTutorial](https://ioscreator.com/tutorials/spell-checker-ios-tutorial)           
 - [IOSBackgroundFetchTutorial](https://ioscreator.com/tutorials/background-fetch-ios-tutorial)           
 - [IOSCircularImageTutorial](https://ioscreator.com/tutorials/circular-image-view-ios-tutorial)           
 - [IOSPopoverTutorial](https://ioscreator.com/tutorials/display-popover-ios-tutorial)           
