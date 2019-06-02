@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 05-20-2019
+  This README last updated: 06-02-2019
 ===========================================================================================================
 
 INDEX
@@ -16,7 +16,8 @@ INDEX
 
 ### iOS12
 
-- [IOSMultipeerConnectivtyTutorial](https://ioscreator.com/tutorials/multipeer-connectivity-ios-tutorial)           
+- [IOSNavigationControllerTutorial](https://ioscreator.com/tutorials/navigation-controller-ios-tutorial)           
+- [IOSMultipeerConnectivityTutorial](https://ioscreator.com/tutorials/multipeer-connectivity-ios-tutorial)           
 - [IOSSpellingCheckerTutorial](https://ioscreator.com/tutorials/spell-checker-ios-tutorial)           
 - [IOSBackgroundFetchTutorial](https://ioscreator.com/tutorials/background-fetch-ios-tutorial)           
 - [IOSCircularImageTutorial](https://ioscreator.com/tutorials/circular-image-view-ios-tutorial)           
