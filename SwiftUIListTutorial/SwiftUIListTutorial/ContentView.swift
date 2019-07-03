@@ -27,7 +27,7 @@ struct ContentView : View {
     var body: some View {
         NavigationView() {
             List(modelData) { weather in
-                NavigationButton(destination: Text(weather.city).font(.largeTitle)) {
+                NavigationLink(destination: Text(weather.city).font(.largeTitle)) {
                     HStack {
                         Image(systemName: weather.image)
                             .frame(width: 50, height: 10, alignment: .leading)
