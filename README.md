@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 07-09-2019
+  This README last updated: 07-10-2019
 ===========================================================================================================
 
 INDEX
@@ -17,7 +17,8 @@ INDEX
 ### SwiftUI
 
 
-- [SwiftUIIntegrateUIKittTutorial](https://ioscreator.com/tutorials/swiftui-integrate-uikit-tutorial)     
+- [SwiftUISegmentedControlTutorial](https://ioscreator.com/tutorials/swiftui-segmented-control-tutorial)     
+- [SwiftUIIntegrateUIKitTutorial](https://ioscreator.com/tutorials/swiftui-integrate-uikit-tutorial)     
 - [SwiftUIAlertTutorial](https://ioscreator.com/tutorials/swiftui-alert-tutorial)   
 - [SwiftUIStateTutorial](https://ioscreator.com/tutorials/swiftui-state-tutorial)   
 - [SwiftUIListTutorial](https://ioscreator.com/tutorials/swiftui-list-tutorial)   
