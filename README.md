@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 07-18-2019
+  This README last updated: 07-22-2019
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,7 @@ INDEX
 ### SwiftUI
 
 
+- [SwiftUIGestureTutorial](https://ioscreator.com/tutorials/swiftui-gesture-tutorial)     
 - [SwiftUIStepperTutorial](https://ioscreator.com/tutorials/swiftui-stepper-tutorial)     
 - [SwiftUIActionSheetTutorial](https://ioscreator.com/tutorials/swiftui-action-sheet-tutorial)     
 - [SwiftUISliderTutorial](https://ioscreator.com/tutorials/swiftui-slider-tutorial)     
