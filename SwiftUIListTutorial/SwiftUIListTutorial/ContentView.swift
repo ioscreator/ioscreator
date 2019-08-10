@@ -47,18 +47,6 @@ struct ContentView : View {
 
 #if DEBUG
 
-/*let testData: [Weather] = [Weather(image: "cloud.rain", temp: 21, city: "Amsterdam"),
-                           Weather(image: "cloud.rain", temp: 21, city: "London"),
-                           Weather(image: "cloud.rain", temp: 21, city: "Paris"),
-                           Weather(image: "cloud.rain", temp: 21, city: "Tokyo")] //title: "Owner")]
-                            Employee(name: "Victoria Wenderlich", title: "Digital Artist"),
-                            Employee(name: "Andrea Lepley", title: "Video Team Lead"),
-                            Employee(name: "Sam Davies", title: "CTO"),
-                            Employee(name: "Katie Collins", title: "Customer Support Lead"),
-                            Employee(name: "Tiffani Randolph", title: "Marketing Associate")*/
-
-
-
 struct ContentView_Previews : PreviewProvider {
     static var previews: some View {
         ContentView()

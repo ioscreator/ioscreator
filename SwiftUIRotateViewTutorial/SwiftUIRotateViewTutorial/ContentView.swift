@@ -13,7 +13,7 @@ struct ContentView: View {
     
     var body: some View {
         VStack {
-            Slider(value: $rotation, from: 0.0, through: 360.0, by: 1.0)
+            Slider(value: $rotation, in: 0.0...360.0, step: 1.0)
                 .padding()
             Image(systemName: "sun.max")
                 .rotationEffect(.degrees(rotation))

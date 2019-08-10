@@ -9,34 +9,24 @@
 import SwiftUI
 
 struct ContentView : View {
-    @State var isSheetShowing: Bool = false
+    @State var showActionSheet: Bool = false
     
     var actionSheet: ActionSheet {
-        ActionSheet(title: Text("Action Sheet"),
-            message: Text("Choose Option"),
-            buttons: [
-                .default(Text("Delete"), onTrigger: {
-                    self.isSheetShowing = false
-                }),
-                .default(Text("Save"), onTrigger: {
-                   self.isSheetShowing = false
-                }),
-                .destructive(Text("Cancel"), onTrigger: {
-                   self.isSheetShowing = false
-                })
-            ]
-        )
+        ActionSheet(title: Text("Action Sheet"), message: Text("Choose Option"), buttons: [
+            .default(Text("Save")),
+            .default(Text("Delete")),
+            .destructive(Text("Cancel"))
+        ])
     }
 
     var body: some View {
         Button(action: {
-            self.isSheetShowing = true
+            self.showActionSheet.toggle()
         }) {
             Text("Display Action Sheet")
         }
-        .presentation($isSheetShowing) {
-            self.actionSheet
-        }
+        .actionSheet(isPresented: $showActionSheet, content: {
+            self.actionSheet })
     }
 }
 

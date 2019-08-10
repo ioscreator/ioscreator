@@ -12,7 +12,7 @@ struct ContentView : View {
     var body: some View {
         Text("Hello ioscreator")
             .font(.largeTitle)
-            .color(.red)
+            .foregroundColor(.red)
     }
 }
 

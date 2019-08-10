@@ -17,7 +17,7 @@ struct ContentView : View {
         VStack {
             HStack {
                 Text("\(Int(minimumValue))")
-                Slider(value: $sliderValue, from: minimumValue, through: maximumvalue, by: 10)
+                Slider(value: $sliderValue, in: minimumValue...maximumvalue)
                 Text("\(Int(maximumvalue))")
             }.padding()
         
