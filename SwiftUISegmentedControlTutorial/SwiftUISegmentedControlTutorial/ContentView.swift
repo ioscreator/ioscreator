@@ -14,11 +14,13 @@ struct ContentView : View {
   
     var body: some View {
         VStack {
-            SegmentedControl(selection: $selectorIndex) {
+            Picker("Numbers", selection: $selectorIndex) {
                 ForEach(0 ..< numbers.count) { index in
                     Text(self.numbers[index]).tag(index)
                 }
             }
+            .pickerStyle(SegmentedPickerStyle())
+            
             
             Text("Selected value is: \(numbers[selectorIndex])").padding()
         }
