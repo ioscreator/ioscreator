@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 09-09-2019
+  This README last updated: 09-10-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### SwiftUI
 
+- [SwiftUITabViewTutorial](https://ioscreator.com/tutorials/swiftui-tab-view-tutorial)     
 - [SwiftUIObservableObjectTutorial](https://ioscreator.com/tutorials/swiftui-observable-object-tutorial)     
 - [SwiftUICircularImageTutorial](https://ioscreator.com/tutorials/swiftui-circular-image-tutorial)     
 - [SwiftUIBackgroundColorTutorial](https://ioscreator.com/tutorials/swiftui-background-color-tutorial)     
