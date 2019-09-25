@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 09-22-2019
+  This README last updated: 09-26-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### SwiftUI
 
+- [SwiftUIDragGestureTutorial](https://ioscreator.com/tutorials/swiftui-drag-gesture-tutorial)     
 - [SwiftUIPreviewDevicesTutorial](https://ioscreator.com/tutorials/swiftui-preview-multiple-devices-tutorial)     
 - [SwiftUIEnvironmentObjectTutorial](https://ioscreator.com/tutorials/swiftui-environment-object-tutorial)     
 - [SwiftUITabViewTutorial](https://ioscreator.com/tutorials/swiftui-tab-view-tutorial)     
