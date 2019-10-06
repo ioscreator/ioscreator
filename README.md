@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 09-30-2019
+  This README last updated: 10-06-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,8 @@ INDEX
 
 ### SwiftUI
 
+- [SwiftUIDatePickerTutorial](https://ioscreator.com/tutorials/swiftui-date-picker-tutorial)     
+- [SwiftUIModalTutorial](https://ioscreator.com/tutorials/swiftui-modal-tutorial)     
 - [SwiftUIFormsTutorial](https://ioscreator.com/tutorials/swiftui-forms-tutorial)     
 - [SwiftUIDragGestureTutorial](https://ioscreator.com/tutorials/swiftui-drag-gesture-tutorial)     
 - [SwiftUIPreviewDevicesTutorial](https://ioscreator.com/tutorials/swiftui-preview-multiple-devices-tutorial)     
