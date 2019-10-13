@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 10-09-2019
+  This README last updated: 10-13-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### SwiftUI
 
+- [SwiftUISecureTextFieldTutorial](https://ioscreator.com/tutorials/swiftui-secure-textfield--tutorial)     
 - [SwiftUIDarkModePreviewTutorial](https://ioscreator.com/tutorials/swiftui-dark-mode-preview-tutorial)     
 - [SwiftUIDatePickerTutorial](https://ioscreator.com/tutorials/swiftui-date-picker-tutorial)     
 - [SwiftUIModalTutorial](https://ioscreator.com/tutorials/swiftui-modal-tutorial)     
