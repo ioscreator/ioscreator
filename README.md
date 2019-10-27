@@ -17,6 +17,7 @@ INDEX
 ### SwiftUI
 
 - [SwiftUICustomizeNavBarTutorial](https://ioscreator.com/tutorials/customize-navigation-bar-tutorial)     
+- [SwiftUIRotateGestureTutorial](https://ioscreator.com/tutorials/swiftui-rotation-gesture-tutorial)     
 - [SwiftUIDrawGradientTutorial](https://ioscreator.com/tutorials/swiftui-draw-gradient-tutorial)     
 - [SwiftUIAnimationTutorial](https://ioscreator.com/tutorials/swiftui-animation-tutorial)     
 - [SwiftUIMagnificationGestureTutorial](https://ioscreator.com/tutorials/swiftui-magnification-gesture-tutorial)     
