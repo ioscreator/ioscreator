@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 10-27-2019
+  This README last updated: 10-30-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,8 @@ INDEX
 
 ### SwiftUI
 
+- [SwiftUIMapKitTutorial](https://ioscreator.com/tutorials/swiftui-mapkit-tutorial)     
+- [SwiftUIMoveRowsListTutorial](https://ioscreator.com/tutorials/move-rows-list-tutorial)     
 - [SwiftUICustomizeNavBarTutorial](https://ioscreator.com/tutorials/customize-navigation-bar-tutorial)     
 - [SwiftUIRotateGestureTutorial](https://ioscreator.com/tutorials/swiftui-rotation-gesture-tutorial)     
 - [SwiftUIDrawGradientTutorial](https://ioscreator.com/tutorials/swiftui-draw-gradient-tutorial)     
