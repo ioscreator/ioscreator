@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 11-11-2019
+  This README last updated: 11-12-2019
 ===========================================================================================================
 
 INDEX
@@ -16,6 +16,7 @@ INDEX
 
 ### SwiftUI
 
+- [SwiftUIDeleteRowsListTutorial](https://ioscreator.com/tutorials/swiftui-delete-rows-list-tutorial)     
 - [SwiftUISpacerTutorial](https://ioscreator.com/tutorials/swiftui-spacer-tutorial)     
 - [SwiftUIOverlayViewsTutorial](https://ioscreator.com/tutorials/swiftui-overlay-views-tutorial)     
 - [SwiftUIHeaderFooterListTutorial](https://ioscreator.com/tutorials/swiftui-header-footer-list-tutorial)     
