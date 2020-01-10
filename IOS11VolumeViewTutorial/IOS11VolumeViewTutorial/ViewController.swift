@@ -23,8 +23,10 @@ class ViewController: UIViewController {
         view.addSubview(wrapperView)
         
         // 3
-        let volumeView = MPVolumeView(frame: wrapperView.bounds)
-        wrapperView.addSubview(volumeView)
+        if wrapperView.subviews.count == 0 {
+            let volumeView = MPVolumeView(frame: wrapperView.bounds)
+            wrapperView.addSubview(volumeView)
+        }
     }
     
     @IBAction func stopSound(_ sender: Any) {
