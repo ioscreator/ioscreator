@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 01-05-2020
+  This README last updated: 01-12-2020
 ===========================================================================================================
 
 INDEX
@@ -17,7 +17,8 @@ INDEX
 ### iOS13
 
 
-- [IOSSpliViewControllerTutorial](https://ioscreator.com/tutorials/ios-split-view-controller-tutorial)     
+- [IOSFetchContactsTutorial](https://ioscreator.com/tutorials/fetch-contacts-ios-tutorial)       
+- [IOSSplitViewControllerTutorial](https://ioscreator.com/tutorials/ios-split-view-controller-tutorial)     
 - [SwiftUICircularProgressBarTutorial](https://ioscreator.com/tutorials/swiftui-circular-progress-bar-tutorial)     
 - [SwiftUIContextMenuTutorial](https://ioscreator.com/tutorials/swiftui-context-menu-tutorial)     
 - [SwiftUIDividerTutorial](https://ioscreator.com/tutorials/swiftui-divider-tutorial)     
