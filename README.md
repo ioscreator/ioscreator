@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 01-12-2020
+  This README last updated: 01-19-2020
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,7 @@ INDEX
 ### iOS13
 
 
+- [IOSSpriteKitParallaxScrollingTutorial](https://ioscreator.com/tutorials/parallax-scrolling-spritekit-tutorial)       
 - [IOSFetchContactsTutorial](https://ioscreator.com/tutorials/fetch-contacts-ios-tutorial)       
 - [IOSSplitViewControllerTutorial](https://ioscreator.com/tutorials/ios-split-view-controller-tutorial)     
 - [SwiftUICircularProgressBarTutorial](https://ioscreator.com/tutorials/swiftui-circular-progress-bar-tutorial)     
