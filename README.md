@@ -142,7 +142,7 @@ INDEX
 - [IOSMoveSpritesAccelerometerTutorial](https://ioscreator.com/tutorials/move-sprites-accelerometer-ios-tutorial)
 - [IOSCustomizingTableViewTutorial](https://ioscreator.com/tutorials/customizing-table-view-ios-tutorial)  
 - [IOSJSONTutorial](https://ioscreator.com/tutorials/json-ios-tutorial)    
-- [IOSScrollViewPagingTutorial](https://ioscreator.com/tutorials/scroll-view-poging-ios-tutorial)  
+- [IOSScrollViewPagingTutorial](https://ioscreator.com/tutorials/scroll-view-paging-ios-tutorial)  
 - [IOSAddSearchTableViewTutorial](https://ioscreator.com/tutorials/add-search-table-view-ios-tutorial)  
 - [IOSPasteBoardTutorial](https://ioscreator.com/tutorials/pasteboard-ios-tutorial)  
 - [IOSCustomFontTutorial](https://ioscreator.com/tutorials/custom-font-ios-tutorial)  
@@ -180,18 +180,13 @@ INDEX
 
 ### iOS11
 
-- [IOS11FlyOverMApKitTutorial](https://ioscreator.com/tutorials/mapkit-flyover-ios-tutorial-ios11)
-- [IOS11ActivityViewControllerTutorial](https://ioscreator.com/tutorials/activity-view-controller-ios-tutorial-ios11)  
 - [IOS11TodayExtensionTutorial](https://ioscreator.com/tutorials/today-extension-ios-tutorial-ios11)  
-- [IOS11AttachBehaviourTutorial](https://ioscreator.com/tutorials/uikit-dynamics-attachment-behaviour-ios-tutorial-ios11)  
-- [IOS11TouchIDTutorial](https://ioscreator.com/tutorials/touch-id-tutorial-ios-tutorial-ios11)  
 - [IOS11IndexedTableViewTutorial](https://ioscreator.com/tutorials/indexed-table-view-ios-tutorial-ios11)  
 
 
 ### iOS10
 
 - [IOS10FacebookTutorial](https://ioscreator.com/tutorials/facebook-ios-tutorial-ios10)  
-- [IOS10PickerViewkTutorial](https://ioscreator.com/tutorials/picker-view-ios-tutorial-ios10)  
 - [IOS10TwitterTutorial](https://ioscreator.com/tutorials/twitter-ios-tutorial-ios10)  
 - [IOS10StopWatchTutorial](https://ioscreator.com/tutorials/stopwatch-tutorial)  
 - [IOS10DrawGradientsTutorial](https://ioscreator.com/tutorials/draw-gradients-core-graphics-tutorial-ios10)  
@@ -200,35 +195,22 @@ INDEX
   
 - [IOS9PersistentPropertytutorial](https://ioscreator.com/tutorials/persistent-data-property-list-tutorial)    
 - [IOS9DrawRouteMapKitTutorial](https://ioscreator.com/tutorials/draw-route-mapkit-tutorial)  
-- [IOS9SpellingCheckerTutorial](https://ioscreator.com/tutorials/spelling-checker-tutorial)   
 - [IOS9CoreSpotlightTutorial](https://ioscreator.com/tutorials/index-app-content-core-spotlight-tutorial)    
 - [IOS9StackViewTutorial](https://ioscreator.com/tutorials/stack-view-tutorial)   
 
 ### iOS8
  
-- [IOS8SwiftPlayMusicAVAudioPlayerTutorial](https://ioscreator.com/tutorials/play-music-avaudioplayer-ios8-swift)  
 - [IOS8SwiftFileManagementTutorial](https://ioscreator.com/tutorials/file-management-tutorial-ios8-swift)    
-- [SpriteKitSwiftScenesTutorial](https://ioscreator.com/tutorials/scenes-tutorial-spritekit-swift)  
-- [IOS8SwiftScrollViewTutorial](https://ioscreator.com/tutorials/scroll-view-tutorial-ios8-swift)  
-- [IOS8SwiftAddEventTutorial](https://ioscreator.com/tutorials/add-event-calendar-tutorial-ios8-swift)    
 - [IOS8SWiftHeaderFooterTutorial](https://ioscreator.com/tutorials/customizing-header-footer-table-view-ios8-swift)  
 - [WatchKitPositioningTutorial](https://ioscreator.com/tutorials/positioning-tutorial-watchkit)  
 - [WatchKitLabelTutorial](https://ioscreator.com/tutorials/display-label-tutorial-watchkit)  
-- [SpriteKitSwiftLabelTutorial](https://ioscreator.com/tutorials/using-labels-spritekit-swift)  
-- [IOS8SwiftVolumeTutorial](https://ioscreator.com/tutorials/volume-view-tutorial-ios8-swift)  
-- [IOS8SwiftDrawingCirclesTutorial](https://ioscreator.com/tutorials/drawing-circles-uitouch-ios8-swift)    
-- [IOS8SwiftDraggingViewsTutorial](https://ioscreator.com/tutorials/dragging-views-gestures-tutorial-ios8-swift)  
 - [iOS8SwiftCalculatorTutorial](https://ioscreator.com/tutorials/calculator-tutorial-in-ios8-with-swift)   
-- [iOS8SwiftTableViewTurorial](https://ioscreator.com/tutorials/tableview-tutorial-in-ios8-with-swift)  
+- [iOS8SwiftTableViewTutorial](https://ioscreator.com/tutorials/tableview-tutorial-in-ios8-with-swift)  
 
 ### iOS7
   
-- [iOS7NavigationControllerTutorial](https://ioscreator.com/tutorials/navigate-with-uinavigationcontroller-in-ios7)  
-- [ScrollingSpriteKitTutorial](https://ioscreator.com/tutorials/scrolling-in-sprite-kit-tutorial)  
 - [iOS7StretchableImageTutorial](https://ioscreator.com/tutorials/stretchable-images-ios7-tutorial)  
-- [iOS7ShowRegionMapKitTutorial](https://ioscreator.com/tutorials/display-region-map-kit-ios7)  
 - [iOS7AddressBookTutorial](https://ioscreator.com/tutorials/add-contacts-to-the-address-book-in-ios7)  
-- [iOS7CurrentLocationTutorial](https://ioscreator.com/tutorials/get-current-location-with-core-location)  
 - [iOS7ImageViewTutorial](https://ioscreator.com/tutorials/ios-7-views-image-view)  
 - [iOS7BackgroundFetchTutorial](https://ioscreator.com/tutorials/using-background-fetch-in-ios-7)  
 - [SpriteAnimationTutorial](https://ioscreator.com/tutorials/animating-sprites-with-sprite-kit)  
@@ -239,15 +221,9 @@ INDEX
 
 - [ChangeScreensDemo](https://ioscreator.com/tutorials/changing-screens-with-uipagecontrol)  
 - [CategoryDemo](https://ioscreator.com/tutorials/objective-c-add-a-category)  
-- [SplitViewControllerDemo](https://ioscreator.com/tutorials/create-a-splitviewcontroller-on-the-ipad)  
 - [CenteringViewsDemo](https://ioscreator.com/tutorials/auto-layout-in-ios-6-centering-views)  
 - [ImageAspectRatioDemo](https://ioscreator.com/tutorials/auto-layout-in-ios-6-keep-aspect-ratio-of-image)  
 - [ScalingViewDemo](https://ioscreator.com/tutorials/scaling-views)  
-- [PlacemarkDemo](https://ioscreator.com/tutorials/display-placemarks-with-mapkit)  
-- [FileManagementDemo](https://ioscreator.com/tutorials/ios-file-management)  
-- [SimpleCalculator](https://ioscreator.com/tutorials/simple-calculator)   
-- [AddressBookDemo](https://ioscreator.com/tutorials/retrieving-contacts-from-the-address-book)  
-- [ConstraintsCodeDemo](https://ioscreator.com/tutorials/auto-layout-in-ios-6-adding-constraints-through-code)  
 - [CoreDataDemo](https://ioscreator.com/tutorials/introduction-to-core-data)  
 - [CustomizingTableviewCell](https://ioscreator.com/tutorials/customize-tableviewcells-with-storyboards)   
 - [AccelerometerDemo](https://ioscreator.com/tutorials/read-values-of-the-accelerometer)    
