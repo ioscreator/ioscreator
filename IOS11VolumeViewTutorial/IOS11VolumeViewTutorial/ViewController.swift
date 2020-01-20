@@ -12,6 +12,7 @@ import MediaPlayer
 
 class ViewController: UIViewController {
     var audioPlayer = AVAudioPlayer()
+    var volumeViewSlider: UISlider!
     let wrapperView = UIView(frame: CGRect(x: 30, y: 200, width: 300, height: 20))
 
     @IBAction func playSound(_ sender: Any) {
@@ -23,8 +24,34 @@ class ViewController: UIViewController {
         view.addSubview(wrapperView)
         
         // 3
-        let volumeView = MPVolumeView(frame: wrapperView.bounds)
-        wrapperView.addSubview(volumeView)
+        if wrapperView.subviews.count == 0 {
+            let volumeView = MPVolumeView(frame: wrapperView.bounds)
+            wrapperView.addSubview(volumeView)
+            
+            // Find the volume view slider
+            // Based on http://www.stormyprods.com/blogger/2008/09/proper-usage-of-mpvolumeview-class.html
+            for view in volumeView.subviews {
+                if view.description.contains("MPVolumeSlider") {
+                    volumeViewSlider = view as? UISlider
+                    break
+                }
+            }
+            
+            if volumeViewSlider != nil {
+                // volumeViewSlider.backgroundColor = UIColor.red
+                volumeViewSlider.tintColor = UIColor.orange
+                
+                // ???: All images from icon8.com
+                //volumeViewSlider.setThumbImage(UIImage(named: "icons8-finger-up-100"), for: .highlighted)
+                volumeViewSlider.setThumbImage(UIImage(named: "icons8-finger-up-filled-100"), for: .normal)
+                
+                volumeViewSlider.minimumValueImage = UIImage(named: "icons8-mute-100")
+                volumeViewSlider.maximumValueImage = UIImage(named: "icons8-speaker-100")
+                
+                volumeViewSlider.setMinimumTrackImage(UIImage(named: "icons8-menu-100"), for: .normal)
+                volumeViewSlider.setMaximumTrackImage(UIImage(named: "icons8-menu-filled-100"), for: .normal)
+            }
+        }
     }
     
     @IBAction func stopSound(_ sender: Any) {
