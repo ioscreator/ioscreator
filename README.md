@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 01-29-2020
+  This README last updated: 02-02-2020
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,7 @@ INDEX
 ### iOS13
 
 
+- [IOSAnimateAutoLayoutTutorial](https://ioscreator.com/tutorials/animate-view-auto-layout-ios-tutorial)         
 - [IOSAddRowsTableViewTutorial](https://ioscreator.com/tutorials/add-rows-table-view-ios-tutorial)       
 - [IOSActivityIndicatorTutorial](https://ioscreator.com/tutorials/activity-indicator-ios-tutorial)       
 - [IOSActionSheetTutorial](https://ioscreator.com/tutorials/action-sheet-ios-tutorial)       
