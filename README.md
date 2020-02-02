@@ -175,12 +175,10 @@ INDEX
 - [IOS12ScrollViewTutorial](https://ioscreatpr.com/tutorials/scroll-view-ios-tutorial-ios12)  
 - [IOS12AnimateViewsTutorial](https://ioscreator.com/tutorials/animate-view-auto-layout-ios-tutorial-ios12)  
 - [IOS12SpriteKitLabelsTutorial](https://ioscreator.com/tutorials/spritekit-labels-ios-tutorial-ios12)  
-- [IOS12AddRowsTableViewTutorial](https://ioscreator.com/tutorials/add-rows-table-view-ios-tutorial-ios12)  
 - [IOS12SearchMapKitTutorial](https://ioscreator.com/tutorials/search-map-kit-ios-tutorial-ios12)  
 - [IOS12HideNavBarTutorial](https://ioscreator.com/tutorials/hide-navigation-bar-ios-tutorial-ios12)  
 - [IOS12SceneKitTutorial](https://ioscreator.com/tutorials/primitives-scene-kit-ios-tutorial-ios12)  
 - [IOS12DrawCirclesTutorial](https://ioscreator.com/tutorials/draw-circles-ios-tutorial-ios12)  
-- [IOS12ActivityIndicatorTutorial](https://ioscreator.com/tutorials/activity-indicator-ios-tutorial-ios12)  
 
 ### iOS11
 
@@ -223,7 +221,6 @@ INDEX
 
 ### iOS6
 
-- [ChangeScreensDemo](https://ioscreator.com/tutorials/changing-screens-with-uipagecontrol)  
 - [CategoryDemo](https://ioscreator.com/tutorials/objective-c-add-a-category)  
 - [CenteringViewsDemo](https://ioscreator.com/tutorials/auto-layout-in-ios-6-centering-views)  
 - [ImageAspectRatioDemo](https://ioscreator.com/tutorials/auto-layout-in-ios-6-keep-aspect-ratio-of-image)  
