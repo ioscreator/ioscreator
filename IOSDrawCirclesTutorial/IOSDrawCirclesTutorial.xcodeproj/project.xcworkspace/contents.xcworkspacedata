@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:IOS12AnimateViewsTutorial.xcodeproj">
+      location = "self:IOSDrawCirclesTutorial.xcodeproj">
    </FileRef>
 </Workspace>

@@ -17,6 +17,7 @@ INDEX
 ### iOS13
 
 
+- [IOSDrawCirclesTutorial](https://ioscreator.com/tutorials/draw-circles-ios-tutorial)         
 - [IOSAnimateAutoLayoutTutorial](https://ioscreator.com/tutorials/animate-view-auto-layout-ios-tutorial)         
 - [IOSAddRowsTableViewTutorial](https://ioscreator.com/tutorials/add-rows-table-view-ios-tutorial)       
 - [IOSActivityIndicatorTutorial](https://ioscreator.com/tutorials/activity-indicator-ios-tutorial)       
@@ -173,7 +174,6 @@ INDEX
 - [IOS12SendEmailTutorial](https://ioscreator.com/tutorials/send-mail-ios-tutorial-ios12)  
 - [IOS12TabBarControllerTutorial](https://ioscreator.com/tutorials/tab-bar-controller-ios-tutorial-ios12)  
 - [IOS12ScrollViewTutorial](https://ioscreatpr.com/tutorials/scroll-view-ios-tutorial-ios12)  
-- [IOS12AnimateViewsTutorial](https://ioscreator.com/tutorials/animate-view-auto-layout-ios-tutorial-ios12)  
 - [IOS12SpriteKitLabelsTutorial](https://ioscreator.com/tutorials/spritekit-labels-ios-tutorial-ios12)  
 - [IOS12SearchMapKitTutorial](https://ioscreator.com/tutorials/search-map-kit-ios-tutorial-ios12)  
 - [IOS12HideNavBarTutorial](https://ioscreator.com/tutorials/hide-navigation-bar-ios-tutorial-ios12)  
