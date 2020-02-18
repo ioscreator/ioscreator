@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 02-02-2020
+  This README last updated: 02-18-2020
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,7 @@ INDEX
 ### iOS13
 
 
+- [SwiftUIJSONListTutorial](https://ioscreator.com/tutorials/swiftui-json-list-tutorial)  
 - [IOSSendMailTutorial](https://ioscreator.com/tutorials/send-mail-ios-tutorial)         
 - [IOSDrawCirclesTutorial](https://ioscreator.com/tutorials/draw-circles-ios-tutorial)         
 - [IOSAnimateAutoLayoutTutorial](https://ioscreator.com/tutorials/animate-view-auto-layout-ios-tutorial)         
@@ -172,14 +173,12 @@ INDEX
 - [IOS12SpriteKitScenesTutroial](https://ioscreator.com/tutorials/spritekit-scenes-ios-tutorial-ios12)  
 - [IOS12DeleteTableViewTutorial](https://ioscreator.com/tutorials/delete-rows-table-view-ios-tutorial-ios12)  
 - [IOS12CoreImageTutorial](https://ioscreator.com/tutorials/core-image-ios-tutorial-ios12)  
-- [IOS12SendEmailTutorial](https://ioscreator.com/tutorials/send-mail-ios-tutorial-ios12)  
 - [IOS12TabBarControllerTutorial](https://ioscreator.com/tutorials/tab-bar-controller-ios-tutorial-ios12)  
 - [IOS12ScrollViewTutorial](https://ioscreatpr.com/tutorials/scroll-view-ios-tutorial-ios12)  
 - [IOS12SpriteKitLabelsTutorial](https://ioscreator.com/tutorials/spritekit-labels-ios-tutorial-ios12)  
 - [IOS12SearchMapKitTutorial](https://ioscreator.com/tutorials/search-map-kit-ios-tutorial-ios12)  
 - [IOS12HideNavBarTutorial](https://ioscreator.com/tutorials/hide-navigation-bar-ios-tutorial-ios12)  
 - [IOS12SceneKitTutorial](https://ioscreator.com/tutorials/primitives-scene-kit-ios-tutorial-ios12)  
-- [IOS12DrawCirclesTutorial](https://ioscreator.com/tutorials/draw-circles-ios-tutorial-ios12)  
 
 ### iOS11
 

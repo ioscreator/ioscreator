@@ -7,25 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E2539449215BEAC5008BB8BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2539448215BEAC5008BB8BA /* AppDelegate.swift */; };
-		E253944B215BEAC5008BB8BA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E253944A215BEAC5008BB8BA /* ViewController.swift */; };
-		E253944E215BEAC5008BB8BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E253944C215BEAC5008BB8BA /* Main.storyboard */; };
-		E2539450215BEAC9008BB8BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E253944F215BEAC9008BB8BA /* Assets.xcassets */; };
-		E2539453215BEAC9008BB8BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2539451215BEAC9008BB8BA /* LaunchScreen.storyboard */; };
+		E269F2F623FC409D00C35B6E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E269F2F523FC409D00C35B6E /* AppDelegate.swift */; };
+		E269F2F823FC409D00C35B6E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E269F2F723FC409D00C35B6E /* SceneDelegate.swift */; };
+		E269F2FA23FC409D00C35B6E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E269F2F923FC409D00C35B6E /* ContentView.swift */; };
+		E269F2FC23FC40A200C35B6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E269F2FB23FC40A200C35B6E /* Assets.xcassets */; };
+		E269F2FF23FC40A200C35B6E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E269F2FE23FC40A200C35B6E /* Preview Assets.xcassets */; };
+		E269F30223FC40A200C35B6E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E269F30023FC40A200C35B6E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E2539445215BEAC5008BB8BA /* IOS12SendEmailTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOS12SendEmailTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E2539448215BEAC5008BB8BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E253944A215BEAC5008BB8BA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		E253944D215BEAC5008BB8BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E253944F215BEAC9008BB8BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E2539452215BEAC9008BB8BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		E2539454215BEAC9008BB8BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E269F2F223FC409D00C35B6E /* SwiftUIJSONListTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIJSONListTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E269F2F523FC409D00C35B6E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E269F2F723FC409D00C35B6E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		E269F2F923FC409D00C35B6E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		E269F2FB23FC40A200C35B6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E269F2FE23FC40A200C35B6E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E269F30123FC40A200C35B6E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E269F30323FC40A200C35B6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		E2539442215BEAC5008BB8BA /* Frameworks */ = {
+		E269F2EF23FC409D00C35B6E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,71 +37,80 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E253943C215BEAC5008BB8BA = {
+		E269F2E923FC409D00C35B6E = {
 			isa = PBXGroup;
 			children = (
-				E2539447215BEAC5008BB8BA /* IOS12SendEmailTutorial */,
-				E2539446215BEAC5008BB8BA /* Products */,
+				E269F2F423FC409D00C35B6E /* SwiftUIJSONListTutorial */,
+				E269F2F323FC409D00C35B6E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		E2539446215BEAC5008BB8BA /* Products */ = {
+		E269F2F323FC409D00C35B6E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E2539445215BEAC5008BB8BA /* IOS12SendEmailTutorial.app */,
+				E269F2F223FC409D00C35B6E /* SwiftUIJSONListTutorial.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E2539447215BEAC5008BB8BA /* IOS12SendEmailTutorial */ = {
+		E269F2F423FC409D00C35B6E /* SwiftUIJSONListTutorial */ = {
 			isa = PBXGroup;
 			children = (
-				E2539448215BEAC5008BB8BA /* AppDelegate.swift */,
-				E253944A215BEAC5008BB8BA /* ViewController.swift */,
-				E253944C215BEAC5008BB8BA /* Main.storyboard */,
-				E253944F215BEAC9008BB8BA /* Assets.xcassets */,
-				E2539451215BEAC9008BB8BA /* LaunchScreen.storyboard */,
-				E2539454215BEAC9008BB8BA /* Info.plist */,
+				E269F2F523FC409D00C35B6E /* AppDelegate.swift */,
+				E269F2F723FC409D00C35B6E /* SceneDelegate.swift */,
+				E269F2F923FC409D00C35B6E /* ContentView.swift */,
+				E269F2FB23FC40A200C35B6E /* Assets.xcassets */,
+				E269F30023FC40A200C35B6E /* LaunchScreen.storyboard */,
+				E269F30323FC40A200C35B6E /* Info.plist */,
+				E269F2FD23FC40A200C35B6E /* Preview Content */,
 			);
-			path = IOS12SendEmailTutorial;
+			path = SwiftUIJSONListTutorial;
+			sourceTree = "<group>";
+		};
+		E269F2FD23FC40A200C35B6E /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				E269F2FE23FC40A200C35B6E /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E2539444215BEAC5008BB8BA /* IOS12SendEmailTutorial */ = {
+		E269F2F123FC409D00C35B6E /* SwiftUIJSONListTutorial */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E2539457215BEAC9008BB8BA /* Build configuration list for PBXNativeTarget "IOS12SendEmailTutorial" */;
+			buildConfigurationList = E269F30623FC40A200C35B6E /* Build configuration list for PBXNativeTarget "SwiftUIJSONListTutorial" */;
 			buildPhases = (
-				E2539441215BEAC5008BB8BA /* Sources */,
-				E2539442215BEAC5008BB8BA /* Frameworks */,
-				E2539443215BEAC5008BB8BA /* Resources */,
+				E269F2EE23FC409D00C35B6E /* Sources */,
+				E269F2EF23FC409D00C35B6E /* Frameworks */,
+				E269F2F023FC409D00C35B6E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = IOS12SendEmailTutorial;
-			productName = IOS12SendEmailTutorial;
-			productReference = E2539445215BEAC5008BB8BA /* IOS12SendEmailTutorial.app */;
+			name = SwiftUIJSONListTutorial;
+			productName = SwiftUIJSONListTutorial;
+			productReference = E269F2F223FC409D00C35B6E /* SwiftUIJSONListTutorial.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		E253943D215BEAC5008BB8BA /* Project object */ = {
+		E269F2EA23FC409D00C35B6E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1000;
-				LastUpgradeCheck = 1000;
+				LastSwiftUpdateCheck = 1130;
+				LastUpgradeCheck = 1130;
 				ORGANIZATIONNAME = "Arthur Knopper";
 				TargetAttributes = {
-					E2539444215BEAC5008BB8BA = {
-						CreatedOnToolsVersion = 10.0;
+					E269F2F123FC409D00C35B6E = {
+						CreatedOnToolsVersion = 11.3;
 					};
 				};
 			};
-			buildConfigurationList = E2539440215BEAC5008BB8BA /* Build configuration list for PBXProject "IOS12SendEmailTutorial" */;
+			buildConfigurationList = E269F2ED23FC409D00C35B6E /* Build configuration list for PBXProject "SwiftUIJSONListTutorial" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -107,54 +118,47 @@
 				en,
 				Base,
 			);
-			mainGroup = E253943C215BEAC5008BB8BA;
-			productRefGroup = E2539446215BEAC5008BB8BA /* Products */;
+			mainGroup = E269F2E923FC409D00C35B6E;
+			productRefGroup = E269F2F323FC409D00C35B6E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E2539444215BEAC5008BB8BA /* IOS12SendEmailTutorial */,
+				E269F2F123FC409D00C35B6E /* SwiftUIJSONListTutorial */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		E2539443215BEAC5008BB8BA /* Resources */ = {
+		E269F2F023FC409D00C35B6E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E2539453215BEAC9008BB8BA /* LaunchScreen.storyboard in Resources */,
-				E2539450215BEAC9008BB8BA /* Assets.xcassets in Resources */,
-				E253944E215BEAC5008BB8BA /* Main.storyboard in Resources */,
+				E269F30223FC40A200C35B6E /* LaunchScreen.storyboard in Resources */,
+				E269F2FF23FC40A200C35B6E /* Preview Assets.xcassets in Resources */,
+				E269F2FC23FC40A200C35B6E /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E2539441215BEAC5008BB8BA /* Sources */ = {
+		E269F2EE23FC409D00C35B6E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E253944B215BEAC5008BB8BA /* ViewController.swift in Sources */,
-				E2539449215BEAC5008BB8BA /* AppDelegate.swift in Sources */,
+				E269F2F623FC409D00C35B6E /* AppDelegate.swift in Sources */,
+				E269F2F823FC409D00C35B6E /* SceneDelegate.swift in Sources */,
+				E269F2FA23FC409D00C35B6E /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		E253944C215BEAC5008BB8BA /* Main.storyboard */ = {
+		E269F30023FC40A200C35B6E /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E253944D215BEAC5008BB8BA /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		E2539451215BEAC9008BB8BA /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				E2539452215BEAC9008BB8BA /* Base */,
+				E269F30123FC40A200C35B6E /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -162,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		E2539455215BEAC9008BB8BA /* Debug */ = {
+		E269F30423FC40A200C35B6E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -194,7 +198,6 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -213,7 +216,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -223,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		E2539456215BEAC9008BB8BA /* Release */ = {
+		E269F30523FC40A200C35B6E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -255,7 +258,6 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
@@ -268,7 +270,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -278,38 +280,42 @@
 			};
 			name = Release;
 		};
-		E2539458215BEAC9008BB8BA /* Debug */ = {
+		E269F30723FC40A200C35B6E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIJSONListTutorial/Preview Content\"";
 				DEVELOPMENT_TEAM = Z5DP89AMR6;
-				INFOPLIST_FILE = IOS12SendEmailTutorial/Info.plist;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = SwiftUIJSONListTutorial/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ioscreator.IOS12SendEmailTutorial;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ioscreator.SwiftUIJSONListTutorial;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		E2539459215BEAC9008BB8BA /* Release */ = {
+		E269F30823FC40A200C35B6E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIJSONListTutorial/Preview Content\"";
 				DEVELOPMENT_TEAM = Z5DP89AMR6;
-				INFOPLIST_FILE = IOS12SendEmailTutorial/Info.plist;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = SwiftUIJSONListTutorial/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.ioscreator.IOS12SendEmailTutorial;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ioscreator.SwiftUIJSONListTutorial;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -317,25 +323,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E2539440215BEAC5008BB8BA /* Build configuration list for PBXProject "IOS12SendEmailTutorial" */ = {
+		E269F2ED23FC409D00C35B6E /* Build configuration list for PBXProject "SwiftUIJSONListTutorial" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E2539455215BEAC9008BB8BA /* Debug */,
-				E2539456215BEAC9008BB8BA /* Release */,
+				E269F30423FC40A200C35B6E /* Debug */,
+				E269F30523FC40A200C35B6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E2539457215BEAC9008BB8BA /* Build configuration list for PBXNativeTarget "IOS12SendEmailTutorial" */ = {
+		E269F30623FC40A200C35B6E /* Build configuration list for PBXNativeTarget "SwiftUIJSONListTutorial" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E2539458215BEAC9008BB8BA /* Debug */,
-				E2539459215BEAC9008BB8BA /* Release */,
+				E269F30723FC40A200C35B6E /* Debug */,
+				E269F30823FC40A200C35B6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E253943D215BEAC5008BB8BA /* Project object */;
+	rootObject = E269F2EA23FC409D00C35B6E /* Project object */;
 }
