@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 02-18-2020
+  This README last updated: 03-22-2020
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,7 @@ INDEX
 ### iOS13
 
 
+- [SwiftUIDeleteMultipleRowsListTutorial](https://ioscreator.com/tutorials/swiftui-delete-multiple-rows-list-tutorial)  
 - [SwiftUIJSONListTutorial](https://ioscreator.com/tutorials/swiftui-json-list-tutorial)  
 - [IOSSendMailTutorial](https://ioscreator.com/tutorials/send-mail-ios-tutorial)         
 - [IOSDrawCirclesTutorial](https://ioscreator.com/tutorials/draw-circles-ios-tutorial)         
