@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 04-18-2020
+  This README last updated: 06-14-2020
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,7 @@ INDEX
 ### iOS13
 
 
+- [SwiftUILocalNotificationTutorial](https://ioscreator.com/tutorials/swiftui-local-notification-tutorial)    
 - [SwiftUICustomShapeTutorial](https://ioscreator.com/tutorials/swiftui-custom-shape-tutorial)    
 - [SwiftUIDeleteMultipleRowsListTutorial](https://ioscreator.com/tutorials/swiftui-delete-multiple-rows-list-tutorial)  
 - [SwiftUIJSONListTutorial](https://ioscreator.com/tutorials/swiftui-json-list-tutorial)  
