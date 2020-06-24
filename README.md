@@ -8,11 +8,17 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 06-14-2020
+  This README last updated: 06-24-2020
 ===========================================================================================================
 
 INDEX
 ===========================================================================================================
+
+### iOS14
+
+
+- [SwiftUITextEditorTutorial](https://ioscreator.com/tutorials/swiftui-texteditor-tutorial)    
+
 
 ### iOS13
 
