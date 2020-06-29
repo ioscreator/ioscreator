@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 06-24-2020
+  This README last updated: 06-29-2020
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,7 @@ INDEX
 ### iOS14
 
 
+- [SwiftUIProgressViewTutorial](https://ioscreator.com/tutorials/swiftui-progress-view-tutorial)    
 - [SwiftUITextEditorTutorial](https://ioscreator.com/tutorials/swiftui-texteditor-tutorial)    
 
 
