@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 07-01-2020
+  This README last updated: 07-05-2020
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,7 @@ INDEX
 ### iOS14
 
 
+- [SwiftUILazyGridTutorial](https://ioscreator.com/tutorials/swiftui-lazy-grid-tutorial)    
 - [SwiftUIToolbarTutorial](https://ioscreator.com/tutorials/swiftui-toolbar-tutorial)    
 - [SwiftUILinkTutorial](https://ioscreator.com/tutorials/swiftui-link-tutorial)    
 - [SwiftUIProgressViewTutorial](https://ioscreator.com/tutorials/swiftui-progress-view-tutorial)    
