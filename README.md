@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 08-03-2020
+  This README last updated: 09-15-2020
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,7 @@ INDEX
 ### iOS14
 
 
+- [SwiftUICustomViewModifierTutorial](https://ioscreator.com/tutorials/swiftui-custom-view-modifier-tutorial)    
 - [SwiftUIPlaceholderTutorial](https://ioscreator.com/tutorials/swiftui-placeholder-tutorial)    
 - [SwiftUILazyGridTutorial](https://ioscreator.com/tutorials/swiftui-lazy-grid-tutorial)    
 - [SwiftUIToolbarTutorial](https://ioscreator.com/tutorials/swiftui-toolbar-tutorial)    
