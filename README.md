@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 10-19-2020
+  This README last updated: 10-26-2020
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,7 @@ INDEX
 ### iOS14
 
 
+- [SwiftUIVideoPlayerTutorial](https://ioscreator.com/tutorials/swiftui-video-player-tutorial)    
 - [SwiftUIPinnedViewsTutorial](https://ioscreator.com/tutorials/swiftui-pinned-views-tutorial)    
 - [SwiftUICustomViewModifierTutorial](https://ioscreator.com/tutorials/swiftui-custom-view-modifier-tutorial)    
 - [SwiftUIPlaceholderTutorial](https://ioscreator.com/tutorials/swiftui-placeholder-tutorial)    
