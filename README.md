@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 10-26-2020
+  This README last updated: 10-27-2020
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,7 @@ INDEX
 ### iOS14
 
 
+- [SwiftUIMapKitTutorial](https://ioscreator.com/tutorials/swiftui-mapkit-tutorial)     
 - [SwiftUIVideoPlayerTutorial](https://ioscreator.com/tutorials/swiftui-video-player-tutorial)    
 - [SwiftUIPinnedViewsTutorial](https://ioscreator.com/tutorials/swiftui-pinned-views-tutorial)    
 - [SwiftUICustomViewModifierTutorial](https://ioscreator.com/tutorials/swiftui-custom-view-modifier-tutorial)    
@@ -59,7 +60,6 @@ INDEX
 - [SwiftUIOverlayViewsTutorial](https://ioscreator.com/tutorials/swiftui-overlay-views-tutorial)     
 - [SwiftUIHeaderFooterListTutorial](https://ioscreator.com/tutorials/swiftui-header-footer-list-tutorial)     
 - [SwiftUISpringAnimationTutorial](https://ioscreator.com/tutorials/swiftui-spring-animation-tutorial)     
-- [SwiftUIMapKitTutorial](https://ioscreator.com/tutorials/swiftui-mapkit-tutorial)     
 - [SwiftUIMoveRowsListTutorial](https://ioscreator.com/tutorials/move-rows-list-tutorial)     
 - [SwiftUICustomizeNavBarTutorial](https://ioscreator.com/tutorials/customize-navigation-bar-tutorial)     
 - [SwiftUIRotateGestureTutorial](https://ioscreator.com/tutorials/swiftui-rotation-gesture-tutorial)     
