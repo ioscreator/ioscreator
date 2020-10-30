@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 10-27-2020
+  This README last updated: 11-01-2020
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,7 @@ INDEX
 ### iOS14
 
 
+- [SwiftUISimultaneousGesturesTutorial](https://ioscreator.com/tutorials/swiftui-simultaneous-gestures-tutorial)     
 - [SwiftUIMapKitTutorial](https://ioscreator.com/tutorials/swiftui-mapkit-tutorial)     
 - [SwiftUIVideoPlayerTutorial](https://ioscreator.com/tutorials/swiftui-video-player-tutorial)    
 - [SwiftUIPinnedViewsTutorial](https://ioscreator.com/tutorials/swiftui-pinned-views-tutorial)    
