@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 11-16-2020
+  This README last updated: 11-18-2020
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,7 @@ INDEX
 ### iOS14
 
 
+- [SwiftUIMapAnnotationTutorial](https://ioscreator.com/tutorials/swiftui-map-annotation-tutorial)     
 - [SwiftUIColorPickerTutorial](https://ioscreator.com/tutorials/swiftui-color-picker-tutorial)     
 - [SwiftUIGroupBoxTutorial](https://ioscreator.com/tutorials/swiftui-groupbox-tutorial)     
 - [SwiftUISimultaneousGesturesTutorial](https://ioscreator.com/tutorials/swiftui-simultaneous-gestures-tutorial)     
