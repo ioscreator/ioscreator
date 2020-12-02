@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 12-01-2020
+  This README last updated: 12-02-2020
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,7 @@ INDEX
 ### iOS14
 
 
+- [SwiftUIMapTypeTutorial](https://ioscreator.com/tutorials/swiftui-map-type-tutorial)     
 - [SwiftUIScaleEffectTutorial](https://ioscreator.com/tutorials/swiftui-scale-effect-tutorial)     
 - [SwiftUIDisclosureGroupTutorial](https://ioscreator.com/tutorials/swiftui-disclosure-group-tutorial)     
 - [SwiftUIMapAnnotationTutorial](https://ioscreator.com/tutorials/swiftui-map-annotation-tutorial)     
