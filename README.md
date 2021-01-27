@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 01-12-2021
+  This README last updated: 01-27-2021
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,7 @@ INDEX
 ### iOS14
 
 
+- [SwiftUIRotationAnchorPointTutorial](https://ioscreator.com/tutorials/swiftui-rotation-anchor-point-tutorial)     
 - [SwiftUIPopoverTutorial](https://ioscreator.com/tutorials/swiftui-popover-tutorial)     
 - [SwiftUIMapTypeTutorial](https://ioscreator.com/tutorials/swiftui-map-type-tutorial)     
 - [SwiftUIScaleEffectTutorial](https://ioscreator.com/tutorials/swiftui-scale-effect-tutorial)     
