@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 06-10-2021
+  This README last updated: 07-04-2021
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,8 @@ INDEX
 ### iOS15
 
 
+- [SwiftUICustomSwipeActionsTutorial](https://ioscreator.com/tutorials/swiftui-custom-swipe-actions-tutorial)       
+- [SwiftUISearchBarTutorial](https://ioscreator.com/tutorials/swiftui-search-bar-tutorial)       
 - [SwiftUIPullToRefreshTutorial](https://ioscreator.com/tutorials/swiftui-pull-to-refresh-tutorial)       
 
 ### iOS14
