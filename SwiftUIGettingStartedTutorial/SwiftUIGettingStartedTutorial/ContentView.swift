@@ -2,24 +2,20 @@
 //  ContentView.swift
 //  SwiftUIGettingStartedTutorial
 //
-//  Created by Arthur Knopper on 12/06/2019.
-//  Copyright © 2019 Arthur Knopper. All rights reserved.
+//  Created by Arthur Knopper on 06/09/2021.
 //
 
 import SwiftUI
 
-struct ContentView : View {
+struct ContentView: View {
     var body: some View {
-        Text("Hello ioscreator")
+        Text("Hello, ioscreator")
             .font(.largeTitle)
-            .foregroundColor(.red)
     }
 }
 
-#if DEBUG
-struct ContentView_Previews : PreviewProvider {
+struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
     }
 }
-#endif
