@@ -8,7 +8,7 @@ CODE EXAMPLES REPOSITORY
 
   See https://ioscreator.com for a detailed description 
 
-  This README last updated: 09-12-2021
+  This README last updated: 09-14-2021
 ===========================================================================================================
 
 INDEX
@@ -17,6 +17,7 @@ INDEX
 ### iOS15
 
 
+- [SwiftUIStackViewTutorial](https://ioscreator.com/tutorials/swiftui-stack-view-tutorial)             
 - [SwiftUIGettingStartedTutorial](https://ioscreator.com/tutorials/swiftui-getting-started-tutorial)             
 - [SwiftUIPreviewOrientationTutorial](https://ioscreator.com/tutorials/swiftui-preview-orientation-tutorial)         
 - [SwiftUICustomSwipeActionsTutorial](https://ioscreator.com/tutorials/swiftui-custom-swipe-actions-tutorial)       
